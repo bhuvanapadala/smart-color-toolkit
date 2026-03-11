@@ -1,0 +1,10096 @@
+[
+ {
+  "name":"Red",
+  "hex":"#FF0000",
+  "r":255,
+  "g":0,
+  "b":0
+ },
+ {
+  "name":"Blue",
+  "hex":"#0000FF",
+  "r":0,
+  "g":0,
+  "b":255
+ },
+ {
+  "name":"Green",
+  "hex":"#00FF00",
+  "r":0,
+  "g":255,
+  "b":0
+ },
+ {
+  "name": "Absolute zero",
+  "hex": "#0048BA",
+  "r": 0,
+  "g": 72,
+  "b": 186
+ },
+ {
+  "name": "Acid green",
+  "hex": "#B0BF1A",
+  "r": 176,
+  "g": 191,
+  "b": 26
+ },
+ {
+  "name": "Aero",
+  "hex": "#7CB9E8",
+  "r": 124,
+  "g": 185,
+  "b": 232
+ },
+ {
+  "name": "Aero blue",
+  "hex": "#C9FFE5",
+  "r": 201,
+  "g": 255,
+  "b": 229
+ },
+ {
+  "name": "African violet",
+  "hex": "#B284BE",
+  "r": 178,
+  "g": 132,
+  "b": 190
+ },
+ {
+  "name": "Air Force blue (RAF)",
+  "hex": "#5D8AA8",
+  "r": 93,
+  "g": 138,
+  "b": 168
+ },
+ {
+  "name": "Air Force blue (USAF)",
+  "hex": "#00308F",
+  "r": 0,
+  "g": 48,
+  "b": 143
+ },
+ {
+  "name": "Air superiority blue",
+  "hex": "#72A0C1",
+  "r": 114,
+  "g": 160,
+  "b": 193
+ },
+ {
+  "name": "Alabama crimson",
+  "hex": "#AF002A",
+  "r": 175,
+  "g": 0,
+  "b": 42
+ },
+ {
+  "name": "Alabaster",
+  "hex": "#F2F0E6",
+  "r": 242,
+  "g": 240,
+  "b": 230
+ },
+ {
+  "name": "Alice blue",
+  "hex": "#F0F8FF",
+  "r": 240,
+  "g": 248,
+  "b": 255
+ },
+ {
+  "name": "Alien Armpit",
+  "hex": "#84DE02",
+  "r": 132,
+  "g": 222,
+  "b": 2
+ },
+ {
+  "name": "Alizarin crimson",
+  "hex": "#E32636",
+  "r": 227,
+  "g": 38,
+  "b": 54
+ },
+ {
+  "name": "Alloy orange",
+  "hex": "#C46210",
+  "r": 196,
+  "g": 98,
+  "b": 16
+ },
+ {
+  "name": "Almond",
+  "hex": "#EFDECD",
+  "r": 239,
+  "g": 222,
+  "b": 205
+ },
+ {
+  "name": "Amaranth",
+  "hex": "#E52B50",
+  "r": 229,
+  "g": 43,
+  "b": 80
+ },
+ {
+  "name": "Amaranth deep purple",
+  "hex": "#9F2B68",
+  "r": 159,
+  "g": 43,
+  "b": 104
+ },
+ {
+  "name": "Amaranth pink",
+  "hex": "#F19CBB",
+  "r": 241,
+  "g": 156,
+  "b": 187
+ },
+ {
+  "name": "Amaranth purple",
+  "hex": "#AB274F",
+  "r": 171,
+  "g": 39,
+  "b": 79
+ },
+ {
+  "name": "Amaranth red",
+  "hex": "#D3212D",
+  "r": 211,
+  "g": 33,
+  "b": 45
+ },
+ {
+  "name": "Amazon",
+  "hex": "#3B7A57",
+  "r": 59,
+  "g": 122,
+  "b": 87
+ },
+ {
+  "name": "Amazonite",
+  "hex": "#00C4B0",
+  "r": 0,
+  "g": 196,
+  "b": 176
+ },
+ {
+  "name": "Amber",
+  "hex": "#FFBF00",
+  "r": 255,
+  "g": 191,
+  "b": 0
+ },
+ {
+  "name": "Amber (SAE\/ECE)",
+  "hex": "#FF7E00",
+  "r": 255,
+  "g": 126,
+  "b": 0
+ },
+ {
+  "name": "American rose",
+  "hex": "#FF033E",
+  "r": 255,
+  "g": 3,
+  "b": 62
+ },
+ {
+  "name": "Amethyst",
+  "hex": "#9966CC",
+  "r": 153,
+  "g": 102,
+  "b": 204
+ },
+ {
+  "name": "Android green",
+  "hex": "#A4C639",
+  "r": 164,
+  "g": 198,
+  "b": 57
+ },
+ {
+  "name": "Anti-flash white",
+  "hex": "#F2F3F4",
+  "r": 242,
+  "g": 243,
+  "b": 244
+ },
+ {
+  "name": "Antique brass",
+  "hex": "#CD9575",
+  "r": 205,
+  "g": 149,
+  "b": 117
+ },
+ {
+  "name": "Antique bronze",
+  "hex": "#665D1E",
+  "r": 102,
+  "g": 93,
+  "b": 30
+ },
+ {
+  "name": "Antique fuchsia",
+  "hex": "#915C83",
+  "r": 145,
+  "g": 92,
+  "b": 131
+ },
+ {
+  "name": "Antique ruby",
+  "hex": "#841B2D",
+  "r": 132,
+  "g": 27,
+  "b": 45
+ },
+ {
+  "name": "Antique white",
+  "hex": "#FAEBD7",
+  "r": 250,
+  "g": 235,
+  "b": 215
+ },
+ {
+  "name": "Ao (English)",
+  "hex": "#008000",
+  "r": 0,
+  "g": 128,
+  "b": 0
+ },
+ {
+  "name": "Apple green",
+  "hex": "#8DB600",
+  "r": 141,
+  "g": 182,
+  "b": 0
+ },
+ {
+  "name": "Apricot",
+  "hex": "#FBCEB1",
+  "r": 251,
+  "g": 206,
+  "b": 177
+ },
+ {
+  "name": "Aqua",
+  "hex": "#00FFFF",
+  "r": 0,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "Aquamarine",
+  "hex": "#7FFFD4",
+  "r": 127,
+  "g": 255,
+  "b": 212
+ },
+ {
+  "name": "Arctic lime",
+  "hex": "#D0FF14",
+  "r": 208,
+  "g": 255,
+  "b": 20
+ },
+ {
+  "name": "Army green",
+  "hex": "#4B5320",
+  "r": 75,
+  "g": 83,
+  "b": 32
+ },
+ {
+  "name": "Arsenic",
+  "hex": "#3B444B",
+  "r": 59,
+  "g": 68,
+  "b": 75
+ },
+ {
+  "name": "Artichoke",
+  "hex": "#8F9779",
+  "r": 143,
+  "g": 151,
+  "b": 121
+ },
+ {
+  "name": "Arylide yellow",
+  "hex": "#E9D66B",
+  "r": 233,
+  "g": 214,
+  "b": 107
+ },
+ {
+  "name": "Ash grey",
+  "hex": "#B2BEB5",
+  "r": 178,
+  "g": 190,
+  "b": 181
+ },
+ {
+  "name": "Asparagus",
+  "hex": "#87A96B",
+  "r": 135,
+  "g": 169,
+  "b": 107
+ },
+ {
+  "name": "Atomic tangerine",
+  "hex": "#FF9966",
+  "r": 255,
+  "g": 153,
+  "b": 102
+ },
+ {
+  "name": "Auburn",
+  "hex": "#A52A2A",
+  "r": 165,
+  "g": 42,
+  "b": 42
+ },
+ {
+  "name": "Aureolin",
+  "hex": "#FDEE00",
+  "r": 253,
+  "g": 238,
+  "b": 0
+ },
+ {
+  "name": "AuroMetalSaurus",
+  "hex": "#6E7F80",
+  "r": 110,
+  "g": 127,
+  "b": 128
+ },
+ {
+  "name": "Avocado",
+  "hex": "#568203",
+  "r": 86,
+  "g": 130,
+  "b": 3
+ },
+ {
+  "name": "Awesome",
+  "hex": "#FF2052",
+  "r": 255,
+  "g": 32,
+  "b": 82
+ },
+ {
+  "name": "Aztec Gold",
+  "hex": "#C39953",
+  "r": 195,
+  "g": 153,
+  "b": 83
+ },
+ {
+  "name": "Azure",
+  "hex": "#007FFF",
+  "r": 0,
+  "g": 127,
+  "b": 255
+ },
+ {
+  "name": "Azure (web color)",
+  "hex": "#F0FFFF",
+  "r": 240,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "Azure mist",
+  "hex": "#F0FFFF",
+  "r": 240,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "Azureish white",
+  "hex": "#DBE9F4",
+  "r": 219,
+  "g": 233,
+  "b": 244
+ },
+ {
+  "name": "Baby blue",
+  "hex": "#89CFF0",
+  "r": 137,
+  "g": 207,
+  "b": 240
+ },
+ {
+  "name": "Baby blue eyes",
+  "hex": "#A1CAF1",
+  "r": 161,
+  "g": 202,
+  "b": 241
+ },
+ {
+  "name": "Baby pink",
+  "hex": "#F4C2C2",
+  "r": 244,
+  "g": 194,
+  "b": 194
+ },
+ {
+  "name": "Baby powder",
+  "hex": "#FEFEFA",
+  "r": 254,
+  "g": 254,
+  "b": 250
+ },
+ {
+  "name": "Baker-Miller pink",
+  "hex": "#FF91AF",
+  "r": 255,
+  "g": 145,
+  "b": 175
+ },
+ {
+  "name": "Ball blue",
+  "hex": "#21ABCD",
+  "r": 33,
+  "g": 171,
+  "b": 205
+ },
+ {
+  "name": "Banana Mania",
+  "hex": "#FAE7B5",
+  "r": 250,
+  "g": 231,
+  "b": 181
+ },
+ {
+  "name": "Banana yellow",
+  "hex": "#FFE135",
+  "r": 255,
+  "g": 225,
+  "b": 53
+ },
+ {
+  "name": "Bangladesh green",
+  "hex": "#006A4E",
+  "r": 0,
+  "g": 106,
+  "b": 78
+ },
+ {
+  "name": "Barbie pink",
+  "hex": "#E0218A",
+  "r": 224,
+  "g": 33,
+  "b": 138
+ },
+ {
+  "name": "Barn red",
+  "hex": "#7C0A02",
+  "r": 124,
+  "g": 10,
+  "b": 2
+ },
+ {
+  "name": "Battery Charged Blue",
+  "hex": "#1DACD6",
+  "r": 29,
+  "g": 172,
+  "b": 214
+ },
+ {
+  "name": "Battleship grey",
+  "hex": "#848482",
+  "r": 132,
+  "g": 132,
+  "b": 130
+ },
+ {
+  "name": "Bazaar",
+  "hex": "#98777B",
+  "r": 152,
+  "g": 119,
+  "b": 123
+ },
+ {
+  "name": "Beau blue",
+  "hex": "#BCD4E6",
+  "r": 188,
+  "g": 212,
+  "b": 230
+ },
+ {
+  "name": "Beaver",
+  "hex": "#9F8170",
+  "r": 159,
+  "g": 129,
+  "b": 112
+ },
+ {
+  "name": "Begonia",
+  "hex": "#FA6E79",
+  "r": 250,
+  "g": 110,
+  "b": 121
+ },
+ {
+  "name": "Beige",
+  "hex": "#F5F5DC",
+  "r": 245,
+  "g": 245,
+  "b": 220
+ },
+ {
+  "name": "B'dazzled blue",
+  "hex": "#2E5894",
+  "r": 46,
+  "g": 88,
+  "b": 148
+ },
+ {
+  "name": "Big dip oâ€™ruby",
+  "hex": "#9C2542",
+  "r": 156,
+  "g": 37,
+  "b": 66
+ },
+ {
+  "name": "Big Foot Feet",
+  "hex": "#E88E5A",
+  "r": 232,
+  "g": 142,
+  "b": 90
+ },
+ {
+  "name": "Bisque",
+  "hex": "#FFE4C4",
+  "r": 255,
+  "g": 228,
+  "b": 196
+ },
+ {
+  "name": "Bistre",
+  "hex": "#3D2B1F",
+  "r": 61,
+  "g": 43,
+  "b": 31
+ },
+ {
+  "name": "Bistre brown",
+  "hex": "#967117",
+  "r": 150,
+  "g": 113,
+  "b": 23
+ },
+ {
+  "name": "Bitter lemon",
+  "hex": "#CAE00D",
+  "r": 202,
+  "g": 224,
+  "b": 13
+ },
+ {
+  "name": "Bitter lime",
+  "hex": "#BFFF00",
+  "r": 191,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Bittersweet",
+  "hex": "#FE6F5E",
+  "r": 254,
+  "g": 111,
+  "b": 94
+ },
+ {
+  "name": "Bittersweet shimmer",
+  "hex": "#BF4F51",
+  "r": 191,
+  "g": 79,
+  "b": 81
+ },
+ {
+  "name": "Black",
+  "hex": "#000000",
+  "r": 0,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Black bean",
+  "hex": "#3D0C02",
+  "r": 61,
+  "g": 12,
+  "b": 2
+ },
+ {
+  "name": "Black Coral",
+  "hex": "#54626F",
+  "r": 84,
+  "g": 98,
+  "b": 111
+ },
+ {
+  "name": "Black leather jacket",
+  "hex": "#253529",
+  "r": 37,
+  "g": 53,
+  "b": 41
+ },
+ {
+  "name": "Black olive",
+  "hex": "#3B3C36",
+  "r": 59,
+  "g": 60,
+  "b": 54
+ },
+ {
+  "name": "Black Shadows",
+  "hex": "#BFAFB2",
+  "r": 191,
+  "g": 175,
+  "b": 178
+ },
+ {
+  "name": "Blanched almond",
+  "hex": "#FFEBCD",
+  "r": 255,
+  "g": 235,
+  "b": 205
+ },
+ {
+  "name": "Blast-off bronze",
+  "hex": "#A57164",
+  "r": 165,
+  "g": 113,
+  "b": 100
+ },
+ {
+  "name": "Bleu de France",
+  "hex": "#318CE7",
+  "r": 49,
+  "g": 140,
+  "b": 231
+ },
+ {
+  "name": "Blizzard Blue",
+  "hex": "#ACE5EE",
+  "r": 172,
+  "g": 229,
+  "b": 238
+ },
+ {
+  "name": "Blond",
+  "hex": "#FAF0BE",
+  "r": 250,
+  "g": 240,
+  "b": 190
+ },
+ {
+  "name": "Blue",
+  "hex": "#0000FF",
+  "r": 0,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Blue (Crayola)",
+  "hex": "#1F75FE",
+  "r": 31,
+  "g": 117,
+  "b": 254
+ },
+ {
+  "name": "Blue (Munsell)",
+  "hex": "#0093AF",
+  "r": 0,
+  "g": 147,
+  "b": 175
+ },
+ {
+  "name": "Blue (NCS)",
+  "hex": "#0087BD",
+  "r": 0,
+  "g": 135,
+  "b": 189
+ },
+ {
+  "name": "Blue (Pantone)",
+  "hex": "#0018A8",
+  "r": 0,
+  "g": 24,
+  "b": 168
+ },
+ {
+  "name": "Blue (pigment)",
+  "hex": "#333399",
+  "r": 51,
+  "g": 51,
+  "b": 153
+ },
+ {
+  "name": "Blue (RYB)",
+  "hex": "#0247FE",
+  "r": 2,
+  "g": 71,
+  "b": 254
+ },
+ {
+  "name": "Blue Bell",
+  "hex": "#A2A2D0",
+  "r": 162,
+  "g": 162,
+  "b": 208
+ },
+ {
+  "name": "Blue Bolt",
+  "hex": "#00B9FB",
+  "r": 0,
+  "g": 185,
+  "b": 251
+ },
+ {
+  "name": "Blue-gray",
+  "hex": "#6699CC",
+  "r": 102,
+  "g": 153,
+  "b": 204
+ },
+ {
+  "name": "Blue-green",
+  "hex": "#0D98BA",
+  "r": 13,
+  "g": 152,
+  "b": 186
+ },
+ {
+  "name": "Blue Jeans",
+  "hex": "#5DADEC",
+  "r": 93,
+  "g": 173,
+  "b": 236
+ },
+ {
+  "name": "Blue Lagoon",
+  "hex": "#ACE5EE",
+  "r": 172,
+  "g": 229,
+  "b": 238
+ },
+ {
+  "name": "Blue-magenta violet",
+  "hex": "#553592",
+  "r": 85,
+  "g": 53,
+  "b": 146
+ },
+ {
+  "name": "Blue sapphire",
+  "hex": "#126180",
+  "r": 18,
+  "g": 97,
+  "b": 128
+ },
+ {
+  "name": "Blue-violet",
+  "hex": "#8A2BE2",
+  "r": 138,
+  "g": 43,
+  "b": 226
+ },
+ {
+  "name": "Blue yonder",
+  "hex": "#5072A7",
+  "r": 80,
+  "g": 114,
+  "b": 167
+ },
+ {
+  "name": "Blueberry",
+  "hex": "#4F86F7",
+  "r": 79,
+  "g": 134,
+  "b": 247
+ },
+ {
+  "name": "Bluebonnet",
+  "hex": "#1C1CF0",
+  "r": 28,
+  "g": 28,
+  "b": 240
+ },
+ {
+  "name": "Blush",
+  "hex": "#DE5D83",
+  "r": 222,
+  "g": 93,
+  "b": 131
+ },
+ {
+  "name": "Bole",
+  "hex": "#79443B",
+  "r": 121,
+  "g": 68,
+  "b": 59
+ },
+ {
+  "name": "Bondi blue",
+  "hex": "#0095B6",
+  "r": 0,
+  "g": 149,
+  "b": 182
+ },
+ {
+  "name": "Bone",
+  "hex": "#E3DAC9",
+  "r": 227,
+  "g": 218,
+  "b": 201
+ },
+ {
+  "name": "Booger Buster",
+  "hex": "#DDE26A",
+  "r": 221,
+  "g": 226,
+  "b": 106
+ },
+ {
+  "name": "Boston University Red",
+  "hex": "#CC0000",
+  "r": 204,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Bottle green",
+  "hex": "#006A4E",
+  "r": 0,
+  "g": 106,
+  "b": 78
+ },
+ {
+  "name": "Boysenberry",
+  "hex": "#873260",
+  "r": 135,
+  "g": 50,
+  "b": 96
+ },
+ {
+  "name": "Brandeis blue",
+  "hex": "#0070FF",
+  "r": 0,
+  "g": 112,
+  "b": 255
+ },
+ {
+  "name": "Brass",
+  "hex": "#B5A642",
+  "r": 181,
+  "g": 166,
+  "b": 66
+ },
+ {
+  "name": "Brick red",
+  "hex": "#CB4154",
+  "r": 203,
+  "g": 65,
+  "b": 84
+ },
+ {
+  "name": "Bright cerulean",
+  "hex": "#1DACD6",
+  "r": 29,
+  "g": 172,
+  "b": 214
+ },
+ {
+  "name": "Bright green",
+  "hex": "#66FF00",
+  "r": 102,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Bright lavender",
+  "hex": "#BF94E4",
+  "r": 191,
+  "g": 148,
+  "b": 228
+ },
+ {
+  "name": "Bright lilac",
+  "hex": "#D891EF",
+  "r": 216,
+  "g": 145,
+  "b": 239
+ },
+ {
+  "name": "Bright maroon",
+  "hex": "#C32148",
+  "r": 195,
+  "g": 33,
+  "b": 72
+ },
+ {
+  "name": "Bright navy blue",
+  "hex": "#1974D2",
+  "r": 25,
+  "g": 116,
+  "b": 210
+ },
+ {
+  "name": "Bright pink",
+  "hex": "#FF007F",
+  "r": 255,
+  "g": 0,
+  "b": 127
+ },
+ {
+  "name": "Bright turquoise",
+  "hex": "#08E8DE",
+  "r": 8,
+  "g": 232,
+  "b": 222
+ },
+ {
+  "name": "Bright ube",
+  "hex": "#D19FE8",
+  "r": 209,
+  "g": 159,
+  "b": 232
+ },
+ {
+  "name": "Bright Yellow (Crayola)",
+  "hex": "#FFAA1D",
+  "r": 255,
+  "g": 170,
+  "b": 29
+ },
+ {
+  "name": "Brilliant azure",
+  "hex": "#3399FF",
+  "r": 51,
+  "g": 153,
+  "b": 255
+ },
+ {
+  "name": "Brilliant lavender",
+  "hex": "#F4BBFF",
+  "r": 244,
+  "g": 187,
+  "b": 255
+ },
+ {
+  "name": "Brilliant rose",
+  "hex": "#FF55A3",
+  "r": 255,
+  "g": 85,
+  "b": 163
+ },
+ {
+  "name": "Brink pink",
+  "hex": "#FB607F",
+  "r": 251,
+  "g": 96,
+  "b": 127
+ },
+ {
+  "name": "British racing green",
+  "hex": "#004225",
+  "r": 0,
+  "g": 66,
+  "b": 37
+ },
+ {
+  "name": "Bronze",
+  "hex": "#CD7F32",
+  "r": 205,
+  "g": 127,
+  "b": 50
+ },
+ {
+  "name": "Bronze Yellow",
+  "hex": "#737000",
+  "r": 115,
+  "g": 112,
+  "b": 0
+ },
+ {
+  "name": "Brown (traditional)",
+  "hex": "#964B00",
+  "r": 150,
+  "g": 75,
+  "b": 0
+ },
+ {
+  "name": "Brown (web)",
+  "hex": "#A52A2A",
+  "r": 165,
+  "g": 42,
+  "b": 42
+ },
+ {
+  "name": "Brown-nose",
+  "hex": "#6B4423",
+  "r": 107,
+  "g": 68,
+  "b": 35
+ },
+ {
+  "name": "Brown Sugar",
+  "hex": "#AF6E4D",
+  "r": 175,
+  "g": 110,
+  "b": 77
+ },
+ {
+  "name": "Brown Yellow",
+  "hex": "#cc9966",
+  "r": 204,
+  "g": 153,
+  "b": 102
+ },
+ {
+  "name": "Brunswick green",
+  "hex": "#1B4D3E",
+  "r": 27,
+  "g": 77,
+  "b": 62
+ },
+ {
+  "name": "Bubble gum",
+  "hex": "#FFC1CC",
+  "r": 255,
+  "g": 193,
+  "b": 204
+ },
+ {
+  "name": "Bubbles",
+  "hex": "#E7FEFF",
+  "r": 231,
+  "g": 254,
+  "b": 255
+ },
+ {
+  "name": "Bud green",
+  "hex": "#7BB661",
+  "r": 123,
+  "g": 182,
+  "b": 97
+ },
+ {
+  "name": "Buff",
+  "hex": "#F0DC82",
+  "r": 240,
+  "g": 220,
+  "b": 130
+ },
+ {
+  "name": "Bulgarian rose",
+  "hex": "#480607",
+  "r": 72,
+  "g": 6,
+  "b": 7
+ },
+ {
+  "name": "Burgundy",
+  "hex": "#800020",
+  "r": 128,
+  "g": 0,
+  "b": 32
+ },
+ {
+  "name": "Burlywood",
+  "hex": "#DEB887",
+  "r": 222,
+  "g": 184,
+  "b": 135
+ },
+ {
+  "name": "Burnished Brown",
+  "hex": "#A17A74",
+  "r": 161,
+  "g": 122,
+  "b": 116
+ },
+ {
+  "name": "Burnt orange",
+  "hex": "#CC5500",
+  "r": 204,
+  "g": 85,
+  "b": 0
+ },
+ {
+  "name": "Burnt sienna",
+  "hex": "#E97451",
+  "r": 233,
+  "g": 116,
+  "b": 81
+ },
+ {
+  "name": "Burnt umber",
+  "hex": "#8A3324",
+  "r": 138,
+  "g": 51,
+  "b": 36
+ },
+ {
+  "name": "Byzantine",
+  "hex": "#BD33A4",
+  "r": 189,
+  "g": 51,
+  "b": 164
+ },
+ {
+  "name": "Byzantium",
+  "hex": "#702963",
+  "r": 112,
+  "g": 41,
+  "b": 99
+ },
+ {
+  "name": "Cadet",
+  "hex": "#536872",
+  "r": 83,
+  "g": 104,
+  "b": 114
+ },
+ {
+  "name": "Cadet blue",
+  "hex": "#5F9EA0",
+  "r": 95,
+  "g": 158,
+  "b": 160
+ },
+ {
+  "name": "Cadet grey",
+  "hex": "#91A3B0",
+  "r": 145,
+  "g": 163,
+  "b": 176
+ },
+ {
+  "name": "Cadmium green",
+  "hex": "#006B3C",
+  "r": 0,
+  "g": 107,
+  "b": 60
+ },
+ {
+  "name": "Cadmium orange",
+  "hex": "#ED872D",
+  "r": 237,
+  "g": 135,
+  "b": 45
+ },
+ {
+  "name": "Cadmium red",
+  "hex": "#E30022",
+  "r": 227,
+  "g": 0,
+  "b": 34
+ },
+ {
+  "name": "Cadmium yellow",
+  "hex": "#FFF600",
+  "r": 255,
+  "g": 246,
+  "b": 0
+ },
+ {
+  "name": "CafÃ© au lait",
+  "hex": "#A67B5B",
+  "r": 166,
+  "g": 123,
+  "b": 91
+ },
+ {
+  "name": "CafÃ© noir",
+  "hex": "#4B3621",
+  "r": 75,
+  "g": 54,
+  "b": 33
+ },
+ {
+  "name": "Cal Poly Pomona green",
+  "hex": "#1E4D2B",
+  "r": 30,
+  "g": 77,
+  "b": 43
+ },
+ {
+  "name": "Cambridge Blue",
+  "hex": "#A3C1AD",
+  "r": 163,
+  "g": 193,
+  "b": 173
+ },
+ {
+  "name": "Camel",
+  "hex": "#C19A6B",
+  "r": 193,
+  "g": 154,
+  "b": 107
+ },
+ {
+  "name": "Cameo pink",
+  "hex": "#EFBBCC",
+  "r": 239,
+  "g": 187,
+  "b": 204
+ },
+ {
+  "name": "Camouflage green",
+  "hex": "#78866B",
+  "r": 120,
+  "g": 134,
+  "b": 107
+ },
+ {
+  "name": "Canary",
+  "hex": "#FFFF99",
+  "r": 255,
+  "g": 255,
+  "b": 153
+ },
+ {
+  "name": "Canary yellow",
+  "hex": "#FFEF00",
+  "r": 255,
+  "g": 239,
+  "b": 0
+ },
+ {
+  "name": "Candy apple red",
+  "hex": "#FF0800",
+  "r": 255,
+  "g": 8,
+  "b": 0
+ },
+ {
+  "name": "Candy pink",
+  "hex": "#E4717A",
+  "r": 228,
+  "g": 113,
+  "b": 122
+ },
+ {
+  "name": "Capri",
+  "hex": "#00BFFF",
+  "r": 0,
+  "g": 191,
+  "b": 255
+ },
+ {
+  "name": "Caput mortuum",
+  "hex": "#592720",
+  "r": 89,
+  "g": 39,
+  "b": 32
+ },
+ {
+  "name": "Cardinal",
+  "hex": "#C41E3A",
+  "r": 196,
+  "g": 30,
+  "b": 58
+ },
+ {
+  "name": "Caribbean green",
+  "hex": "#00CC99",
+  "r": 0,
+  "g": 204,
+  "b": 153
+ },
+ {
+  "name": "Carmine",
+  "hex": "#960018",
+  "r": 150,
+  "g": 0,
+  "b": 24
+ },
+ {
+  "name": "Carmine (M&P)",
+  "hex": "#D70040",
+  "r": 215,
+  "g": 0,
+  "b": 64
+ },
+ {
+  "name": "Carmine pink",
+  "hex": "#EB4C42",
+  "r": 235,
+  "g": 76,
+  "b": 66
+ },
+ {
+  "name": "Carmine red",
+  "hex": "#FF0038",
+  "r": 255,
+  "g": 0,
+  "b": 56
+ },
+ {
+  "name": "Carnation pink",
+  "hex": "#FFA6C9",
+  "r": 255,
+  "g": 166,
+  "b": 201
+ },
+ {
+  "name": "Carnelian",
+  "hex": "#B31B1B",
+  "r": 179,
+  "g": 27,
+  "b": 27
+ },
+ {
+  "name": "Carolina blue",
+  "hex": "#56A0D3",
+  "r": 86,
+  "g": 160,
+  "b": 211
+ },
+ {
+  "name": "Carrot orange",
+  "hex": "#ED9121",
+  "r": 237,
+  "g": 145,
+  "b": 33
+ },
+ {
+  "name": "Castleton green",
+  "hex": "#00563F",
+  "r": 0,
+  "g": 86,
+  "b": 63
+ },
+ {
+  "name": "Catalina blue",
+  "hex": "#062A78",
+  "r": 6,
+  "g": 42,
+  "b": 120
+ },
+ {
+  "name": "Catawba",
+  "hex": "#703642",
+  "r": 112,
+  "g": 54,
+  "b": 66
+ },
+ {
+  "name": "Cedar Chest",
+  "hex": "#C95A49",
+  "r": 201,
+  "g": 90,
+  "b": 73
+ },
+ {
+  "name": "Ceil",
+  "hex": "#92A1CF",
+  "r": 146,
+  "g": 161,
+  "b": 207
+ },
+ {
+  "name": "Celadon",
+  "hex": "#ACE1AF",
+  "r": 172,
+  "g": 225,
+  "b": 175
+ },
+ {
+  "name": "Celadon blue",
+  "hex": "#007BA7",
+  "r": 0,
+  "g": 123,
+  "b": 167
+ },
+ {
+  "name": "Celadon green",
+  "hex": "#2F847C",
+  "r": 47,
+  "g": 132,
+  "b": 124
+ },
+ {
+  "name": "Celeste",
+  "hex": "#B2FFFF",
+  "r": 178,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "Celestial blue",
+  "hex": "#4997D0",
+  "r": 73,
+  "g": 151,
+  "b": 208
+ },
+ {
+  "name": "Cerise",
+  "hex": "#DE3163",
+  "r": 222,
+  "g": 49,
+  "b": 99
+ },
+ {
+  "name": "Cerise pink",
+  "hex": "#EC3B83",
+  "r": 236,
+  "g": 59,
+  "b": 131
+ },
+ {
+  "name": "Cerulean",
+  "hex": "#007BA7",
+  "r": 0,
+  "g": 123,
+  "b": 167
+ },
+ {
+  "name": "Cerulean blue",
+  "hex": "#2A52BE",
+  "r": 42,
+  "g": 82,
+  "b": 190
+ },
+ {
+  "name": "Cerulean frost",
+  "hex": "#6D9BC3",
+  "r": 109,
+  "g": 155,
+  "b": 195
+ },
+ {
+  "name": "CG Blue",
+  "hex": "#007AA5",
+  "r": 0,
+  "g": 122,
+  "b": 165
+ },
+ {
+  "name": "CG Red",
+  "hex": "#E03C31",
+  "r": 224,
+  "g": 60,
+  "b": 49
+ },
+ {
+  "name": "Chamoisee",
+  "hex": "#A0785A",
+  "r": 160,
+  "g": 120,
+  "b": 90
+ },
+ {
+  "name": "Champagne",
+  "hex": "#F7E7CE",
+  "r": 247,
+  "g": 231,
+  "b": 206
+ },
+ {
+  "name": "Champagne pink",
+  "hex": "#F1DDCF",
+  "r": 241,
+  "g": 221,
+  "b": 207
+ },
+ {
+  "name": "Charcoal",
+  "hex": "#36454F",
+  "r": 54,
+  "g": 69,
+  "b": 79
+ },
+ {
+  "name": "Charleston green",
+  "hex": "#232B2B",
+  "r": 35,
+  "g": 43,
+  "b": 43
+ },
+ {
+  "name": "Charm pink",
+  "hex": "#E68FAC",
+  "r": 230,
+  "g": 143,
+  "b": 172
+ },
+ {
+  "name": "Chartreuse (traditional)",
+  "hex": "#DFFF00",
+  "r": 223,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Chartreuse (web)",
+  "hex": "#7FFF00",
+  "r": 127,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Cherry",
+  "hex": "#DE3163",
+  "r": 222,
+  "g": 49,
+  "b": 99
+ },
+ {
+  "name": "Cherry blossom pink",
+  "hex": "#FFB7C5",
+  "r": 255,
+  "g": 183,
+  "b": 197
+ },
+ {
+  "name": "Chestnut",
+  "hex": "#954535",
+  "r": 149,
+  "g": 69,
+  "b": 53
+ },
+ {
+  "name": "China pink",
+  "hex": "#DE6FA1",
+  "r": 222,
+  "g": 111,
+  "b": 161
+ },
+ {
+  "name": "China rose",
+  "hex": "#A8516E",
+  "r": 168,
+  "g": 81,
+  "b": 110
+ },
+ {
+  "name": "Chinese red",
+  "hex": "#AA381E",
+  "r": 170,
+  "g": 56,
+  "b": 30
+ },
+ {
+  "name": "Chinese violet",
+  "hex": "#856088",
+  "r": 133,
+  "g": 96,
+  "b": 136
+ },
+ {
+  "name": "Chlorophyll green",
+  "hex": "#4AFF00",
+  "r": 74,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Chocolate (traditional)",
+  "hex": "#7B3F00",
+  "r": 123,
+  "g": 63,
+  "b": 0
+ },
+ {
+  "name": "Chocolate (web)",
+  "hex": "#D2691E",
+  "r": 210,
+  "g": 105,
+  "b": 30
+ },
+ {
+  "name": "Chrome yellow",
+  "hex": "#FFA700",
+  "r": 255,
+  "g": 167,
+  "b": 0
+ },
+ {
+  "name": "Cinereous",
+  "hex": "#98817B",
+  "r": 152,
+  "g": 129,
+  "b": 123
+ },
+ {
+  "name": "Cinnabar",
+  "hex": "#E34234",
+  "r": 227,
+  "g": 66,
+  "b": 52
+ },
+ {
+  "name": "Cinnamon[citation needed]",
+  "hex": "#D2691E",
+  "r": 210,
+  "g": 105,
+  "b": 30
+ },
+ {
+  "name": "Cinnamon Satin",
+  "hex": "#CD607E",
+  "r": 205,
+  "g": 96,
+  "b": 126
+ },
+ {
+  "name": "Citrine",
+  "hex": "#E4D00A",
+  "r": 228,
+  "g": 208,
+  "b": 10
+ },
+ {
+  "name": "Citron",
+  "hex": "#9FA91F",
+  "r": 158,
+  "g": 169,
+  "b": 31
+ },
+ {
+  "name": "Claret",
+  "hex": "#7F1734",
+  "r": 127,
+  "g": 23,
+  "b": 52
+ },
+ {
+  "name": "Classic rose",
+  "hex": "#FBCCE7",
+  "r": 251,
+  "g": 204,
+  "b": 231
+ },
+ {
+  "name": "Cobalt Blue",
+  "hex": "#0047AB",
+  "r": 0,
+  "g": 71,
+  "b": 171
+ },
+ {
+  "name": "Cocoa brown",
+  "hex": "#D2691E",
+  "r": 210,
+  "g": 105,
+  "b": 30
+ },
+ {
+  "name": "Coconut",
+  "hex": "#965A3E",
+  "r": 150,
+  "g": 90,
+  "b": 62
+ },
+ {
+  "name": "Coffee",
+  "hex": "#6F4E37",
+  "r": 111,
+  "g": 78,
+  "b": 55
+ },
+ {
+  "name": "Columbia Blue",
+  "hex": "#C4D8E2",
+  "r": 196,
+  "g": 216,
+  "b": 226
+ },
+ {
+  "name": "Congo pink",
+  "hex": "#F88379",
+  "r": 248,
+  "g": 131,
+  "b": 121
+ },
+ {
+  "name": "Cool Black",
+  "hex": "#002E63",
+  "r": 0,
+  "g": 46,
+  "b": 99
+ },
+ {
+  "name": "Cool grey",
+  "hex": "#8C92AC",
+  "r": 140,
+  "g": 146,
+  "b": 172
+ },
+ {
+  "name": "Copper",
+  "hex": "#B87333",
+  "r": 184,
+  "g": 115,
+  "b": 51
+ },
+ {
+  "name": "Copper (Crayola)",
+  "hex": "#DA8A67",
+  "r": 218,
+  "g": 138,
+  "b": 103
+ },
+ {
+  "name": "Copper penny",
+  "hex": "#AD6F69",
+  "r": 173,
+  "g": 111,
+  "b": 105
+ },
+ {
+  "name": "Copper red",
+  "hex": "#CB6D51",
+  "r": 203,
+  "g": 109,
+  "b": 81
+ },
+ {
+  "name": "Copper rose",
+  "hex": "#996666",
+  "r": 153,
+  "g": 102,
+  "b": 102
+ },
+ {
+  "name": "Coquelicot",
+  "hex": "#FF3800",
+  "r": 255,
+  "g": 56,
+  "b": 0
+ },
+ {
+  "name": "Coral",
+  "hex": "#FF7F50",
+  "r": 255,
+  "g": 127,
+  "b": 80
+ },
+ {
+  "name": "Coral pink",
+  "hex": "#F88379",
+  "r": 248,
+  "g": 131,
+  "b": 121
+ },
+ {
+  "name": "Coral red",
+  "hex": "#FF4040",
+  "r": 255,
+  "g": 64,
+  "b": 64
+ },
+ {
+  "name": "Coral Reef",
+  "hex": "#FD7C6E",
+  "r": 253,
+  "g": 124,
+  "b": 110
+ },
+ {
+  "name": "Cordovan",
+  "hex": "#893F45",
+  "r": 137,
+  "g": 63,
+  "b": 69
+ },
+ {
+  "name": "Corn",
+  "hex": "#FBEC5D",
+  "r": 251,
+  "g": 236,
+  "b": 93
+ },
+ {
+  "name": "Cornell Red",
+  "hex": "#B31B1B",
+  "r": 179,
+  "g": 27,
+  "b": 27
+ },
+ {
+  "name": "Cornflower blue",
+  "hex": "#6495ED",
+  "r": 100,
+  "g": 149,
+  "b": 237
+ },
+ {
+  "name": "Cornsilk",
+  "hex": "#FFF8DC",
+  "r": 255,
+  "g": 248,
+  "b": 220
+ },
+ {
+  "name": "Cosmic Cobalt",
+  "hex": "#2E2D88",
+  "r": 46,
+  "g": 45,
+  "b": 136
+ },
+ {
+  "name": "Cosmic latte",
+  "hex": "#FFF8E7",
+  "r": 255,
+  "g": 248,
+  "b": 231
+ },
+ {
+  "name": "Coyote brown",
+  "hex": "#81613C",
+  "r": 129,
+  "g": 97,
+  "b": 60
+ },
+ {
+  "name": "Cotton candy",
+  "hex": "#FFBCD9",
+  "r": 255,
+  "g": 188,
+  "b": 217
+ },
+ {
+  "name": "Cream",
+  "hex": "#FFFDD0",
+  "r": 255,
+  "g": 253,
+  "b": 208
+ },
+ {
+  "name": "Crimson",
+  "hex": "#DC143C",
+  "r": 220,
+  "g": 20,
+  "b": 60
+ },
+ {
+  "name": "Crimson glory",
+  "hex": "#BE0032",
+  "r": 190,
+  "g": 0,
+  "b": 50
+ },
+ {
+  "name": "Crimson red",
+  "hex": "#990000",
+  "r": 153,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Cultured",
+  "hex": "#F5F5F5",
+  "r": 245,
+  "g": 245,
+  "b": 245
+ },
+ {
+  "name": "Cyan",
+  "hex": "#00FFFF",
+  "r": 0,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "Cyan azure",
+  "hex": "#4E82B4",
+  "r": 78,
+  "g": 130,
+  "b": 180
+ },
+ {
+  "name": "Cyan-blue azure",
+  "hex": "#4682BF",
+  "r": 70,
+  "g": 130,
+  "b": 191
+ },
+ {
+  "name": "Cyan cobalt blue",
+  "hex": "#28589C",
+  "r": 40,
+  "g": 88,
+  "b": 156
+ },
+ {
+  "name": "Cyan cornflower blue",
+  "hex": "#188BC2",
+  "r": 24,
+  "g": 139,
+  "b": 194
+ },
+ {
+  "name": "Cyan (process)",
+  "hex": "#00B7EB",
+  "r": 0,
+  "g": 183,
+  "b": 235
+ },
+ {
+  "name": "Cyber grape",
+  "hex": "#58427C",
+  "r": 88,
+  "g": 66,
+  "b": 124
+ },
+ {
+  "name": "Cyber yellow",
+  "hex": "#FFD300",
+  "r": 255,
+  "g": 211,
+  "b": 0
+ },
+ {
+  "name": "Cyclamen",
+  "hex": "#F56FA1",
+  "r": 245,
+  "g": 111,
+  "b": 161
+ },
+ {
+  "name": "Daffodil",
+  "hex": "#FFFF31",
+  "r": 255,
+  "g": 255,
+  "b": 49
+ },
+ {
+  "name": "Dandelion",
+  "hex": "#F0E130",
+  "r": 240,
+  "g": 225,
+  "b": 48
+ },
+ {
+  "name": "Dark blue",
+  "hex": "#00008B",
+  "r": 0,
+  "g": 0,
+  "b": 139
+ },
+ {
+  "name": "Dark blue-gray",
+  "hex": "#666699",
+  "r": 102,
+  "g": 102,
+  "b": 153
+ },
+ {
+  "name": "Dark brown",
+  "hex": "#654321",
+  "r": 101,
+  "g": 67,
+  "b": 33
+ },
+ {
+  "name": "Dark brown-tangelo",
+  "hex": "#88654E",
+  "r": 136,
+  "g": 101,
+  "b": 78
+ },
+ {
+  "name": "Dark byzantium",
+  "hex": "#5D3954",
+  "r": 93,
+  "g": 57,
+  "b": 84
+ },
+ {
+  "name": "Dark candy apple red",
+  "hex": "#A40000",
+  "r": 164,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Dark cerulean",
+  "hex": "#08457E",
+  "r": 8,
+  "g": 69,
+  "b": 126
+ },
+ {
+  "name": "Dark chestnut",
+  "hex": "#986960",
+  "r": 152,
+  "g": 105,
+  "b": 96
+ },
+ {
+  "name": "Dark coral",
+  "hex": "#CD5B45",
+  "r": 205,
+  "g": 91,
+  "b": 69
+ },
+ {
+  "name": "Dark cyan",
+  "hex": "#008B8B",
+  "r": 0,
+  "g": 139,
+  "b": 139
+ },
+ {
+  "name": "Dark electric blue",
+  "hex": "#536878",
+  "r": 83,
+  "g": 104,
+  "b": 120
+ },
+ {
+  "name": "Dark goldenrod",
+  "hex": "#B8860B",
+  "r": 184,
+  "g": 134,
+  "b": 11
+ },
+ {
+  "name": "Dark gray (X11)",
+  "hex": "#A9A9A9",
+  "r": 169,
+  "g": 169,
+  "b": 169
+ },
+ {
+  "name": "Dark green",
+  "hex": "#013220",
+  "r": 1,
+  "g": 50,
+  "b": 32
+ },
+ {
+  "name": "Dark green (X11)",
+  "hex": "#006400",
+  "r": 0,
+  "g": 100,
+  "b": 0
+ },
+ {
+  "name": "Dark gunmetal",
+  "hex": "#1F262A",
+  "r": 31,
+  "g": 38,
+  "b": 42
+ },
+ {
+  "name": "Dark imperial blue",
+  "hex": "#00416A",
+  "r": 0,
+  "g": 65,
+  "b": 106
+ },
+ {
+  "name": "Dark imperial blue",
+  "hex": "#00147E",
+  "r": 0,
+  "g": 20,
+  "b": 126
+ },
+ {
+  "name": "Dark jungle green",
+  "hex": "#1A2421",
+  "r": 26,
+  "g": 36,
+  "b": 33
+ },
+ {
+  "name": "Dark khaki",
+  "hex": "#BDB76B",
+  "r": 189,
+  "g": 183,
+  "b": 107
+ },
+ {
+  "name": "Dark lava",
+  "hex": "#483C32",
+  "r": 72,
+  "g": 60,
+  "b": 50
+ },
+ {
+  "name": "Dark lavender",
+  "hex": "#734F96",
+  "r": 115,
+  "g": 79,
+  "b": 150
+ },
+ {
+  "name": "Dark liver",
+  "hex": "#534B4F",
+  "r": 83,
+  "g": 75,
+  "b": 79
+ },
+ {
+  "name": "Dark liver (horses)",
+  "hex": "#543D37",
+  "r": 84,
+  "g": 61,
+  "b": 55
+ },
+ {
+  "name": "Dark magenta",
+  "hex": "#8B008B",
+  "r": 139,
+  "g": 0,
+  "b": 139
+ },
+ {
+  "name": "Dark medium gray",
+  "hex": "#A9A9A9",
+  "r": 169,
+  "g": 169,
+  "b": 169
+ },
+ {
+  "name": "Dark midnight blue",
+  "hex": "#003366",
+  "r": 0,
+  "g": 51,
+  "b": 102
+ },
+ {
+  "name": "Dark moss green",
+  "hex": "#4A5D23",
+  "r": 74,
+  "g": 93,
+  "b": 35
+ },
+ {
+  "name": "Dark olive green",
+  "hex": "#556B2F",
+  "r": 85,
+  "g": 107,
+  "b": 47
+ },
+ {
+  "name": "Dark orange",
+  "hex": "#FF8C00",
+  "r": 255,
+  "g": 140,
+  "b": 0
+ },
+ {
+  "name": "Dark orchid",
+  "hex": "#9932CC",
+  "r": 153,
+  "g": 50,
+  "b": 204
+ },
+ {
+  "name": "Dark pastel blue",
+  "hex": "#779ECB",
+  "r": 119,
+  "g": 158,
+  "b": 203
+ },
+ {
+  "name": "Dark pastel green",
+  "hex": "#03C03C",
+  "r": 3,
+  "g": 192,
+  "b": 60
+ },
+ {
+  "name": "Dark pastel purple",
+  "hex": "#966FD6",
+  "r": 150,
+  "g": 111,
+  "b": 214
+ },
+ {
+  "name": "Dark pastel red",
+  "hex": "#C23B22",
+  "r": 194,
+  "g": 59,
+  "b": 34
+ },
+ {
+  "name": "Dark pink",
+  "hex": "#E75480",
+  "r": 231,
+  "g": 84,
+  "b": 128
+ },
+ {
+  "name": "Dark powder blue",
+  "hex": "#003399",
+  "r": 0,
+  "g": 51,
+  "b": 153
+ },
+ {
+  "name": "Dark puce",
+  "hex": "#4F3A3C",
+  "r": 79,
+  "g": 58,
+  "b": 60
+ },
+ {
+  "name": "Dark purple",
+  "hex": "#301934",
+  "r": 48,
+  "g": 25,
+  "b": 52
+ },
+ {
+  "name": "Dark raspberry",
+  "hex": "#872657",
+  "r": 135,
+  "g": 38,
+  "b": 87
+ },
+ {
+  "name": "Dark red",
+  "hex": "#8B0000",
+  "r": 139,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Dark salmon",
+  "hex": "#E9967A",
+  "r": 233,
+  "g": 150,
+  "b": 122
+ },
+ {
+  "name": "Dark scarlet",
+  "hex": "#560319",
+  "r": 86,
+  "g": 3,
+  "b": 25
+ },
+ {
+  "name": "Dark sea green",
+  "hex": "#8FBC8F",
+  "r": 143,
+  "g": 188,
+  "b": 143
+ },
+ {
+  "name": "Dark sienna",
+  "hex": "#3C1414",
+  "r": 60,
+  "g": 20,
+  "b": 20
+ },
+ {
+  "name": "Dark sky blue",
+  "hex": "#8CBED6",
+  "r": 140,
+  "g": 190,
+  "b": 214
+ },
+ {
+  "name": "Dark slate blue",
+  "hex": "#483D8B",
+  "r": 72,
+  "g": 61,
+  "b": 139
+ },
+ {
+  "name": "Dark slate gray",
+  "hex": "#2F4F4F",
+  "r": 47,
+  "g": 79,
+  "b": 79
+ },
+ {
+  "name": "Dark spring green",
+  "hex": "#177245",
+  "r": 23,
+  "g": 114,
+  "b": 69
+ },
+ {
+  "name": "Dark tan",
+  "hex": "#918151",
+  "r": 145,
+  "g": 129,
+  "b": 81
+ },
+ {
+  "name": "Dark tangerine",
+  "hex": "#FFA812",
+  "r": 255,
+  "g": 168,
+  "b": 18
+ },
+ {
+  "name": "Dark taupe",
+  "hex": "#483C32",
+  "r": 72,
+  "g": 60,
+  "b": 50
+ },
+ {
+  "name": "Dark terra cotta",
+  "hex": "#CC4E5C",
+  "r": 204,
+  "g": 78,
+  "b": 92
+ },
+ {
+  "name": "Dark turquoise",
+  "hex": "#00CED1",
+  "r": 0,
+  "g": 206,
+  "b": 209
+ },
+ {
+  "name": "Dark vanilla",
+  "hex": "#D1BEA8",
+  "r": 209,
+  "g": 190,
+  "b": 168
+ },
+ {
+  "name": "Dark violet",
+  "hex": "#9400D3",
+  "r": 148,
+  "g": 0,
+  "b": 211
+ },
+ {
+  "name": "Dark yellow",
+  "hex": "#9B870C",
+  "r": 155,
+  "g": 135,
+  "b": 12
+ },
+ {
+  "name": "Dartmouth green",
+  "hex": "#00703C",
+  "r": 0,
+  "g": 112,
+  "b": 60
+ },
+ {
+  "name": "Davy's grey",
+  "hex": "#555555",
+  "r": 85,
+  "g": 85,
+  "b": 85
+ },
+ {
+  "name": "Debian red",
+  "hex": "#D70A53",
+  "r": 215,
+  "g": 10,
+  "b": 83
+ },
+ {
+  "name": "Deep aquamarine",
+  "hex": "#40826D",
+  "r": 64,
+  "g": 130,
+  "b": 109
+ },
+ {
+  "name": "Deep carmine",
+  "hex": "#A9203E",
+  "r": 169,
+  "g": 32,
+  "b": 62
+ },
+ {
+  "name": "Deep carmine pink",
+  "hex": "#EF3038",
+  "r": 239,
+  "g": 48,
+  "b": 56
+ },
+ {
+  "name": "Deep carrot orange",
+  "hex": "#E9692C",
+  "r": 233,
+  "g": 105,
+  "b": 44
+ },
+ {
+  "name": "Deep cerise",
+  "hex": "#DA3287",
+  "r": 218,
+  "g": 50,
+  "b": 135
+ },
+ {
+  "name": "Deep champagne",
+  "hex": "#FAD6A5",
+  "r": 250,
+  "g": 214,
+  "b": 165
+ },
+ {
+  "name": "Deep chestnut",
+  "hex": "#B94E48",
+  "r": 185,
+  "g": 78,
+  "b": 72
+ },
+ {
+  "name": "Deep coffee",
+  "hex": "#704241",
+  "r": 112,
+  "g": 66,
+  "b": 65
+ },
+ {
+  "name": "Deep fuchsia",
+  "hex": "#C154C1",
+  "r": 193,
+  "g": 84,
+  "b": 193
+ },
+ {
+  "name": "Deep Green",
+  "hex": "#056608",
+  "r": 5,
+  "g": 102,
+  "b": 8
+ },
+ {
+  "name": "Deep green-cyan turquoise",
+  "hex": "#0E7C61",
+  "r": 14,
+  "g": 124,
+  "b": 97
+ },
+ {
+  "name": "Deep jungle green",
+  "hex": "#004B49",
+  "r": 0,
+  "g": 75,
+  "b": 73
+ },
+ {
+  "name": "Deep koamaru",
+  "hex": "#333366",
+  "r": 51,
+  "g": 51,
+  "b": 102
+ },
+ {
+  "name": "Deep lemon",
+  "hex": "#F5C71A",
+  "r": 245,
+  "g": 199,
+  "b": 26
+ },
+ {
+  "name": "Deep lilac",
+  "hex": "#9955BB",
+  "r": 153,
+  "g": 85,
+  "b": 187
+ },
+ {
+  "name": "Deep magenta",
+  "hex": "#CC00CC",
+  "r": 204,
+  "g": 0,
+  "b": 204
+ },
+ {
+  "name": "Deep maroon",
+  "hex": "#820000",
+  "r": 130,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Deep mauve",
+  "hex": "#D473D4",
+  "r": 212,
+  "g": 115,
+  "b": 212
+ },
+ {
+  "name": "Deep moss green",
+  "hex": "#355E3B",
+  "r": 53,
+  "g": 94,
+  "b": 59
+ },
+ {
+  "name": "Deep peach",
+  "hex": "#FFCBA4",
+  "r": 255,
+  "g": 203,
+  "b": 164
+ },
+ {
+  "name": "Deep pink",
+  "hex": "#FF1493",
+  "r": 255,
+  "g": 20,
+  "b": 147
+ },
+ {
+  "name": "Deep puce",
+  "hex": "#A95C68",
+  "r": 169,
+  "g": 92,
+  "b": 104
+ },
+ {
+  "name": "Deep Red",
+  "hex": "#850101",
+  "r": 133,
+  "g": 1,
+  "b": 1
+ },
+ {
+  "name": "Deep ruby",
+  "hex": "#843F5B",
+  "r": 132,
+  "g": 63,
+  "b": 91
+ },
+ {
+  "name": "Deep saffron",
+  "hex": "#FF9933",
+  "r": 255,
+  "g": 153,
+  "b": 51
+ },
+ {
+  "name": "Deep sky blue",
+  "hex": "#00BFFF",
+  "r": 0,
+  "g": 191,
+  "b": 255
+ },
+ {
+  "name": "Deep Space Sparkle",
+  "hex": "#4A646C",
+  "r": 74,
+  "g": 100,
+  "b": 108
+ },
+ {
+  "name": "Deep spring bud",
+  "hex": "#556B2F",
+  "r": 85,
+  "g": 107,
+  "b": 47
+ },
+ {
+  "name": "Deep Taupe",
+  "hex": "#7E5E60",
+  "r": 126,
+  "g": 94,
+  "b": 96
+ },
+ {
+  "name": "Deep Tuscan red",
+  "hex": "#66424D",
+  "r": 102,
+  "g": 66,
+  "b": 77
+ },
+ {
+  "name": "Deep violet",
+  "hex": "#330066",
+  "r": 51,
+  "g": 0,
+  "b": 102
+ },
+ {
+  "name": "Deer",
+  "hex": "#BA8759",
+  "r": 186,
+  "g": 135,
+  "b": 89
+ },
+ {
+  "name": "Denim",
+  "hex": "#1560BD",
+  "r": 21,
+  "g": 96,
+  "b": 189
+ },
+ {
+  "name": "Denim Blue",
+  "hex": "#2243B6",
+  "r": 34,
+  "g": 67,
+  "b": 182
+ },
+ {
+  "name": "Desaturated cyan",
+  "hex": "#669999",
+  "r": 102,
+  "g": 153,
+  "b": 153
+ },
+ {
+  "name": "Desert",
+  "hex": "#C19A6B",
+  "r": 193,
+  "g": 154,
+  "b": 107
+ },
+ {
+  "name": "Desert sand",
+  "hex": "#EDC9AF",
+  "r": 237,
+  "g": 201,
+  "b": 175
+ },
+ {
+  "name": "Desire",
+  "hex": "#EA3C53",
+  "r": 234,
+  "g": 60,
+  "b": 83
+ },
+ {
+  "name": "Diamond",
+  "hex": "#B9F2FF",
+  "r": 185,
+  "g": 242,
+  "b": 255
+ },
+ {
+  "name": "Dim gray",
+  "hex": "#696969",
+  "r": 105,
+  "g": 105,
+  "b": 105
+ },
+ {
+  "name": "Dingy Dungeon",
+  "hex": "#C53151",
+  "r": 197,
+  "g": 49,
+  "b": 81
+ },
+ {
+  "name": "Dirt",
+  "hex": "#9B7653",
+  "r": 155,
+  "g": 118,
+  "b": 83
+ },
+ {
+  "name": "Dodger blue",
+  "hex": "#1E90FF",
+  "r": 30,
+  "g": 144,
+  "b": 255
+ },
+ {
+  "name": "Dogwood rose",
+  "hex": "#D71868",
+  "r": 215,
+  "g": 24,
+  "b": 104
+ },
+ {
+  "name": "Dollar bill",
+  "hex": "#85BB65",
+  "r": 133,
+  "g": 187,
+  "b": 101
+ },
+ {
+  "name": "Dolphin Gray",
+  "hex": "#828E84",
+  "r": 130,
+  "g": 142,
+  "b": 132
+ },
+ {
+  "name": "Donkey brown",
+  "hex": "#664C28",
+  "r": 102,
+  "g": 76,
+  "b": 40
+ },
+ {
+  "name": "Drab",
+  "hex": "#967117",
+  "r": 150,
+  "g": 113,
+  "b": 23
+ },
+ {
+  "name": "Duke blue",
+  "hex": "#00009C",
+  "r": 0,
+  "g": 0,
+  "b": 156
+ },
+ {
+  "name": "Dust storm",
+  "hex": "#E5CCC9",
+  "r": 229,
+  "g": 204,
+  "b": 201
+ },
+ {
+  "name": "Dutch white",
+  "hex": "#EFDFBB",
+  "r": 239,
+  "g": 223,
+  "b": 187
+ },
+ {
+  "name": "Earth yellow",
+  "hex": "#E1A95F",
+  "r": 225,
+  "g": 169,
+  "b": 95
+ },
+ {
+  "name": "Ebony",
+  "hex": "#555D50",
+  "r": 85,
+  "g": 93,
+  "b": 80
+ },
+ {
+  "name": "Ecru",
+  "hex": "#C2B280",
+  "r": 194,
+  "g": 178,
+  "b": 128
+ },
+ {
+  "name": "Eerie black",
+  "hex": "#1B1B1B",
+  "r": 27,
+  "g": 27,
+  "b": 27
+ },
+ {
+  "name": "Eggplant",
+  "hex": "#614051",
+  "r": 97,
+  "g": 64,
+  "b": 81
+ },
+ {
+  "name": "Eggshell",
+  "hex": "#F0EAD6",
+  "r": 240,
+  "g": 234,
+  "b": 214
+ },
+ {
+  "name": "Egyptian blue",
+  "hex": "#1034A6",
+  "r": 16,
+  "g": 52,
+  "b": 166
+ },
+ {
+  "name": "Electric blue",
+  "hex": "#7DF9FF",
+  "r": 125,
+  "g": 249,
+  "b": 255
+ },
+ {
+  "name": "Electric crimson",
+  "hex": "#FF003F",
+  "r": 255,
+  "g": 0,
+  "b": 63
+ },
+ {
+  "name": "Electric cyan",
+  "hex": "#00FFFF",
+  "r": 0,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "Electric green",
+  "hex": "#00FF00",
+  "r": 0,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Electric indigo",
+  "hex": "#6F00FF",
+  "r": 111,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Electric lavender",
+  "hex": "#F4BBFF",
+  "r": 244,
+  "g": 187,
+  "b": 255
+ },
+ {
+  "name": "Electric lime",
+  "hex": "#CCFF00",
+  "r": 204,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Electric purple",
+  "hex": "#BF00FF",
+  "r": 191,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Electric ultramarine",
+  "hex": "#3F00FF",
+  "r": 63,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Electric violet",
+  "hex": "#8F00FF",
+  "r": 143,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Electric yellow",
+  "hex": "#FFFF33",
+  "r": 255,
+  "g": 255,
+  "b": 51
+ },
+ {
+  "name": "Emerald",
+  "hex": "#50C878",
+  "r": 80,
+  "g": 200,
+  "b": 120
+ },
+ {
+  "name": "Eminence",
+  "hex": "#6C3082",
+  "r": 108,
+  "g": 48,
+  "b": 130
+ },
+ {
+  "name": "English green",
+  "hex": "#1B4D3E",
+  "r": 27,
+  "g": 77,
+  "b": 62
+ },
+ {
+  "name": "English lavender",
+  "hex": "#B48395",
+  "r": 180,
+  "g": 131,
+  "b": 149
+ },
+ {
+  "name": "English red",
+  "hex": "#AB4B52",
+  "r": 171,
+  "g": 75,
+  "b": 82
+ },
+ {
+  "name": "English vermillion",
+  "hex": "#CC474B",
+  "r": 204,
+  "g": 71,
+  "b": 75
+ },
+ {
+  "name": "English violet",
+  "hex": "#563C5C",
+  "r": 86,
+  "g": 60,
+  "b": 92
+ },
+ {
+  "name": "Eton blue",
+  "hex": "#96C8A2",
+  "r": 150,
+  "g": 200,
+  "b": 162
+ },
+ {
+  "name": "Eucalyptus",
+  "hex": "#44D7A8",
+  "r": 68,
+  "g": 215,
+  "b": 168
+ },
+ {
+  "name": "Fallow",
+  "hex": "#C19A6B",
+  "r": 193,
+  "g": 154,
+  "b": 107
+ },
+ {
+  "name": "Falu red",
+  "hex": "#801818",
+  "r": 128,
+  "g": 24,
+  "b": 24
+ },
+ {
+  "name": "Fandango",
+  "hex": "#B53389",
+  "r": 181,
+  "g": 51,
+  "b": 137
+ },
+ {
+  "name": "Fandango pink",
+  "hex": "#DE5285",
+  "r": 222,
+  "g": 82,
+  "b": 133
+ },
+ {
+  "name": "Fashion fuchsia",
+  "hex": "#F400A1",
+  "r": 244,
+  "g": 0,
+  "b": 161
+ },
+ {
+  "name": "Fawn",
+  "hex": "#E5AA70",
+  "r": 229,
+  "g": 170,
+  "b": 112
+ },
+ {
+  "name": "Feldgrau",
+  "hex": "#4D5D53",
+  "r": 77,
+  "g": 93,
+  "b": 83
+ },
+ {
+  "name": "Feldspar",
+  "hex": "#FDD5B1",
+  "r": 253,
+  "g": 213,
+  "b": 177
+ },
+ {
+  "name": "Fern green",
+  "hex": "#4F7942",
+  "r": 79,
+  "g": 121,
+  "b": 66
+ },
+ {
+  "name": "Ferrari Red",
+  "hex": "#FF2800",
+  "r": 255,
+  "g": 40,
+  "b": 0
+ },
+ {
+  "name": "Field drab",
+  "hex": "#6C541E",
+  "r": 108,
+  "g": 84,
+  "b": 30
+ },
+ {
+  "name": "Fiery Rose",
+  "hex": "#FF5470",
+  "r": 255,
+  "g": 84,
+  "b": 112
+ },
+ {
+  "name": "Firebrick",
+  "hex": "#B22222",
+  "r": 178,
+  "g": 34,
+  "b": 34
+ },
+ {
+  "name": "Fire engine red",
+  "hex": "#CE2029",
+  "r": 206,
+  "g": 32,
+  "b": 41
+ },
+ {
+  "name": "Flame",
+  "hex": "#E25822",
+  "r": 226,
+  "g": 88,
+  "b": 34
+ },
+ {
+  "name": "Flamingo pink",
+  "hex": "#FC8EAC",
+  "r": 252,
+  "g": 142,
+  "b": 172
+ },
+ {
+  "name": "Flattery",
+  "hex": "#6B4423",
+  "r": 107,
+  "g": 68,
+  "b": 35
+ },
+ {
+  "name": "Flavescent",
+  "hex": "#F7E98E",
+  "r": 247,
+  "g": 233,
+  "b": 142
+ },
+ {
+  "name": "Flax",
+  "hex": "#EEDC82",
+  "r": 238,
+  "g": 220,
+  "b": 130
+ },
+ {
+  "name": "Flirt",
+  "hex": "#A2006D",
+  "r": 162,
+  "g": 0,
+  "b": 109
+ },
+ {
+  "name": "Floral white",
+  "hex": "#FFFAF0",
+  "r": 255,
+  "g": 250,
+  "b": 240
+ },
+ {
+  "name": "Fluorescent orange",
+  "hex": "#FFBF00",
+  "r": 255,
+  "g": 191,
+  "b": 0
+ },
+ {
+  "name": "Fluorescent pink",
+  "hex": "#FF1493",
+  "r": 255,
+  "g": 20,
+  "b": 147
+ },
+ {
+  "name": "Fluorescent yellow",
+  "hex": "#CCFF00",
+  "r": 204,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Folly",
+  "hex": "#FF004F",
+  "r": 255,
+  "g": 0,
+  "b": 79
+ },
+ {
+  "name": "Forest green (traditional)",
+  "hex": "#014421",
+  "r": 1,
+  "g": 68,
+  "b": 33
+ },
+ {
+  "name": "Forest green (web)",
+  "hex": "#228B22",
+  "r": 34,
+  "g": 139,
+  "b": 34
+ },
+ {
+  "name": "French beige",
+  "hex": "#A67B5B",
+  "r": 166,
+  "g": 123,
+  "b": 91
+ },
+ {
+  "name": "French bistre",
+  "hex": "#856D4D",
+  "r": 133,
+  "g": 109,
+  "b": 77
+ },
+ {
+  "name": "French blue",
+  "hex": "#0072BB",
+  "r": 0,
+  "g": 114,
+  "b": 187
+ },
+ {
+  "name": "French fuchsia",
+  "hex": "#FD3F92",
+  "r": 253,
+  "g": 63,
+  "b": 146
+ },
+ {
+  "name": "French lilac",
+  "hex": "#86608E",
+  "r": 134,
+  "g": 96,
+  "b": 142
+ },
+ {
+  "name": "French lime",
+  "hex": "#9EFD38",
+  "r": 158,
+  "g": 253,
+  "b": 56
+ },
+ {
+  "name": "French mauve",
+  "hex": "#D473D4",
+  "r": 212,
+  "g": 115,
+  "b": 212
+ },
+ {
+  "name": "French pink",
+  "hex": "#FD6C9E",
+  "r": 253,
+  "g": 108,
+  "b": 158
+ },
+ {
+  "name": "French plum",
+  "hex": "#811453",
+  "r": 129,
+  "g": 20,
+  "b": 83
+ },
+ {
+  "name": "French puce",
+  "hex": "#4E1609",
+  "r": 78,
+  "g": 22,
+  "b": 9
+ },
+ {
+  "name": "French raspberry",
+  "hex": "#C72C48",
+  "r": 199,
+  "g": 44,
+  "b": 72
+ },
+ {
+  "name": "French rose",
+  "hex": "#F64A8A",
+  "r": 246,
+  "g": 74,
+  "b": 138
+ },
+ {
+  "name": "French sky blue",
+  "hex": "#77B5FE",
+  "r": 119,
+  "g": 181,
+  "b": 254
+ },
+ {
+  "name": "French violet",
+  "hex": "#8806CE",
+  "r": 136,
+  "g": 6,
+  "b": 206
+ },
+ {
+  "name": "French wine",
+  "hex": "#AC1E44",
+  "r": 172,
+  "g": 30,
+  "b": 68
+ },
+ {
+  "name": "Fresh Air",
+  "hex": "#A6E7FF",
+  "r": 166,
+  "g": 231,
+  "b": 255
+ },
+ {
+  "name": "Frostbite",
+  "hex": "#E936A7",
+  "r": 233,
+  "g": 54,
+  "b": 167
+ },
+ {
+  "name": "Fuchsia",
+  "hex": "#FF00FF",
+  "r": 255,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Fuchsia (Crayola)",
+  "hex": "#C154C1",
+  "r": 193,
+  "g": 84,
+  "b": 193
+ },
+ {
+  "name": "Fuchsia pink",
+  "hex": "#FF77FF",
+  "r": 255,
+  "g": 119,
+  "b": 255
+ },
+ {
+  "name": "Fuchsia purple",
+  "hex": "#CC397B",
+  "r": 204,
+  "g": 57,
+  "b": 123
+ },
+ {
+  "name": "Fuchsia rose",
+  "hex": "#C74375",
+  "r": 199,
+  "g": 67,
+  "b": 117
+ },
+ {
+  "name": "Fulvous",
+  "hex": "#E48400",
+  "r": 228,
+  "g": 132,
+  "b": 0
+ },
+ {
+  "name": "Fuzzy Wuzzy",
+  "hex": "#CC6666",
+  "r": 204,
+  "g": 102,
+  "b": 102
+ },
+ {
+  "name": "Gainsboro",
+  "hex": "#DCDCDC",
+  "r": 220,
+  "g": 220,
+  "b": 220
+ },
+ {
+  "name": "Gamboge",
+  "hex": "#E49B0F",
+  "r": 228,
+  "g": 155,
+  "b": 15
+ },
+ {
+  "name": "Gamboge orange (brown)",
+  "hex": "#996600",
+  "r": 152,
+  "g": 102,
+  "b": 0
+ },
+ {
+  "name": "Gargoyle Gas",
+  "hex": "#FFDF46",
+  "r": 255,
+  "g": 223,
+  "b": 70
+ },
+ {
+  "name": "Generic viridian",
+  "hex": "#007F66",
+  "r": 0,
+  "g": 127,
+  "b": 102
+ },
+ {
+  "name": "Ghost white",
+  "hex": "#F8F8FF",
+  "r": 248,
+  "g": 248,
+  "b": 255
+ },
+ {
+  "name": "Giant's Club",
+  "hex": "#B05C52",
+  "r": 176,
+  "g": 92,
+  "b": 82
+ },
+ {
+  "name": "Giants orange",
+  "hex": "#FE5A1D",
+  "r": 254,
+  "g": 90,
+  "b": 29
+ },
+ {
+  "name": "Ginger",
+  "hex": "#B06500",
+  "r": 176,
+  "g": 101,
+  "b": 0
+ },
+ {
+  "name": "Glaucous",
+  "hex": "#6082B6",
+  "r": 96,
+  "g": 130,
+  "b": 182
+ },
+ {
+  "name": "Glitter",
+  "hex": "#E6E8FA",
+  "r": 230,
+  "g": 232,
+  "b": 250
+ },
+ {
+  "name": "Glossy Grape",
+  "hex": "#AB92B3",
+  "r": 171,
+  "g": 146,
+  "b": 179
+ },
+ {
+  "name": "GO green",
+  "hex": "#00AB66",
+  "r": 0,
+  "g": 171,
+  "b": 102
+ },
+ {
+  "name": "Gold (metallic)",
+  "hex": "#D4AF37",
+  "r": 212,
+  "g": 175,
+  "b": 55
+ },
+ {
+  "name": "Gold (web) (Golden)",
+  "hex": "#FFD700",
+  "r": 255,
+  "g": 215,
+  "b": 0
+ },
+ {
+  "name": "Gold Fusion",
+  "hex": "#85754E",
+  "r": 133,
+  "g": 117,
+  "b": 78
+ },
+ {
+  "name": "Golden brown",
+  "hex": "#996515",
+  "r": 153,
+  "g": 101,
+  "b": 21
+ },
+ {
+  "name": "Golden poppy",
+  "hex": "#FCC200",
+  "r": 252,
+  "g": 194,
+  "b": 0
+ },
+ {
+  "name": "Golden yellow",
+  "hex": "#FFDF00",
+  "r": 255,
+  "g": 223,
+  "b": 0
+ },
+ {
+  "name": "Goldenrod",
+  "hex": "#DAA520",
+  "r": 218,
+  "g": 165,
+  "b": 32
+ },
+ {
+  "name": "Granite Gray",
+  "hex": "#676767",
+  "r": 103,
+  "g": 103,
+  "b": 103
+ },
+ {
+  "name": "Granny Smith Apple",
+  "hex": "#A8E4A0",
+  "r": 168,
+  "g": 228,
+  "b": 160
+ },
+ {
+  "name": "Grape",
+  "hex": "#6F2DA8",
+  "r": 111,
+  "g": 45,
+  "b": 168
+ },
+ {
+  "name": "Gray",
+  "hex": "#808080",
+  "r": 128,
+  "g": 128,
+  "b": 128
+ },
+ {
+  "name": "Gray (HTML\/CSS gray)",
+  "hex": "#808080",
+  "r": 128,
+  "g": 128,
+  "b": 128
+ },
+ {
+  "name": "Gray (X11 gray)",
+  "hex": "#BEBEBE",
+  "r": 190,
+  "g": 190,
+  "b": 190
+ },
+ {
+  "name": "Gray-asparagus",
+  "hex": "#465945",
+  "r": 70,
+  "g": 89,
+  "b": 69
+ },
+ {
+  "name": "Gray-blue",
+  "hex": "#8C92AC",
+  "r": 140,
+  "g": 146,
+  "b": 172
+ },
+ {
+  "name": "Green (Color Wheel) (X11 green)",
+  "hex": "#00FF00",
+  "r": 0,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Green (Crayola)",
+  "hex": "#1CAC78",
+  "r": 28,
+  "g": 172,
+  "b": 120
+ },
+ {
+  "name": "Green (HTML\/CSS color)",
+  "hex": "#008000",
+  "r": 0,
+  "g": 128,
+  "b": 0
+ },
+ {
+  "name": "Green (Munsell)",
+  "hex": "#00A877",
+  "r": 0,
+  "g": 168,
+  "b": 119
+ },
+ {
+  "name": "Green (NCS)",
+  "hex": "#009F6B",
+  "r": 0,
+  "g": 159,
+  "b": 107
+ },
+ {
+  "name": "Green (Pantone)",
+  "hex": "#00AD43",
+  "r": 0,
+  "g": 173,
+  "b": 67
+ },
+ {
+  "name": "Green (pigment)",
+  "hex": "#00A550",
+  "r": 0,
+  "g": 165,
+  "b": 80
+ },
+ {
+  "name": "Green (RYB)",
+  "hex": "#66B032",
+  "r": 102,
+  "g": 176,
+  "b": 50
+ },
+ {
+  "name": "Green-blue",
+  "hex": "#1164B4",
+  "r": 17,
+  "g": 100,
+  "b": 180
+ },
+ {
+  "name": "Green-cyan",
+  "hex": "#009966",
+  "r": 0,
+  "g": 153,
+  "b": 102
+ },
+ {
+  "name": "Green Lizard",
+  "hex": "#A7F432",
+  "r": 167,
+  "g": 244,
+  "b": 50
+ },
+ {
+  "name": "Green Sheen",
+  "hex": "#6EAEA1",
+  "r": 110,
+  "g": 174,
+  "b": 161
+ },
+ {
+  "name": "Green-yellow",
+  "hex": "#ADFF2F",
+  "r": 173,
+  "g": 255,
+  "b": 47
+ },
+ {
+  "name": "Grizzly",
+  "hex": "#885818",
+  "r": 136,
+  "g": 88,
+  "b": 24
+ },
+ {
+  "name": "Grullo",
+  "hex": "#A99A86",
+  "r": 169,
+  "g": 154,
+  "b": 134
+ },
+ {
+  "name": "Guppie green",
+  "hex": "#00FF7F",
+  "r": 0,
+  "g": 255,
+  "b": 127
+ },
+ {
+  "name": "Gunmetal",
+  "hex": "#2a3439",
+  "r": 42,
+  "g": 52,
+  "b": 57
+ },
+ {
+  "name": "HalayÃ  Ãºbe",
+  "hex": "#663854",
+  "r": 102,
+  "g": 55,
+  "b": 84
+ },
+ {
+  "name": "Han blue",
+  "hex": "#446CCF",
+  "r": 68,
+  "g": 108,
+  "b": 207
+ },
+ {
+  "name": "Han purple",
+  "hex": "#5218FA",
+  "r": 82,
+  "g": 24,
+  "b": 250
+ },
+ {
+  "name": "Hansa yellow",
+  "hex": "#E9D66B",
+  "r": 233,
+  "g": 214,
+  "b": 107
+ },
+ {
+  "name": "Harlequin",
+  "hex": "#3FFF00",
+  "r": 63,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Harlequin green",
+  "hex": "#46CB18",
+  "r": 70,
+  "g": 203,
+  "b": 24
+ },
+ {
+  "name": "Harvard crimson",
+  "hex": "#C90016",
+  "r": 201,
+  "g": 0,
+  "b": 22
+ },
+ {
+  "name": "Harvest gold",
+  "hex": "#DA9100",
+  "r": 218,
+  "g": 145,
+  "b": 0
+ },
+ {
+  "name": "Heart Gold",
+  "hex": "#808000",
+  "r": 128,
+  "g": 128,
+  "b": 0
+ },
+ {
+  "name": "Heat Wave",
+  "hex": "#FF7A00",
+  "r": 255,
+  "g": 122,
+  "b": 0
+ },
+ {
+  "name": "Heidelberg Red[2]",
+  "hex": "#960018",
+  "r": 150,
+  "g": 0,
+  "b": 24
+ },
+ {
+  "name": "Heliotrope",
+  "hex": "#DF73FF",
+  "r": 223,
+  "g": 115,
+  "b": 255
+ },
+ {
+  "name": "Heliotrope gray",
+  "hex": "#AA98A9",
+  "r": 170,
+  "g": 152,
+  "b": 168
+ },
+ {
+  "name": "Heliotrope magenta",
+  "hex": "#AA00BB",
+  "r": 170,
+  "g": 0,
+  "b": 187
+ },
+ {
+  "name": "Hollywood cerise",
+  "hex": "#F400A1",
+  "r": 244,
+  "g": 0,
+  "b": 161
+ },
+ {
+  "name": "Honeydew",
+  "hex": "#F0FFF0",
+  "r": 240,
+  "g": 255,
+  "b": 240
+ },
+ {
+  "name": "Honolulu blue",
+  "hex": "#006DB0",
+  "r": 0,
+  "g": 109,
+  "b": 176
+ },
+ {
+  "name": "Hooker's green",
+  "hex": "#49796B",
+  "r": 73,
+  "g": 121,
+  "b": 107
+ },
+ {
+  "name": "Hot magenta",
+  "hex": "#FF1DCE",
+  "r": 255,
+  "g": 29,
+  "b": 206
+ },
+ {
+  "name": "Hot pink",
+  "hex": "#FF69B4",
+  "r": 255,
+  "g": 105,
+  "b": 180
+ },
+ {
+  "name": "Hunter green",
+  "hex": "#355E3B",
+  "r": 53,
+  "g": 94,
+  "b": 59
+ },
+ {
+  "name": "Iceberg",
+  "hex": "#71A6D2",
+  "r": 113,
+  "g": 166,
+  "b": 210
+ },
+ {
+  "name": "Icterine",
+  "hex": "#FCF75E",
+  "r": 252,
+  "g": 247,
+  "b": 94
+ },
+ {
+  "name": "Iguana Green",
+  "hex": "#71BC78",
+  "r": 113,
+  "g": 188,
+  "b": 120
+ },
+ {
+  "name": "Illuminating Emerald",
+  "hex": "#319177",
+  "r": 49,
+  "g": 145,
+  "b": 119
+ },
+ {
+  "name": "Imperial",
+  "hex": "#602F6B",
+  "r": 96,
+  "g": 47,
+  "b": 107
+ },
+ {
+  "name": "Imperial blue",
+  "hex": "#002395",
+  "r": 0,
+  "g": 35,
+  "b": 149
+ },
+ {
+  "name": "Imperial purple",
+  "hex": "#66023C",
+  "r": 102,
+  "g": 2,
+  "b": 60
+ },
+ {
+  "name": "Imperial red",
+  "hex": "#ED2939",
+  "r": 237,
+  "g": 41,
+  "b": 57
+ },
+ {
+  "name": "Inchworm",
+  "hex": "#B2EC5D",
+  "r": 178,
+  "g": 236,
+  "b": 93
+ },
+ {
+  "name": "Independence",
+  "hex": "#4C516D",
+  "r": 76,
+  "g": 81,
+  "b": 109
+ },
+ {
+  "name": "India green",
+  "hex": "#138808",
+  "r": 19,
+  "g": 136,
+  "b": 8
+ },
+ {
+  "name": "Indian red",
+  "hex": "#CD5C5C",
+  "r": 205,
+  "g": 92,
+  "b": 92
+ },
+ {
+  "name": "Indian yellow",
+  "hex": "#E3A857",
+  "r": 227,
+  "g": 168,
+  "b": 87
+ },
+ {
+  "name": "Indigo",
+  "hex": "#4B0082",
+  "r": 75,
+  "g": 0,
+  "b": 130
+ },
+ {
+  "name": "Indigo dye",
+  "hex": "#091F92",
+  "r": 9,
+  "g": 31,
+  "b": 146
+ },
+ {
+  "name": "Indigo (web)",
+  "hex": "#4B0082",
+  "r": 75,
+  "g": 0,
+  "b": 130
+ },
+ {
+  "name": "Infra Red",
+  "hex": "#FF496C",
+  "r": 255,
+  "g": 73,
+  "b": 108
+ },
+ {
+  "name": "Interdimensional Blue",
+  "hex": "#360CCC",
+  "r": 54,
+  "g": 12,
+  "b": 204
+ },
+ {
+  "name": "International Klein Blue",
+  "hex": "#002FA7",
+  "r": 0,
+  "g": 47,
+  "b": 167
+ },
+ {
+  "name": "International orange (aerospace)",
+  "hex": "#FF4F00",
+  "r": 255,
+  "g": 79,
+  "b": 0
+ },
+ {
+  "name": "International orange (engineering)",
+  "hex": "#BA160C",
+  "r": 186,
+  "g": 22,
+  "b": 12
+ },
+ {
+  "name": "International orange (Golden Gate Bridge)",
+  "hex": "#C0362C",
+  "r": 192,
+  "g": 54,
+  "b": 44
+ },
+ {
+  "name": "Iris",
+  "hex": "#5A4FCF",
+  "r": 90,
+  "g": 79,
+  "b": 207
+ },
+ {
+  "name": "Irresistible",
+  "hex": "#B3446C",
+  "r": 179,
+  "g": 68,
+  "b": 108
+ },
+ {
+  "name": "Isabelline",
+  "hex": "#F4F0EC",
+  "r": 244,
+  "g": 240,
+  "b": 236
+ },
+ {
+  "name": "Islamic green",
+  "hex": "#009000",
+  "r": 0,
+  "g": 144,
+  "b": 0
+ },
+ {
+  "name": "Italian sky blue",
+  "hex": "#B2FFFF",
+  "r": 178,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "Ivory",
+  "hex": "#FFFFF0",
+  "r": 255,
+  "g": 255,
+  "b": 240
+ },
+ {
+  "name": "Jade",
+  "hex": "#00A86B",
+  "r": 0,
+  "g": 168,
+  "b": 107
+ },
+ {
+  "name": "Japanese carmine",
+  "hex": "#9D2933",
+  "r": 157,
+  "g": 41,
+  "b": 51
+ },
+ {
+  "name": "Japanese indigo",
+  "hex": "#264348",
+  "r": 38,
+  "g": 67,
+  "b": 72
+ },
+ {
+  "name": "Japanese violet",
+  "hex": "#5B3256",
+  "r": 91,
+  "g": 50,
+  "b": 86
+ },
+ {
+  "name": "Jasmine",
+  "hex": "#F8DE7E",
+  "r": 248,
+  "g": 222,
+  "b": 126
+ },
+ {
+  "name": "Jasper",
+  "hex": "#D73B3E",
+  "r": 215,
+  "g": 59,
+  "b": 62
+ },
+ {
+  "name": "Jazzberry jam",
+  "hex": "#A50B5E",
+  "r": 165,
+  "g": 11,
+  "b": 94
+ },
+ {
+  "name": "Jelly Bean",
+  "hex": "#DA614E",
+  "r": 218,
+  "g": 97,
+  "b": 78
+ },
+ {
+  "name": "Jet",
+  "hex": "#343434",
+  "r": 52,
+  "g": 52,
+  "b": 52
+ },
+ {
+  "name": "Jonquil",
+  "hex": "#F4CA16",
+  "r": 244,
+  "g": 202,
+  "b": 22
+ },
+ {
+  "name": "Jordy blue",
+  "hex": "#8AB9F1",
+  "r": 138,
+  "g": 185,
+  "b": 241
+ },
+ {
+  "name": "June bud",
+  "hex": "#BDDA57",
+  "r": 189,
+  "g": 218,
+  "b": 87
+ },
+ {
+  "name": "Jungle green",
+  "hex": "#29AB87",
+  "r": 41,
+  "g": 171,
+  "b": 135
+ },
+ {
+  "name": "Kelly green",
+  "hex": "#4CBB17",
+  "r": 76,
+  "g": 187,
+  "b": 23
+ },
+ {
+  "name": "Kenyan copper",
+  "hex": "#7C1C05",
+  "r": 124,
+  "g": 28,
+  "b": 5
+ },
+ {
+  "name": "Keppel",
+  "hex": "#3AB09E",
+  "r": 58,
+  "g": 176,
+  "b": 158
+ },
+ {
+  "name": "Key Lime",
+  "hex": "#E8F48C",
+  "r": 232,
+  "g": 244,
+  "b": 140
+ },
+ {
+  "name": "Khaki (HTML\/CSS) (Khaki)",
+  "hex": "#C3B091",
+  "r": 195,
+  "g": 176,
+  "b": 145
+ },
+ {
+  "name": "Khaki (X11) (Light khaki)",
+  "hex": "#F0E68C",
+  "r": 240,
+  "g": 230,
+  "b": 140
+ },
+ {
+  "name": "Kiwi",
+  "hex": "#8EE53F",
+  "r": 142,
+  "g": 229,
+  "b": 63
+ },
+ {
+  "name": "Kobe",
+  "hex": "#882D17",
+  "r": 136,
+  "g": 45,
+  "b": 23
+ },
+ {
+  "name": "Kobi",
+  "hex": "#E79FC4",
+  "r": 231,
+  "g": 159,
+  "b": 196
+ },
+ {
+  "name": "Kobicha",
+  "hex": "#6B4423",
+  "r": 107,
+  "g": 68,
+  "b": 35
+ },
+ {
+  "name": "Kombu green",
+  "hex": "#354230",
+  "r": 53,
+  "g": 66,
+  "b": 48
+ },
+ {
+  "name": "KSU Purple",
+  "hex": "#512888",
+  "r": 79,
+  "g": 38,
+  "b": 131
+ },
+ {
+  "name": "KU Crimson",
+  "hex": "#E8000D",
+  "r": 232,
+  "g": 0,
+  "b": 13
+ },
+ {
+  "name": "La Salle Green",
+  "hex": "#087830",
+  "r": 8,
+  "g": 120,
+  "b": 48
+ },
+ {
+  "name": "Languid lavender",
+  "hex": "#D6CADD",
+  "r": 214,
+  "g": 202,
+  "b": 221
+ },
+ {
+  "name": "Lapis lazuli",
+  "hex": "#26619C",
+  "r": 38,
+  "g": 97,
+  "b": 156
+ },
+ {
+  "name": "Laser Lemon",
+  "hex": "#FFFF66",
+  "r": 255,
+  "g": 255,
+  "b": 102
+ },
+ {
+  "name": "Laurel green",
+  "hex": "#A9BA9D",
+  "r": 169,
+  "g": 186,
+  "b": 157
+ },
+ {
+  "name": "Lava",
+  "hex": "#CF1020",
+  "r": 207,
+  "g": 16,
+  "b": 32
+ },
+ {
+  "name": "Lavender (floral)",
+  "hex": "#B57EDC",
+  "r": 181,
+  "g": 126,
+  "b": 220
+ },
+ {
+  "name": "Lavender (web)",
+  "hex": "#E6E6FA",
+  "r": 230,
+  "g": 230,
+  "b": 250
+ },
+ {
+  "name": "Lavender blue",
+  "hex": "#CCCCFF",
+  "r": 204,
+  "g": 204,
+  "b": 255
+ },
+ {
+  "name": "Lavender blush",
+  "hex": "#FFF0F5",
+  "r": 255,
+  "g": 240,
+  "b": 245
+ },
+ {
+  "name": "Lavender gray",
+  "hex": "#C4C3D0",
+  "r": 196,
+  "g": 195,
+  "b": 208
+ },
+ {
+  "name": "Lavender indigo",
+  "hex": "#9457EB",
+  "r": 148,
+  "g": 87,
+  "b": 235
+ },
+ {
+  "name": "Lavender magenta",
+  "hex": "#EE82EE",
+  "r": 238,
+  "g": 130,
+  "b": 238
+ },
+ {
+  "name": "Lavender mist",
+  "hex": "#E6E6FA",
+  "r": 230,
+  "g": 230,
+  "b": 250
+ },
+ {
+  "name": "Lavender pink",
+  "hex": "#FBAED2",
+  "r": 251,
+  "g": 174,
+  "b": 210
+ },
+ {
+  "name": "Lavender purple",
+  "hex": "#967BB6",
+  "r": 150,
+  "g": 123,
+  "b": 182
+ },
+ {
+  "name": "Lavender rose",
+  "hex": "#FBA0E3",
+  "r": 251,
+  "g": 160,
+  "b": 227
+ },
+ {
+  "name": "Lawn green",
+  "hex": "#7CFC00",
+  "r": 124,
+  "g": 252,
+  "b": 0
+ },
+ {
+  "name": "Lemon",
+  "hex": "#FFF700",
+  "r": 255,
+  "g": 247,
+  "b": 0
+ },
+ {
+  "name": "Lemon chiffon",
+  "hex": "#FFFACD",
+  "r": 255,
+  "g": 250,
+  "b": 205
+ },
+ {
+  "name": "Lemon curry",
+  "hex": "#CCA01D",
+  "r": 204,
+  "g": 160,
+  "b": 29
+ },
+ {
+  "name": "Lemon glacier",
+  "hex": "#FDFF00",
+  "r": 253,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Lemon lime",
+  "hex": "#E3FF00",
+  "r": 227,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Lemon meringue",
+  "hex": "#F6EABE",
+  "r": 246,
+  "g": 234,
+  "b": 190
+ },
+ {
+  "name": "Lemon yellow",
+  "hex": "#FFF44F",
+  "r": 255,
+  "g": 244,
+  "b": 79
+ },
+ {
+  "name": "Licorice",
+  "hex": "#1A1110",
+  "r": 26,
+  "g": 17,
+  "b": 16
+ },
+ {
+  "name": "Liberty",
+  "hex": "#545AA7",
+  "r": 84,
+  "g": 90,
+  "b": 167
+ },
+ {
+  "name": "Light apricot",
+  "hex": "#FDD5B1",
+  "r": 253,
+  "g": 213,
+  "b": 177
+ },
+ {
+  "name": "Light blue",
+  "hex": "#ADD8E6",
+  "r": 173,
+  "g": 216,
+  "b": 230
+ },
+ {
+  "name": "Light brown",
+  "hex": "#B5651D",
+  "r": 181,
+  "g": 101,
+  "b": 29
+ },
+ {
+  "name": "Light carmine pink",
+  "hex": "#E66771",
+  "r": 230,
+  "g": 103,
+  "b": 113
+ },
+ {
+  "name": "Light cobalt blue",
+  "hex": "#88ACE0",
+  "r": 136,
+  "g": 172,
+  "b": 224
+ },
+ {
+  "name": "Light coral",
+  "hex": "#F08080",
+  "r": 240,
+  "g": 128,
+  "b": 128
+ },
+ {
+  "name": "Light cornflower blue",
+  "hex": "#93CCEA",
+  "r": 147,
+  "g": 204,
+  "b": 234
+ },
+ {
+  "name": "Light crimson",
+  "hex": "#F56991",
+  "r": 245,
+  "g": 105,
+  "b": 145
+ },
+ {
+  "name": "Light cyan",
+  "hex": "#E0FFFF",
+  "r": 224,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "Light deep pink",
+  "hex": "#FF5CCD",
+  "r": 255,
+  "g": 92,
+  "b": 205
+ },
+ {
+  "name": "Light French beige",
+  "hex": "#C8AD7F",
+  "r": 200,
+  "g": 173,
+  "b": 127
+ },
+ {
+  "name": "Light fuchsia pink",
+  "hex": "#F984EF",
+  "r": 249,
+  "g": 132,
+  "b": 239
+ },
+ {
+  "name": "Light goldenrod yellow",
+  "hex": "#FAFAD2",
+  "r": 250,
+  "g": 250,
+  "b": 210
+ },
+ {
+  "name": "Light gray",
+  "hex": "#D3D3D3",
+  "r": 211,
+  "g": 211,
+  "b": 211
+ },
+ {
+  "name": "Light grayish magenta",
+  "hex": "#CC99CC",
+  "r": 204,
+  "g": 153,
+  "b": 204
+ },
+ {
+  "name": "Light green",
+  "hex": "#90EE90",
+  "r": 144,
+  "g": 238,
+  "b": 144
+ },
+ {
+  "name": "Light hot pink",
+  "hex": "#FFB3DE",
+  "r": 255,
+  "g": 179,
+  "b": 222
+ },
+ {
+  "name": "Light khaki",
+  "hex": "#F0E68C",
+  "r": 240,
+  "g": 230,
+  "b": 140
+ },
+ {
+  "name": "Light medium orchid",
+  "hex": "#D39BCB",
+  "r": 211,
+  "g": 155,
+  "b": 203
+ },
+ {
+  "name": "Light moss green",
+  "hex": "#ADDFAD",
+  "r": 173,
+  "g": 223,
+  "b": 173
+ },
+ {
+  "name": "Light orchid",
+  "hex": "#E6A8D7",
+  "r": 230,
+  "g": 168,
+  "b": 215
+ },
+ {
+  "name": "Light pastel purple",
+  "hex": "#B19CD9",
+  "r": 177,
+  "g": 156,
+  "b": 217
+ },
+ {
+  "name": "Light pink",
+  "hex": "#FFB6C1",
+  "r": 255,
+  "g": 182,
+  "b": 193
+ },
+ {
+  "name": "Light red ochre",
+  "hex": "#E97451",
+  "r": 233,
+  "g": 116,
+  "b": 81
+ },
+ {
+  "name": "Light salmon",
+  "hex": "#FFA07A",
+  "r": 255,
+  "g": 160,
+  "b": 122
+ },
+ {
+  "name": "Light salmon pink",
+  "hex": "#FF9999",
+  "r": 255,
+  "g": 153,
+  "b": 153
+ },
+ {
+  "name": "Light sea green",
+  "hex": "#20B2AA",
+  "r": 32,
+  "g": 178,
+  "b": 170
+ },
+ {
+  "name": "Light sky blue",
+  "hex": "#87CEFA",
+  "r": 135,
+  "g": 206,
+  "b": 250
+ },
+ {
+  "name": "Light slate gray",
+  "hex": "#778899",
+  "r": 119,
+  "g": 136,
+  "b": 153
+ },
+ {
+  "name": "Light steel blue",
+  "hex": "#B0C4DE",
+  "r": 176,
+  "g": 196,
+  "b": 222
+ },
+ {
+  "name": "Light taupe",
+  "hex": "#B38B6D",
+  "r": 179,
+  "g": 139,
+  "b": 109
+ },
+ {
+  "name": "Light Thulian pink",
+  "hex": "#E68FAC",
+  "r": 230,
+  "g": 143,
+  "b": 172
+ },
+ {
+  "name": "Light yellow",
+  "hex": "#FFFFE0",
+  "r": 255,
+  "g": 255,
+  "b": 224
+ },
+ {
+  "name": "Lilac",
+  "hex": "#C8A2C8",
+  "r": 200,
+  "g": 162,
+  "b": 200
+ },
+ {
+  "name": "Lilac Luster",
+  "hex": "#AE98AA",
+  "r": 174,
+  "g": 152,
+  "b": 170
+ },
+ {
+  "name": "Lime (color wheel)",
+  "hex": "#BFFF00",
+  "r": 191,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Lime",
+  "hex": "#00FF00",
+  "r": 0,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Lime green",
+  "hex": "#32CD32",
+  "r": 50,
+  "g": 205,
+  "b": 50
+ },
+ {
+  "name": "Limerick",
+  "hex": "#9DC209",
+  "r": 157,
+  "g": 194,
+  "b": 9
+ },
+ {
+  "name": "Lincoln green",
+  "hex": "#195905",
+  "r": 25,
+  "g": 89,
+  "b": 5
+ },
+ {
+  "name": "Linen",
+  "hex": "#FAF0E6",
+  "r": 250,
+  "g": 240,
+  "b": 230
+ },
+ {
+  "name": "Loeen(lopen)look\/vomit+indogo+Lopen+Gabriel",
+  "hex": "#15F2FD",
+  "r": 123,
+  "g": 154,
+  "b": 200
+ },
+ {
+  "name": "Liseran Purple",
+  "hex": "#DE6FA1",
+  "r": 222,
+  "g": 111,
+  "b": 161
+ },
+ {
+  "name": "Little boy blue",
+  "hex": "#6CA0DC",
+  "r": 108,
+  "g": 160,
+  "b": 220
+ },
+ {
+  "name": "Liver",
+  "hex": "#674C47",
+  "r": 103,
+  "g": 76,
+  "b": 71
+ },
+ {
+  "name": "Liver (dogs)",
+  "hex": "#B86D29",
+  "r": 184,
+  "g": 109,
+  "b": 41
+ },
+ {
+  "name": "Liver (organ)",
+  "hex": "#6C2E1F",
+  "r": 108,
+  "g": 46,
+  "b": 31
+ },
+ {
+  "name": "Liver chestnut",
+  "hex": "#987456",
+  "r": 152,
+  "g": 116,
+  "b": 86
+ },
+ {
+  "name": "Livid",
+  "hex": "#6699CC",
+  "r": 102,
+  "g": 153,
+  "b": 204
+ },
+ {
+  "name": "Lumber",
+  "hex": "#FFE4CD",
+  "r": 255,
+  "g": 228,
+  "b": 205
+ },
+ {
+  "name": "Lust",
+  "hex": "#E62020",
+  "r": 230,
+  "g": 32,
+  "b": 32
+ },
+ {
+  "name": "Maastricht Blue",
+  "hex": "#001C3D",
+  "r": 0,
+  "g": 28,
+  "b": 61
+ },
+ {
+  "name": "Macaroni and Cheese",
+  "hex": "#FFBD88",
+  "r": 255,
+  "g": 189,
+  "b": 136
+ },
+ {
+  "name": "Madder Lake",
+  "hex": "#CC3336",
+  "r": 204,
+  "g": 51,
+  "b": 54
+ },
+ {
+  "name": "Magenta",
+  "hex": "#FF00FF",
+  "r": 255,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Magenta (Crayola)",
+  "hex": "#FF55A3",
+  "r": 255,
+  "g": 85,
+  "b": 163
+ },
+ {
+  "name": "Magenta (dye)",
+  "hex": "#CA1F7B",
+  "r": 202,
+  "g": 31,
+  "b": 123
+ },
+ {
+  "name": "Magenta (Pantone)",
+  "hex": "#D0417E",
+  "r": 208,
+  "g": 65,
+  "b": 126
+ },
+ {
+  "name": "Magenta (process)",
+  "hex": "#FF0090",
+  "r": 255,
+  "g": 0,
+  "b": 144
+ },
+ {
+  "name": "Magenta haze",
+  "hex": "#9F4576",
+  "r": 159,
+  "g": 69,
+  "b": 118
+ },
+ {
+  "name": "Magenta-pink",
+  "hex": "#CC338B",
+  "r": 204,
+  "g": 51,
+  "b": 139
+ },
+ {
+  "name": "Magic mint",
+  "hex": "#AAF0D1",
+  "r": 170,
+  "g": 240,
+  "b": 209
+ },
+ {
+  "name": "Magic Potion",
+  "hex": "#FF4466",
+  "r": 255,
+  "g": 68,
+  "b": 102
+ },
+ {
+  "name": "Magnolia",
+  "hex": "#F8F4FF",
+  "r": 248,
+  "g": 244,
+  "b": 255
+ },
+ {
+  "name": "Mahogany",
+  "hex": "#C04000",
+  "r": 192,
+  "g": 64,
+  "b": 0
+ },
+ {
+  "name": "Maize",
+  "hex": "#FBEC5D",
+  "r": 251,
+  "g": 236,
+  "b": 93
+ },
+ {
+  "name": "Majorelle Blue",
+  "hex": "#6050DC",
+  "r": 96,
+  "g": 80,
+  "b": 220
+ },
+ {
+  "name": "Malachite",
+  "hex": "#0BDA51",
+  "r": 11,
+  "g": 218,
+  "b": 81
+ },
+ {
+  "name": "Manatee",
+  "hex": "#979AAA",
+  "r": 151,
+  "g": 154,
+  "b": 170
+ },
+ {
+  "name": "Mandarin",
+  "hex": "#F37A48",
+  "r": 243,
+  "g": 122,
+  "b": 72
+ },
+ {
+  "name": "Mango Tango",
+  "hex": "#FF8243",
+  "r": 255,
+  "g": 130,
+  "b": 67
+ },
+ {
+  "name": "Mantis",
+  "hex": "#74C365",
+  "r": 116,
+  "g": 195,
+  "b": 101
+ },
+ {
+  "name": "Mardi Gras",
+  "hex": "#880085",
+  "r": 136,
+  "g": 0,
+  "b": 133
+ },
+ {
+  "name": "Marigold",
+  "hex": "#EAA221",
+  "r": 234,
+  "g": 162,
+  "b": 33
+ },
+ {
+  "name": "Maroon (Crayola)",
+  "hex": "#C32148",
+  "r": 195,
+  "g": 33,
+  "b": 72
+ },
+ {
+  "name": "Maroon (HTML\/CSS)",
+  "hex": "#800000",
+  "r": 128,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Maroon (X11)",
+  "hex": "#B03060",
+  "r": 176,
+  "g": 48,
+  "b": 96
+ },
+ {
+  "name": "Mauve",
+  "hex": "#E0B0FF",
+  "r": 224,
+  "g": 176,
+  "b": 255
+ },
+ {
+  "name": "Mauve taupe",
+  "hex": "#915F6D",
+  "r": 145,
+  "g": 95,
+  "b": 109
+ },
+ {
+  "name": "Mauvelous",
+  "hex": "#EF98AA",
+  "r": 239,
+  "g": 152,
+  "b": 170
+ },
+ {
+  "name": "Maximum Blue",
+  "hex": "#47ABCC",
+  "r": 71,
+  "g": 171,
+  "b": 204
+ },
+ {
+  "name": "Maximum Blue Green",
+  "hex": "#30BFBF",
+  "r": 48,
+  "g": 191,
+  "b": 191
+ },
+ {
+  "name": "Maximum Blue Purple",
+  "hex": "#ACACE6",
+  "r": 172,
+  "g": 172,
+  "b": 230
+ },
+ {
+  "name": "Maximum Green",
+  "hex": "#5E8C31",
+  "r": 94,
+  "g": 140,
+  "b": 49
+ },
+ {
+  "name": "Maximum Green Yellow",
+  "hex": "#D9E650",
+  "r": 217,
+  "g": 230,
+  "b": 80
+ },
+ {
+  "name": "Maximum Purple",
+  "hex": "#733380",
+  "r": 115,
+  "g": 51,
+  "b": 128
+ },
+ {
+  "name": "Maximum Red",
+  "hex": "#D92121",
+  "r": 217,
+  "g": 33,
+  "b": 33
+ },
+ {
+  "name": "Maximum Red Purple",
+  "hex": "#A63A79",
+  "r": 166,
+  "g": 58,
+  "b": 121
+ },
+ {
+  "name": "Maximum Yellow",
+  "hex": "#FAFA37",
+  "r": 250,
+  "g": 250,
+  "b": 55
+ },
+ {
+  "name": "Maximum Yellow Red",
+  "hex": "#F2BA49",
+  "r": 242,
+  "g": 186,
+  "b": 73
+ },
+ {
+  "name": "May green",
+  "hex": "#4C9141",
+  "r": 76,
+  "g": 145,
+  "b": 65
+ },
+ {
+  "name": "Maya blue",
+  "hex": "#73C2FB",
+  "r": 115,
+  "g": 194,
+  "b": 251
+ },
+ {
+  "name": "Meat brown",
+  "hex": "#E5B73B",
+  "r": 229,
+  "g": 183,
+  "b": 59
+ },
+ {
+  "name": "Medium aquamarine",
+  "hex": "#66DDAA",
+  "r": 102,
+  "g": 221,
+  "b": 170
+ },
+ {
+  "name": "Medium blue",
+  "hex": "#0000CD",
+  "r": 0,
+  "g": 0,
+  "b": 205
+ },
+ {
+  "name": "Medium candy apple red",
+  "hex": "#E2062C",
+  "r": 226,
+  "g": 6,
+  "b": 44
+ },
+ {
+  "name": "Medium carmine",
+  "hex": "#AF4035",
+  "r": 175,
+  "g": 64,
+  "b": 53
+ },
+ {
+  "name": "Medium champagne",
+  "hex": "#F3E5AB",
+  "r": 243,
+  "g": 229,
+  "b": 171
+ },
+ {
+  "name": "Medium electric blue",
+  "hex": "#035096",
+  "r": 3,
+  "g": 80,
+  "b": 150
+ },
+ {
+  "name": "Medium jungle green",
+  "hex": "#1C352D",
+  "r": 28,
+  "g": 53,
+  "b": 45
+ },
+ {
+  "name": "Medium lavender magenta",
+  "hex": "#DDA0DD",
+  "r": 221,
+  "g": 160,
+  "b": 221
+ },
+ {
+  "name": "Medium orchid",
+  "hex": "#BA55D3",
+  "r": 186,
+  "g": 85,
+  "b": 211
+ },
+ {
+  "name": "Medium Persian blue",
+  "hex": "#0067A5",
+  "r": 0,
+  "g": 103,
+  "b": 165
+ },
+ {
+  "name": "Medium purple",
+  "hex": "#9370DB",
+  "r": 147,
+  "g": 112,
+  "b": 219
+ },
+ {
+  "name": "Medium red-violet",
+  "hex": "#BB3385",
+  "r": 187,
+  "g": 51,
+  "b": 133
+ },
+ {
+  "name": "Medium ruby",
+  "hex": "#AA4069",
+  "r": 170,
+  "g": 64,
+  "b": 105
+ },
+ {
+  "name": "Medium sea green",
+  "hex": "#3CB371",
+  "r": 60,
+  "g": 179,
+  "b": 113
+ },
+ {
+  "name": "Medium sky blue",
+  "hex": "#80DAEB",
+  "r": 128,
+  "g": 218,
+  "b": 235
+ },
+ {
+  "name": "Medium slate blue",
+  "hex": "#7B68EE",
+  "r": 123,
+  "g": 104,
+  "b": 238
+ },
+ {
+  "name": "Medium spring bud",
+  "hex": "#C9DC87",
+  "r": 201,
+  "g": 220,
+  "b": 135
+ },
+ {
+  "name": "Medium spring green",
+  "hex": "#00FA9A",
+  "r": 0,
+  "g": 250,
+  "b": 154
+ },
+ {
+  "name": "Medium taupe",
+  "hex": "#674C47",
+  "r": 103,
+  "g": 76,
+  "b": 71
+ },
+ {
+  "name": "Medium turquoise",
+  "hex": "#48D1CC",
+  "r": 72,
+  "g": 209,
+  "b": 204
+ },
+ {
+  "name": "Medium Tuscan red",
+  "hex": "#79443B",
+  "r": 121,
+  "g": 68,
+  "b": 59
+ },
+ {
+  "name": "Medium vermilion",
+  "hex": "#D9603B",
+  "r": 217,
+  "g": 96,
+  "b": 59
+ },
+ {
+  "name": "Medium violet-red",
+  "hex": "#C71585",
+  "r": 199,
+  "g": 21,
+  "b": 133
+ },
+ {
+  "name": "Mellow apricot",
+  "hex": "#F8B878",
+  "r": 248,
+  "g": 184,
+  "b": 120
+ },
+ {
+  "name": "Mellow yellow",
+  "hex": "#F8DE7E",
+  "r": 248,
+  "g": 222,
+  "b": 126
+ },
+ {
+  "name": "Melon",
+  "hex": "#FDBCB4",
+  "r": 253,
+  "g": 188,
+  "b": 180
+ },
+ {
+  "name": "Metallic Seaweed",
+  "hex": "#0A7E8C",
+  "r": 10,
+  "g": 126,
+  "b": 140
+ },
+ {
+  "name": "Metallic Sunburst",
+  "hex": "#9C7C38",
+  "r": 156,
+  "g": 124,
+  "b": 56
+ },
+ {
+  "name": "Mexican pink",
+  "hex": "#E4007C",
+  "r": 228,
+  "g": 0,
+  "b": 124
+ },
+ {
+  "name": "Middle Blue",
+  "hex": "#7ED4E6",
+  "r": 126,
+  "g": 212,
+  "b": 230
+ },
+ {
+  "name": "Middle Blue Green",
+  "hex": "#8DD9CC",
+  "r": 141,
+  "g": 217,
+  "b": 204
+ },
+ {
+  "name": "Middle Blue Purple",
+  "hex": "#8B72BE",
+  "r": 139,
+  "g": 114,
+  "b": 190
+ },
+ {
+  "name": "Middle Red Purple",
+  "hex": "#210837",
+  "r": 33,
+  "g": 8,
+  "b": 55
+ },
+ {
+  "name": "Middle Green",
+  "hex": "#4D8C57",
+  "r": 77,
+  "g": 140,
+  "b": 87
+ },
+ {
+  "name": "Middle Green Yellow",
+  "hex": "#ACBF60",
+  "r": 172,
+  "g": 191,
+  "b": 96
+ },
+ {
+  "name": "Middle Purple",
+  "hex": "#D982B5",
+  "r": 217,
+  "g": 130,
+  "b": 181
+ },
+ {
+  "name": "Middle Red",
+  "hex": "#E58E73",
+  "r": 229,
+  "g": 144,
+  "b": 115
+ },
+ {
+  "name": "Middle Red Purple",
+  "hex": "#A55353",
+  "r": 0,
+  "g": 83,
+  "b": 83
+ },
+ {
+  "name": "Middle Yellow",
+  "hex": "#FFEB00",
+  "r": 255,
+  "g": 235,
+  "b": 0
+ },
+ {
+  "name": "Middle Yellow Red",
+  "hex": "#ECB176",
+  "r": 166,
+  "g": 58,
+  "b": 121
+ },
+ {
+  "name": "Midnight",
+  "hex": "#702670",
+  "r": 112,
+  "g": 38,
+  "b": 112
+ },
+ {
+  "name": "Midnight blue",
+  "hex": "#191970",
+  "r": 25,
+  "g": 25,
+  "b": 112
+ },
+ {
+  "name": "Midnight green (eagle green)",
+  "hex": "#004953",
+  "r": 0,
+  "g": 73,
+  "b": 83
+ },
+ {
+  "name": "Mikado yellow",
+  "hex": "#FFC40C",
+  "r": 255,
+  "g": 196,
+  "b": 12
+ },
+ {
+  "name": "Milk",
+  "hex": "#FDFFF5",
+  "r": 253,
+  "g": 255,
+  "b": 245
+ },
+ {
+  "name": "Mimi Pink",
+  "hex": "#FFDAE9",
+  "r": 255,
+  "g": 218,
+  "b": 233
+ },
+ {
+  "name": "Mindaro",
+  "hex": "#E3F988",
+  "r": 227,
+  "g": 249,
+  "b": 136
+ },
+ {
+  "name": "Ming",
+  "hex": "#36747D",
+  "r": 54,
+  "g": 116,
+  "b": 125
+ },
+ {
+  "name": "Minion Yellow",
+  "hex": "#F5E050",
+  "r": 245,
+  "g": 220,
+  "b": 80
+ },
+ {
+  "name": "Mint",
+  "hex": "#3EB489",
+  "r": 62,
+  "g": 180,
+  "b": 137
+ },
+ {
+  "name": "Mint cream",
+  "hex": "#F5FFFA",
+  "r": 245,
+  "g": 255,
+  "b": 250
+ },
+ {
+  "name": "Mint green",
+  "hex": "#98FF98",
+  "r": 152,
+  "g": 255,
+  "b": 152
+ },
+ {
+  "name": "Misty Moss",
+  "hex": "#BBB477",
+  "r": 187,
+  "g": 180,
+  "b": 119
+ },
+ {
+  "name": "Misty rose",
+  "hex": "#FFE4E1",
+  "r": 255,
+  "g": 228,
+  "b": 225
+ },
+ {
+  "name": "Moccasin",
+  "hex": "#FAEBD7",
+  "r": 250,
+  "g": 235,
+  "b": 215
+ },
+ {
+  "name": "Mode beige",
+  "hex": "#967117",
+  "r": 150,
+  "g": 113,
+  "b": 23
+ },
+ {
+  "name": "Moonstone blue",
+  "hex": "#73A9C2",
+  "r": 115,
+  "g": 169,
+  "b": 194
+ },
+ {
+  "name": "Mordant red 19",
+  "hex": "#AE0C00",
+  "r": 174,
+  "g": 12,
+  "b": 0
+ },
+ {
+  "name": "Moss green",
+  "hex": "#8A9A5B",
+  "r": 138,
+  "g": 154,
+  "b": 91
+ },
+ {
+  "name": "Mountain Meadow",
+  "hex": "#30BA8F",
+  "r": 48,
+  "g": 186,
+  "b": 143
+ },
+ {
+  "name": "Mountbatten pink",
+  "hex": "#997A8D",
+  "r": 153,
+  "g": 122,
+  "b": 141
+ },
+ {
+  "name": "MSU Green",
+  "hex": "#18453B",
+  "r": 24,
+  "g": 69,
+  "b": 59
+ },
+ {
+  "name": "Mughal green",
+  "hex": "#306030",
+  "r": 48,
+  "g": 96,
+  "b": 48
+ },
+ {
+  "name": "Mulberry",
+  "hex": "#C54B8C",
+  "r": 197,
+  "g": 75,
+  "b": 140
+ },
+ {
+  "name": "Mummy's Tomb",
+  "hex": "#828E84",
+  "r": 130,
+  "g": 142,
+  "b": 132
+ },
+ {
+  "name": "Mustard",
+  "hex": "#FFDB58",
+  "r": 255,
+  "g": 219,
+  "b": 88
+ },
+ {
+  "name": "Myrtle green",
+  "hex": "#317873",
+  "r": 49,
+  "g": 120,
+  "b": 115
+ },
+ {
+  "name": "Mystic",
+  "hex": "#D65282",
+  "r": 214,
+  "g": 82,
+  "b": 130
+ },
+ {
+  "name": "Mystic Maroon",
+  "hex": "#AD4379",
+  "r": 173,
+  "g": 67,
+  "b": 121
+ },
+ {
+  "name": "Nadeshiko pink",
+  "hex": "#F6ADC6",
+  "r": 246,
+  "g": 173,
+  "b": 198
+ },
+ {
+  "name": "Napier green",
+  "hex": "#2A8000",
+  "r": 42,
+  "g": 128,
+  "b": 0
+ },
+ {
+  "name": "Naples yellow",
+  "hex": "#FADA5E",
+  "r": 250,
+  "g": 218,
+  "b": 94
+ },
+ {
+  "name": "Navajo white",
+  "hex": "#FFDEAD",
+  "r": 255,
+  "g": 222,
+  "b": 173
+ },
+ {
+  "name": "Navy",
+  "hex": "#000080",
+  "r": 0,
+  "g": 0,
+  "b": 128
+ },
+ {
+  "name": "Navy purple",
+  "hex": "#9457EB",
+  "r": 148,
+  "g": 87,
+  "b": 235
+ },
+ {
+  "name": "Neon Carrot",
+  "hex": "#FFA343",
+  "r": 255,
+  "g": 163,
+  "b": 67
+ },
+ {
+  "name": "Neon fuchsia",
+  "hex": "#FE4164",
+  "r": 254,
+  "g": 65,
+  "b": 100
+ },
+ {
+  "name": "Neon green",
+  "hex": "#39FF14",
+  "r": 57,
+  "g": 255,
+  "b": 20
+ },
+ {
+  "name": "New Car",
+  "hex": "#214FC6",
+  "r": 33,
+  "g": 79,
+  "b": 198
+ },
+ {
+  "name": "New York pink",
+  "hex": "#D7837F",
+  "r": 215,
+  "g": 131,
+  "b": 127
+ },
+ {
+  "name": "Nickel",
+  "hex": "#727472",
+  "r": 114,
+  "g": 116,
+  "b": 114
+ },
+ {
+  "name": "Non-photo blue",
+  "hex": "#A4DDED",
+  "r": 164,
+  "g": 221,
+  "b": 237
+ },
+ {
+  "name": "North Texas Green",
+  "hex": "#059033",
+  "r": 5,
+  "g": 144,
+  "b": 51
+ },
+ {
+  "name": "Nyanza",
+  "hex": "#E9FFDB",
+  "r": 233,
+  "g": 255,
+  "b": 219
+ },
+ {
+  "name": "Ocean Blue",
+  "hex": "#4F42B5",
+  "r": 79,
+  "g": 66,
+  "b": 181
+ },
+ {
+  "name": "Ocean Boat Blue",
+  "hex": "#0077BE",
+  "r": 0,
+  "g": 119,
+  "b": 190
+ },
+ {
+  "name": "Ocean Green",
+  "hex": "#48BF91",
+  "r": 72,
+  "g": 191,
+  "b": 145
+ },
+ {
+  "name": "Ochre",
+  "hex": "#CC7722",
+  "r": 204,
+  "g": 119,
+  "b": 34
+ },
+ {
+  "name": "Office green",
+  "hex": "#008000",
+  "r": 0,
+  "g": 128,
+  "b": 0
+ },
+ {
+  "name": "Ogre Odor",
+  "hex": "#FD5240",
+  "r": 253,
+  "g": 82,
+  "b": 64
+ },
+ {
+  "name": "Old burgundy",
+  "hex": "#43302E",
+  "r": 67,
+  "g": 48,
+  "b": 46
+ },
+ {
+  "name": "Old gold",
+  "hex": "#CFB53B",
+  "r": 207,
+  "g": 181,
+  "b": 59
+ },
+ {
+  "name": "Old heliotrope",
+  "hex": "#563C5C",
+  "r": 86,
+  "g": 60,
+  "b": 92
+ },
+ {
+  "name": "Old lace",
+  "hex": "#FDF5E6",
+  "r": 253,
+  "g": 245,
+  "b": 230
+ },
+ {
+  "name": "Old lavender",
+  "hex": "#796878",
+  "r": 121,
+  "g": 104,
+  "b": 120
+ },
+ {
+  "name": "Old mauve",
+  "hex": "#673147",
+  "r": 103,
+  "g": 49,
+  "b": 71
+ },
+ {
+  "name": "Old moss green",
+  "hex": "#867E36",
+  "r": 134,
+  "g": 126,
+  "b": 54
+ },
+ {
+  "name": "Old rose",
+  "hex": "#C08081",
+  "r": 192,
+  "g": 128,
+  "b": 129
+ },
+ {
+  "name": "Old silver",
+  "hex": "#848482",
+  "r": 132,
+  "g": 132,
+  "b": 130
+ },
+ {
+  "name": "Olive",
+  "hex": "#808000",
+  "r": 128,
+  "g": 128,
+  "b": 0
+ },
+ {
+  "name": "Olive Drab (#3)",
+  "hex": "#6B8E23",
+  "r": 107,
+  "g": 142,
+  "b": 35
+ },
+ {
+  "name": "Olive Drab #7",
+  "hex": "#3C341F",
+  "r": 60,
+  "g": 52,
+  "b": 31
+ },
+ {
+  "name": "Olivine",
+  "hex": "#9AB973",
+  "r": 154,
+  "g": 185,
+  "b": 115
+ },
+ {
+  "name": "Onyx",
+  "hex": "#353839",
+  "r": 53,
+  "g": 56,
+  "b": 57
+ },
+ {
+  "name": "Opera mauve",
+  "hex": "#B784A7",
+  "r": 183,
+  "g": 132,
+  "b": 167
+ },
+ {
+  "name": "Orange (color wheel)",
+  "hex": "#FF7F00",
+  "r": 255,
+  "g": 127,
+  "b": 0
+ },
+ {
+  "name": "Orange (Crayola)",
+  "hex": "#FF7538",
+  "r": 255,
+  "g": 117,
+  "b": 56
+ },
+ {
+  "name": "Orange (Pantone)",
+  "hex": "#FF5800",
+  "r": 255,
+  "g": 88,
+  "b": 0
+ },
+ {
+  "name": "Orange (RYB)",
+  "hex": "#FB9902",
+  "r": 251,
+  "g": 153,
+  "b": 2
+ },
+ {
+  "name": "Orange (web)",
+  "hex": "#FFA500",
+  "r": 255,
+  "g": 165,
+  "b": 0
+ },
+ {
+  "name": "Orange peel",
+  "hex": "#FF9F00",
+  "r": 255,
+  "g": 159,
+  "b": 0
+ },
+ {
+  "name": "Orange-red",
+  "hex": "#FF4500",
+  "r": 255,
+  "g": 69,
+  "b": 0
+ },
+ {
+  "name": "Orange Soda",
+  "hex": "#FA5B3D",
+  "r": 250,
+  "g": 91,
+  "b": 61
+ },
+ {
+  "name": "Orange-yellow",
+  "hex": "#F8D568",
+  "r": 248,
+  "g": 213,
+  "b": 104
+ },
+ {
+  "name": "Orchid",
+  "hex": "#DA70D6",
+  "r": 218,
+  "g": 112,
+  "b": 214
+ },
+ {
+  "name": "Orchid pink",
+  "hex": "#F2BDCD",
+  "r": 242,
+  "g": 189,
+  "b": 205
+ },
+ {
+  "name": "Orioles orange",
+  "hex": "#FB4F14",
+  "r": 251,
+  "g": 79,
+  "b": 20
+ },
+ {
+  "name": "Otter brown",
+  "hex": "#654321",
+  "r": 101,
+  "g": 67,
+  "b": 33
+ },
+ {
+  "name": "Outer Space",
+  "hex": "#414A4C",
+  "r": 65,
+  "g": 74,
+  "b": 76
+ },
+ {
+  "name": "Outrageous Orange",
+  "hex": "#FF6E4A",
+  "r": 255,
+  "g": 110,
+  "b": 74
+ },
+ {
+  "name": "Oxford Blue",
+  "hex": "#002147",
+  "r": 0,
+  "g": 33,
+  "b": 71
+ },
+ {
+  "name": "OU Crimson Red",
+  "hex": "#990000",
+  "r": 153,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Pacific Blue",
+  "hex": "#1CA9C9",
+  "r": 28,
+  "g": 169,
+  "b": 201
+ },
+ {
+  "name": "Pakistan green",
+  "hex": "#006600",
+  "r": 0,
+  "g": 102,
+  "b": 0
+ },
+ {
+  "name": "Palatinate blue",
+  "hex": "#273BE2",
+  "r": 39,
+  "g": 59,
+  "b": 226
+ },
+ {
+  "name": "Palatinate purple",
+  "hex": "#682860",
+  "r": 104,
+  "g": 40,
+  "b": 96
+ },
+ {
+  "name": "Pale aqua",
+  "hex": "#BCD4E6",
+  "r": 188,
+  "g": 212,
+  "b": 230
+ },
+ {
+  "name": "Pale blue",
+  "hex": "#AFEEEE",
+  "r": 175,
+  "g": 238,
+  "b": 238
+ },
+ {
+  "name": "Pale brown",
+  "hex": "#987654",
+  "r": 152,
+  "g": 118,
+  "b": 84
+ },
+ {
+  "name": "Pale carmine",
+  "hex": "#AF4035",
+  "r": 175,
+  "g": 64,
+  "b": 53
+ },
+ {
+  "name": "Pale cerulean",
+  "hex": "#9BC4E2",
+  "r": 155,
+  "g": 196,
+  "b": 226
+ },
+ {
+  "name": "Pale chestnut",
+  "hex": "#DDADAF",
+  "r": 221,
+  "g": 173,
+  "b": 175
+ },
+ {
+  "name": "Pale copper",
+  "hex": "#DA8A67",
+  "r": 218,
+  "g": 138,
+  "b": 103
+ },
+ {
+  "name": "Pale cornflower blue",
+  "hex": "#ABCDEF",
+  "r": 171,
+  "g": 205,
+  "b": 239
+ },
+ {
+  "name": "Pale cyan",
+  "hex": "#87D3F8",
+  "r": 135,
+  "g": 211,
+  "b": 248
+ },
+ {
+  "name": "Pale gold",
+  "hex": "#E6BE8A",
+  "r": 230,
+  "g": 190,
+  "b": 138
+ },
+ {
+  "name": "Pale goldenrod",
+  "hex": "#EEE8AA",
+  "r": 238,
+  "g": 232,
+  "b": 170
+ },
+ {
+  "name": "Pale green",
+  "hex": "#98FB98",
+  "r": 152,
+  "g": 251,
+  "b": 152
+ },
+ {
+  "name": "Pale lavender",
+  "hex": "#DCD0FF",
+  "r": 220,
+  "g": 208,
+  "b": 255
+ },
+ {
+  "name": "Pale magenta",
+  "hex": "#F984E5",
+  "r": 249,
+  "g": 132,
+  "b": 229
+ },
+ {
+  "name": "Pale magenta-pink",
+  "hex": "#FF99CC",
+  "r": 255,
+  "g": 153,
+  "b": 204
+ },
+ {
+  "name": "Pale pink",
+  "hex": "#FADADD",
+  "r": 250,
+  "g": 218,
+  "b": 221
+ },
+ {
+  "name": "Pale plum",
+  "hex": "#DDA0DD",
+  "r": 221,
+  "g": 160,
+  "b": 221
+ },
+ {
+  "name": "Pale red-violet",
+  "hex": "#DB7093",
+  "r": 219,
+  "g": 112,
+  "b": 147
+ },
+ {
+  "name": "Pale robin egg blue",
+  "hex": "#96DED1",
+  "r": 150,
+  "g": 222,
+  "b": 209
+ },
+ {
+  "name": "Pale silver",
+  "hex": "#C9C0BB",
+  "r": 201,
+  "g": 192,
+  "b": 187
+ },
+ {
+  "name": "Pale spring bud",
+  "hex": "#ECEBBD",
+  "r": 236,
+  "g": 235,
+  "b": 189
+ },
+ {
+  "name": "Pale taupe",
+  "hex": "#BC987E",
+  "r": 188,
+  "g": 152,
+  "b": 126
+ },
+ {
+  "name": "Pale turquoise",
+  "hex": "#AFEEEE",
+  "r": 175,
+  "g": 238,
+  "b": 238
+ },
+ {
+  "name": "Pale violet",
+  "hex": "#CC99FF",
+  "r": 204,
+  "g": 153,
+  "b": 255
+ },
+ {
+  "name": "Pale violet-red",
+  "hex": "#DB7093",
+  "r": 219,
+  "g": 112,
+  "b": 147
+ },
+ {
+  "name": "Palm Leaf",
+  "hex": "#6F9940",
+  "r": 130,
+  "g": 142,
+  "b": 132
+ },
+ {
+  "name": "Pansy purple",
+  "hex": "#78184A",
+  "r": 120,
+  "g": 24,
+  "b": 74
+ },
+ {
+  "name": "Paolo Veronese green",
+  "hex": "#009B7D",
+  "r": 0,
+  "g": 155,
+  "b": 125
+ },
+ {
+  "name": "Papaya whip",
+  "hex": "#FFEFD5",
+  "r": 255,
+  "g": 239,
+  "b": 213
+ },
+ {
+  "name": "Paradise pink",
+  "hex": "#E63E62",
+  "r": 230,
+  "g": 62,
+  "b": 98
+ },
+ {
+  "name": "Paris Green",
+  "hex": "#50C878",
+  "r": 80,
+  "g": 200,
+  "b": 120
+ },
+ {
+  "name": "Parrot Pink",
+  "hex": "#D998A0",
+  "r": 217,
+  "g": 152,
+  "b": 160
+ },
+ {
+  "name": "Pastel blue",
+  "hex": "#AEC6CF",
+  "r": 174,
+  "g": 198,
+  "b": 207
+ },
+ {
+  "name": "Pastel brown",
+  "hex": "#836953",
+  "r": 130,
+  "g": 105,
+  "b": 83
+ },
+ {
+  "name": "Pastel gray",
+  "hex": "#CFCFC4",
+  "r": 207,
+  "g": 207,
+  "b": 196
+ },
+ {
+  "name": "Pastel green",
+  "hex": "#77DD77",
+  "r": 119,
+  "g": 221,
+  "b": 119
+ },
+ {
+  "name": "Pastel magenta",
+  "hex": "#F49AC2",
+  "r": 244,
+  "g": 154,
+  "b": 194
+ },
+ {
+  "name": "Pastel orange",
+  "hex": "#FFB347",
+  "r": 255,
+  "g": 179,
+  "b": 71
+ },
+ {
+  "name": "Pastel pink",
+  "hex": "#DEA5A4",
+  "r": 222,
+  "g": 165,
+  "b": 164
+ },
+ {
+  "name": "Pastel purple",
+  "hex": "#B39EB5",
+  "r": 179,
+  "g": 158,
+  "b": 181
+ },
+ {
+  "name": "Pastel red",
+  "hex": "#FF6961",
+  "r": 255,
+  "g": 105,
+  "b": 97
+ },
+ {
+  "name": "Pastel violet",
+  "hex": "#CB99C9",
+  "r": 203,
+  "g": 153,
+  "b": 201
+ },
+ {
+  "name": "Pastel yellow",
+  "hex": "#FDFD96",
+  "r": 253,
+  "g": 253,
+  "b": 150
+ },
+ {
+  "name": "Patriarch",
+  "hex": "#800080",
+  "r": 128,
+  "g": 0,
+  "b": 128
+ },
+ {
+  "name": "Payne's grey",
+  "hex": "#536878",
+  "r": 83,
+  "g": 104,
+  "b": 120
+ },
+ {
+  "name": "Peach",
+  "hex": "#FFE5B4",
+  "r": 255,
+  "g": 229,
+  "b": 180
+ },
+ {
+  "name": "Peach",
+  "hex": "#FFCBA4",
+  "r": 255,
+  "g": 203,
+  "b": 164
+ },
+ {
+  "name": "Peach-orange",
+  "hex": "#FFCC99",
+  "r": 255,
+  "g": 204,
+  "b": 153
+ },
+ {
+  "name": "Peach puff",
+  "hex": "#FFDAB9",
+  "r": 255,
+  "g": 218,
+  "b": 185
+ },
+ {
+  "name": "Peach-yellow",
+  "hex": "#FADFAD",
+  "r": 250,
+  "g": 223,
+  "b": 173
+ },
+ {
+  "name": "Pear",
+  "hex": "#D1E231",
+  "r": 209,
+  "g": 226,
+  "b": 49
+ },
+ {
+  "name": "Pearl",
+  "hex": "#EAE0C8",
+  "r": 234,
+  "g": 224,
+  "b": 200
+ },
+ {
+  "name": "Pearl Aqua",
+  "hex": "#88D8C0",
+  "r": 136,
+  "g": 216,
+  "b": 192
+ },
+ {
+  "name": "Pearly purple",
+  "hex": "#B768A2",
+  "r": 183,
+  "g": 104,
+  "b": 162
+ },
+ {
+  "name": "Peridot",
+  "hex": "#E6E200",
+  "r": 230,
+  "g": 226,
+  "b": 0
+ },
+ {
+  "name": "Periwinkle",
+  "hex": "#CCCCFF",
+  "r": 204,
+  "g": 204,
+  "b": 255
+ },
+ {
+  "name": "Permanent Geranium Lake",
+  "hex": "#E12C2C",
+  "r": 225,
+  "g": 44,
+  "b": 44
+ },
+ {
+  "name": "Persian blue",
+  "hex": "#1C39BB",
+  "r": 28,
+  "g": 57,
+  "b": 187
+ },
+ {
+  "name": "Persian green",
+  "hex": "#00A693",
+  "r": 0,
+  "g": 166,
+  "b": 147
+ },
+ {
+  "name": "Persian indigo",
+  "hex": "#32127A",
+  "r": 50,
+  "g": 18,
+  "b": 122
+ },
+ {
+  "name": "Persian orange",
+  "hex": "#D99058",
+  "r": 217,
+  "g": 144,
+  "b": 88
+ },
+ {
+  "name": "Persian pink",
+  "hex": "#F77FBE",
+  "r": 247,
+  "g": 127,
+  "b": 190
+ },
+ {
+  "name": "Persian plum",
+  "hex": "#701C1C",
+  "r": 112,
+  "g": 28,
+  "b": 28
+ },
+ {
+  "name": "Persian red",
+  "hex": "#CC3333",
+  "r": 204,
+  "g": 51,
+  "b": 51
+ },
+ {
+  "name": "Persian rose",
+  "hex": "#FE28A2",
+  "r": 254,
+  "g": 40,
+  "b": 162
+ },
+ {
+  "name": "Persimmon",
+  "hex": "#EC5800",
+  "r": 236,
+  "g": 88,
+  "b": 0
+ },
+ {
+  "name": "Peru",
+  "hex": "#CD853F",
+  "r": 205,
+  "g": 133,
+  "b": 63
+ },
+ {
+  "name": "Pewter Blue",
+  "hex": "#8BA8B7",
+  "r": 139,
+  "g": 168,
+  "b": 183
+ },
+ {
+  "name": "Phlox",
+  "hex": "#DF00FF",
+  "r": 223,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Phthalo blue",
+  "hex": "#000F89",
+  "r": 0,
+  "g": 15,
+  "b": 137
+ },
+ {
+  "name": "Phthalo green",
+  "hex": "#123524",
+  "r": 18,
+  "g": 53,
+  "b": 36
+ },
+ {
+  "name": "Picton blue",
+  "hex": "#45B1E8",
+  "r": 69,
+  "g": 177,
+  "b": 232
+ },
+ {
+  "name": "Pictorial carmine",
+  "hex": "#C30B4E",
+  "r": 195,
+  "g": 11,
+  "b": 78
+ },
+ {
+  "name": "Piggy pink",
+  "hex": "#FDDDE6",
+  "r": 253,
+  "g": 221,
+  "b": 230
+ },
+ {
+  "name": "Pine green",
+  "hex": "#01796F",
+  "r": 1,
+  "g": 121,
+  "b": 111
+ },
+ {
+  "name": "Pineapple",
+  "hex": "#563C5C",
+  "r": 86,
+  "g": 60,
+  "b": 13
+ },
+ {
+  "name": "Pink",
+  "hex": "#FFC0CB",
+  "r": 255,
+  "g": 192,
+  "b": 203
+ },
+ {
+  "name": "Pink (Pantone)",
+  "hex": "#D74894",
+  "r": 215,
+  "g": 72,
+  "b": 148
+ },
+ {
+  "name": "Pink Flamingo",
+  "hex": "#FC74FD",
+  "r": 252,
+  "g": 116,
+  "b": 253
+ },
+ {
+  "name": "Pink lace",
+  "hex": "#FFDDF4",
+  "r": 255,
+  "g": 221,
+  "b": 244
+ },
+ {
+  "name": "Pink lavender",
+  "hex": "#D8B2D1",
+  "r": 216,
+  "g": 178,
+  "b": 209
+ },
+ {
+  "name": "Pink-orange",
+  "hex": "#FF9966",
+  "r": 255,
+  "g": 153,
+  "b": 102
+ },
+ {
+  "name": "Pink pearl",
+  "hex": "#E7ACCF",
+  "r": 231,
+  "g": 172,
+  "b": 207
+ },
+ {
+  "name": "Pink raspberry",
+  "hex": "#980036",
+  "r": 152,
+  "g": 0,
+  "b": 54
+ },
+ {
+  "name": "Pink Sherbet",
+  "hex": "#F78FA7",
+  "r": 247,
+  "g": 143,
+  "b": 167
+ },
+ {
+  "name": "Pistachio",
+  "hex": "#93C572",
+  "r": 147,
+  "g": 197,
+  "b": 114
+ },
+ {
+  "name": "Pixie Powder",
+  "hex": "#391285",
+  "r": 57,
+  "g": 18,
+  "b": 133
+ },
+ {
+  "name": "Platinum",
+  "hex": "#E5E4E2",
+  "r": 229,
+  "g": 228,
+  "b": 226
+ },
+ {
+  "name": "Plum",
+  "hex": "#8E4585",
+  "r": 142,
+  "g": 69,
+  "b": 133
+ },
+ {
+  "name": "Plum (web)",
+  "hex": "#DDA0DD",
+  "r": 221,
+  "g": 160,
+  "b": 221
+ },
+ {
+  "name": "Plump Purple",
+  "hex": "#5946B2",
+  "r": 89,
+  "g": 70,
+  "b": 178
+ },
+ {
+  "name": "Polished Pine",
+  "hex": "#5DA493",
+  "r": 93,
+  "g": 164,
+  "b": 147
+ },
+ {
+  "name": "Pomp and Power",
+  "hex": "#86608E",
+  "r": 134,
+  "g": 96,
+  "b": 142
+ },
+ {
+  "name": "Popstar",
+  "hex": "#BE4F62",
+  "r": 190,
+  "g": 79,
+  "b": 98
+ },
+ {
+  "name": "Portland Orange",
+  "hex": "#FF5A36",
+  "r": 255,
+  "g": 90,
+  "b": 54
+ },
+ {
+  "name": "Powder blue",
+  "hex": "#B0E0E6",
+  "r": 176,
+  "g": 224,
+  "b": 230
+ },
+ {
+  "name": "Princess Perfume",
+  "hex": "#FF85CF",
+  "r": 255,
+  "g": 133,
+  "b": 207
+ },
+ {
+  "name": "Princeton orange",
+  "hex": "#F58025",
+  "r": 245,
+  "g": 128,
+  "b": 37
+ },
+ {
+  "name": "Prune",
+  "hex": "#701C1C",
+  "r": 112,
+  "g": 28,
+  "b": 28
+ },
+ {
+  "name": "Prussian blue",
+  "hex": "#003153",
+  "r": 0,
+  "g": 49,
+  "b": 83
+ },
+ {
+  "name": "Psychedelic purple",
+  "hex": "#DF00FF",
+  "r": 223,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Puce",
+  "hex": "#CC8899",
+  "r": 204,
+  "g": 136,
+  "b": 153
+ },
+ {
+  "name": "Puce red",
+  "hex": "#722F37",
+  "r": 114,
+  "g": 47,
+  "b": 55
+ },
+ {
+  "name": "Pullman Brown (UPS Brown)",
+  "hex": "#644117",
+  "r": 100,
+  "g": 65,
+  "b": 23
+ },
+ {
+  "name": "Pullman Green",
+  "hex": "#3B331C",
+  "r": 59,
+  "g": 51,
+  "b": 28
+ },
+ {
+  "name": "Pumpkin",
+  "hex": "#FF7518",
+  "r": 255,
+  "g": 117,
+  "b": 24
+ },
+ {
+  "name": "Purple (HTML)",
+  "hex": "#800080",
+  "r": 128,
+  "g": 0,
+  "b": 128
+ },
+ {
+  "name": "Purple (Munsell)",
+  "hex": "#9F00C5",
+  "r": 159,
+  "g": 0,
+  "b": 197
+ },
+ {
+  "name": "Purple (X11)",
+  "hex": "#A020F0",
+  "r": 160,
+  "g": 32,
+  "b": 240
+ },
+ {
+  "name": "Purple Heart",
+  "hex": "#69359C",
+  "r": 105,
+  "g": 53,
+  "b": 156
+ },
+ {
+  "name": "Purple mountain majesty",
+  "hex": "#9678B6",
+  "r": 150,
+  "g": 120,
+  "b": 182
+ },
+ {
+  "name": "Purple navy",
+  "hex": "#4E5180",
+  "r": 78,
+  "g": 81,
+  "b": 128
+ },
+ {
+  "name": "Purple pizzazz",
+  "hex": "#FE4EDA",
+  "r": 254,
+  "g": 78,
+  "b": 218
+ },
+ {
+  "name": "Purple Plum",
+  "hex": "#9C51B6",
+  "r": 156,
+  "g": 81,
+  "b": 182
+ },
+ {
+  "name": "Purple taupe",
+  "hex": "#50404D",
+  "r": 80,
+  "g": 64,
+  "b": 77
+ },
+ {
+  "name": "Purpureus",
+  "hex": "#9A4EAE",
+  "r": 154,
+  "g": 78,
+  "b": 174
+ },
+ {
+  "name": "Quartz",
+  "hex": "#51484F",
+  "r": 81,
+  "g": 72,
+  "b": 79
+ },
+ {
+  "name": "Queen blue",
+  "hex": "#436B95",
+  "r": 67,
+  "g": 107,
+  "b": 149
+ },
+ {
+  "name": "Queen pink",
+  "hex": "#E8CCD7",
+  "r": 232,
+  "g": 204,
+  "b": 215
+ },
+ {
+  "name": "Quick Silver",
+  "hex": "#A6A6A6",
+  "r": 166,
+  "g": 166,
+  "b": 166
+ },
+ {
+  "name": "Quinacridone magenta",
+  "hex": "#8E3A59",
+  "r": 142,
+  "g": 58,
+  "b": 89
+ },
+ {
+  "name": "Rackley",
+  "hex": "#5D8AA8",
+  "r": 93,
+  "g": 138,
+  "b": 168
+ },
+ {
+  "name": "Radical Red",
+  "hex": "#FF355E",
+  "r": 255,
+  "g": 53,
+  "b": 94
+ },
+ {
+  "name": "Raisin black",
+  "hex": "#242124",
+  "r": 36,
+  "g": 33,
+  "b": 36
+ },
+ {
+  "name": "Rajah",
+  "hex": "#FBAB60",
+  "r": 251,
+  "g": 171,
+  "b": 96
+ },
+ {
+  "name": "Raspberry",
+  "hex": "#E30B5D",
+  "r": 227,
+  "g": 11,
+  "b": 92
+ },
+ {
+  "name": "Raspberry glace",
+  "hex": "#915F6D",
+  "r": 145,
+  "g": 95,
+  "b": 109
+ },
+ {
+  "name": "Raspberry pink",
+  "hex": "#E25098",
+  "r": 226,
+  "g": 80,
+  "b": 152
+ },
+ {
+  "name": "Raspberry rose",
+  "hex": "#B3446C",
+  "r": 179,
+  "g": 68,
+  "b": 108
+ },
+ {
+  "name": "Raw Sienna",
+  "hex": "#D68A59",
+  "r": 214,
+  "g": 138,
+  "b": 89
+ },
+ {
+  "name": "Raw umber",
+  "hex": "#826644",
+  "r": 130,
+  "g": 102,
+  "b": 68
+ },
+ {
+  "name": "Razzle dazzle rose",
+  "hex": "#FF33CC",
+  "r": 255,
+  "g": 51,
+  "b": 204
+ },
+ {
+  "name": "Razzmatazz",
+  "hex": "#E3256B",
+  "r": 227,
+  "g": 37,
+  "b": 107
+ },
+ {
+  "name": "Razzmic Berry",
+  "hex": "#8D4E85",
+  "r": 141,
+  "g": 78,
+  "b": 133
+ },
+ {
+  "name": "Rebecca Purple",
+  "hex": "#663399",
+  "r": 102,
+  "g": 52,
+  "b": 153
+ },
+ {
+  "name": "Red",
+  "hex": "#FF0000",
+  "r": 255,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Red (Crayola)",
+  "hex": "#EE204D",
+  "r": 238,
+  "g": 32,
+  "b": 77
+ },
+ {
+  "name": "Red (Munsell)",
+  "hex": "#F2003C",
+  "r": 242,
+  "g": 0,
+  "b": 60
+ },
+ {
+  "name": "Red (NCS)",
+  "hex": "#C40233",
+  "r": 196,
+  "g": 2,
+  "b": 51
+ },
+ {
+  "name": "Red (Pantone)",
+  "hex": "#ED2939",
+  "r": 237,
+  "g": 41,
+  "b": 57
+ },
+ {
+  "name": "Red (pigment)",
+  "hex": "#ED1C24",
+  "r": 237,
+  "g": 28,
+  "b": 36
+ },
+ {
+  "name": "Red (RYB)",
+  "hex": "#FE2712",
+  "r": 254,
+  "g": 39,
+  "b": 18
+ },
+ {
+  "name": "Red-brown",
+  "hex": "#A52A2A",
+  "r": 165,
+  "g": 42,
+  "b": 42
+ },
+ {
+  "name": "Red devil",
+  "hex": "#860111",
+  "r": 134,
+  "g": 1,
+  "b": 17
+ },
+ {
+  "name": "Red-orange",
+  "hex": "#FF5349",
+  "r": 255,
+  "g": 83,
+  "b": 73
+ },
+ {
+  "name": "Red-purple",
+  "hex": "#E40078",
+  "r": 228,
+  "g": 0,
+  "b": 120
+ },
+ {
+  "name": "Red Salsa",
+  "hex": "#FD3A4A",
+  "r": 253,
+  "g": 58,
+  "b": 74
+ },
+ {
+  "name": "Red-violet",
+  "hex": "#C71585",
+  "r": 199,
+  "g": 21,
+  "b": 133
+ },
+ {
+  "name": "Redwood",
+  "hex": "#A45A52",
+  "r": 164,
+  "g": 90,
+  "b": 82
+ },
+ {
+  "name": "Regalia",
+  "hex": "#522D80",
+  "r": 82,
+  "g": 45,
+  "b": 128
+ },
+ {
+  "name": "Registration black",
+  "hex": "#000000",
+  "r": 0,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Resolution blue",
+  "hex": "#002387",
+  "r": 0,
+  "g": 35,
+  "b": 135
+ },
+ {
+  "name": "Rhythm",
+  "hex": "#777696",
+  "r": 119,
+  "g": 118,
+  "b": 150
+ },
+ {
+  "name": "Rich black",
+  "hex": "#004040",
+  "r": 0,
+  "g": 64,
+  "b": 64
+ },
+ {
+  "name": "Rich black (FOGRA29)",
+  "hex": "#010B13",
+  "r": 1,
+  "g": 11,
+  "b": 19
+ },
+ {
+  "name": "Rich black (FOGRA39)",
+  "hex": "#010203",
+  "r": 1,
+  "g": 2,
+  "b": 3
+ },
+ {
+  "name": "Rich brilliant lavender",
+  "hex": "#F1A7FE",
+  "r": 241,
+  "g": 167,
+  "b": 254
+ },
+ {
+  "name": "Rich carmine",
+  "hex": "#D70040",
+  "r": 215,
+  "g": 0,
+  "b": 64
+ },
+ {
+  "name": "Rich electric blue",
+  "hex": "#0892D0",
+  "r": 8,
+  "g": 146,
+  "b": 208
+ },
+ {
+  "name": "Rich lavender",
+  "hex": "#A76BCF",
+  "r": 167,
+  "g": 107,
+  "b": 207
+ },
+ {
+  "name": "Rich lilac",
+  "hex": "#B666D2",
+  "r": 182,
+  "g": 102,
+  "b": 210
+ },
+ {
+  "name": "Rich maroon",
+  "hex": "#B03060",
+  "r": 176,
+  "g": 48,
+  "b": 96
+ },
+ {
+  "name": "Rifle green",
+  "hex": "#444C38",
+  "r": 68,
+  "g": 76,
+  "b": 56
+ },
+ {
+  "name": "Roast coffee",
+  "hex": "#704241",
+  "r": 112,
+  "g": 66,
+  "b": 65
+ },
+ {
+  "name": "Robin egg blue",
+  "hex": "#00CCCC",
+  "r": 0,
+  "g": 204,
+  "b": 204
+ },
+ {
+  "name": "Rocket metallic",
+  "hex": "#8A7F80",
+  "r": 138,
+  "g": 127,
+  "b": 128
+ },
+ {
+  "name": "Roman silver",
+  "hex": "#838996",
+  "r": 131,
+  "g": 137,
+  "b": 150
+ },
+ {
+  "name": "Rose",
+  "hex": "#FF007F",
+  "r": 255,
+  "g": 0,
+  "b": 127
+ },
+ {
+  "name": "Rose bonbon",
+  "hex": "#F9429E",
+  "r": 249,
+  "g": 66,
+  "b": 158
+ },
+ {
+  "name": "Rose Dust",
+  "hex": "#9E5E6F",
+  "r": 158,
+  "g": 94,
+  "b": 111
+ },
+ {
+  "name": "Rose ebony",
+  "hex": "#674846",
+  "r": 103,
+  "g": 72,
+  "b": 70
+ },
+ {
+  "name": "Rose gold",
+  "hex": "#B76E79",
+  "r": 183,
+  "g": 110,
+  "b": 121
+ },
+ {
+  "name": "Rose madder",
+  "hex": "#E32636",
+  "r": 227,
+  "g": 38,
+  "b": 54
+ },
+ {
+  "name": "Rose pink",
+  "hex": "#FF66CC",
+  "r": 255,
+  "g": 102,
+  "b": 204
+ },
+ {
+  "name": "Rose quartz",
+  "hex": "#AA98A9",
+  "r": 170,
+  "g": 152,
+  "b": 169
+ },
+ {
+  "name": "Rose red",
+  "hex": "#C21E56",
+  "r": 194,
+  "g": 30,
+  "b": 86
+ },
+ {
+  "name": "Rose taupe",
+  "hex": "#905D5D",
+  "r": 144,
+  "g": 93,
+  "b": 93
+ },
+ {
+  "name": "Rose vale",
+  "hex": "#AB4E52",
+  "r": 171,
+  "g": 78,
+  "b": 82
+ },
+ {
+  "name": "Rosewood",
+  "hex": "#65000B",
+  "r": 101,
+  "g": 0,
+  "b": 11
+ },
+ {
+  "name": "Rosso corsa",
+  "hex": "#D40000",
+  "r": 212,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Rosy brown",
+  "hex": "#BC8F8F",
+  "r": 188,
+  "g": 143,
+  "b": 143
+ },
+ {
+  "name": "Royal azure",
+  "hex": "#0038A8",
+  "r": 0,
+  "g": 56,
+  "b": 168
+ },
+ {
+  "name": "Royal blue",
+  "hex": "#002366",
+  "r": 0,
+  "g": 35,
+  "b": 102
+ },
+ {
+  "name": "Royal blue",
+  "hex": "#4169E1",
+  "r": 65,
+  "g": 105,
+  "b": 225
+ },
+ {
+  "name": "Royal fuchsia",
+  "hex": "#CA2C92",
+  "r": 202,
+  "g": 44,
+  "b": 146
+ },
+ {
+  "name": "Royal purple",
+  "hex": "#7851A9",
+  "r": 120,
+  "g": 81,
+  "b": 169
+ },
+ {
+  "name": "Royal yellow",
+  "hex": "#FADA5E",
+  "r": 250,
+  "g": 218,
+  "b": 94
+ },
+ {
+  "name": "Ruber",
+  "hex": "#CE4676",
+  "r": 206,
+  "g": 70,
+  "b": 118
+ },
+ {
+  "name": "Rubine red",
+  "hex": "#D10056",
+  "r": 209,
+  "g": 0,
+  "b": 86
+ },
+ {
+  "name": "Ruby",
+  "hex": "#E0115F",
+  "r": 224,
+  "g": 17,
+  "b": 95
+ },
+ {
+  "name": "Ruby red",
+  "hex": "#9B111E",
+  "r": 155,
+  "g": 17,
+  "b": 30
+ },
+ {
+  "name": "Ruddy",
+  "hex": "#FF0028",
+  "r": 255,
+  "g": 0,
+  "b": 40
+ },
+ {
+  "name": "Ruddy brown",
+  "hex": "#BB6528",
+  "r": 187,
+  "g": 101,
+  "b": 40
+ },
+ {
+  "name": "Ruddy pink",
+  "hex": "#E18E96",
+  "r": 225,
+  "g": 142,
+  "b": 150
+ },
+ {
+  "name": "Rufous",
+  "hex": "#A81C07",
+  "r": 168,
+  "g": 28,
+  "b": 7
+ },
+ {
+  "name": "Russet",
+  "hex": "#80461B",
+  "r": 128,
+  "g": 70,
+  "b": 27
+ },
+ {
+  "name": "Russian green",
+  "hex": "#679267",
+  "r": 103,
+  "g": 146,
+  "b": 103
+ },
+ {
+  "name": "Russian violet",
+  "hex": "#32174D",
+  "r": 50,
+  "g": 23,
+  "b": 77
+ },
+ {
+  "name": "Rust",
+  "hex": "#B7410E",
+  "r": 183,
+  "g": 65,
+  "b": 14
+ },
+ {
+  "name": "Rusty red",
+  "hex": "#DA2C43",
+  "r": 218,
+  "g": 44,
+  "b": 67
+ },
+ {
+  "name": "Sacramento State green",
+  "hex": "#00563F",
+  "r": 0,
+  "g": 86,
+  "b": 63
+ },
+ {
+  "name": "Saddle brown",
+  "hex": "#8B4513",
+  "r": 139,
+  "g": 69,
+  "b": 19
+ },
+ {
+  "name": "Safety orange",
+  "hex": "#FF7800",
+  "r": 255,
+  "g": 120,
+  "b": 0
+ },
+ {
+  "name": "Safety orange (blaze orange)",
+  "hex": "#FF6700",
+  "r": 255,
+  "g": 103,
+  "b": 0
+ },
+ {
+  "name": "Safety yellow",
+  "hex": "#EED202",
+  "r": 238,
+  "g": 210,
+  "b": 2
+ },
+ {
+  "name": "Saffron",
+  "hex": "#F4C430",
+  "r": 244,
+  "g": 196,
+  "b": 48
+ },
+ {
+  "name": "Sage",
+  "hex": "#BCB88A",
+  "r": 188,
+  "g": 184,
+  "b": 138
+ },
+ {
+  "name": "St. Patrick's blue",
+  "hex": "#23297A",
+  "r": 35,
+  "g": 41,
+  "b": 122
+ },
+ {
+  "name": "Salmon",
+  "hex": "#FA8072",
+  "r": 250,
+  "g": 128,
+  "b": 114
+ },
+ {
+  "name": "Salmon pink",
+  "hex": "#FF91A4",
+  "r": 255,
+  "g": 145,
+  "b": 164
+ },
+ {
+  "name": "Sand",
+  "hex": "#C2B280",
+  "r": 194,
+  "g": 178,
+  "b": 128
+ },
+ {
+  "name": "Sand dune",
+  "hex": "#967117",
+  "r": 150,
+  "g": 113,
+  "b": 23
+ },
+ {
+  "name": "Sandstorm",
+  "hex": "#ECD540",
+  "r": 236,
+  "g": 213,
+  "b": 64
+ },
+ {
+  "name": "Sandy brown",
+  "hex": "#F4A460",
+  "r": 244,
+  "g": 164,
+  "b": 96
+ },
+ {
+  "name": "Sandy Tan",
+  "hex": "#FDD9B5",
+  "r": 253,
+  "g": 217,
+  "b": 181
+ },
+ {
+  "name": "Sandy taupe",
+  "hex": "#967117",
+  "r": 150,
+  "g": 113,
+  "b": 23
+ },
+ {
+  "name": "Sangria",
+  "hex": "#92000A",
+  "r": 146,
+  "g": 0,
+  "b": 10
+ },
+ {
+  "name": "Sap green",
+  "hex": "#507D2A",
+  "r": 80,
+  "g": 125,
+  "b": 42
+ },
+ {
+  "name": "Sapphire",
+  "hex": "#0F52BA",
+  "r": 15,
+  "g": 82,
+  "b": 186
+ },
+ {
+  "name": "Sapphire blue",
+  "hex": "#0067A5",
+  "r": 0,
+  "g": 103,
+  "b": 165
+ },
+ {
+  "name": "Sasquatch Socks",
+  "hex": "#FF4681",
+  "r": 255,
+  "g": 70,
+  "b": 129
+ },
+ {
+  "name": "Satin sheen gold",
+  "hex": "#CBA135",
+  "r": 203,
+  "g": 161,
+  "b": 53
+ },
+ {
+  "name": "Scarlet",
+  "hex": "#FF2400",
+  "r": 255,
+  "g": 36,
+  "b": 0
+ },
+ {
+  "name": "Scarlet",
+  "hex": "#FD0E35",
+  "r": 253,
+  "g": 14,
+  "b": 53
+ },
+ {
+  "name": "Schauss pink",
+  "hex": "#FF91AF",
+  "r": 255,
+  "g": 145,
+  "b": 175
+ },
+ {
+  "name": "School bus yellow",
+  "hex": "#FFD800",
+  "r": 255,
+  "g": 216,
+  "b": 0
+ },
+ {
+  "name": "Screamin' Green",
+  "hex": "#66FF66",
+  "r": 102,
+  "g": 255,
+  "b": 102
+ },
+ {
+  "name": "Sea blue",
+  "hex": "#006994",
+  "r": 0,
+  "g": 105,
+  "b": 148
+ },
+ {
+  "name": "Sea Foam Green",
+  "hex": "#9FE2BF",
+  "r": 195,
+  "g": 226,
+  "b": 191
+ },
+ {
+  "name": "Sea green",
+  "hex": "#2E8B57",
+  "r": 46,
+  "g": 139,
+  "b": 87
+ },
+ {
+  "name": "Sea Serpent",
+  "hex": "#4BC7CF",
+  "r": 75,
+  "g": 199,
+  "b": 207
+ },
+ {
+  "name": "Seal brown",
+  "hex": "#59260B",
+  "r": 50,
+  "g": 20,
+  "b": 20
+ },
+ {
+  "name": "Seashell",
+  "hex": "#FFF5EE",
+  "r": 255,
+  "g": 245,
+  "b": 238
+ },
+ {
+  "name": "Selective yellow",
+  "hex": "#FFBA00",
+  "r": 255,
+  "g": 186,
+  "b": 0
+ },
+ {
+  "name": "Sepia",
+  "hex": "#704214",
+  "r": 112,
+  "g": 66,
+  "b": 20
+ },
+ {
+  "name": "Shadow",
+  "hex": "#8A795D",
+  "r": 138,
+  "g": 121,
+  "b": 93
+ },
+ {
+  "name": "Shadow blue",
+  "hex": "#778BA5",
+  "r": 119,
+  "g": 139,
+  "b": 165
+ },
+ {
+  "name": "Shampoo",
+  "hex": "#FFCFF1",
+  "r": 255,
+  "g": 207,
+  "b": 241
+ },
+ {
+  "name": "Shamrock green",
+  "hex": "#009E60",
+  "r": 0,
+  "g": 158,
+  "b": 96
+ },
+ {
+  "name": "Sheen Green",
+  "hex": "#8FD400",
+  "r": 143,
+  "g": 212,
+  "b": 0
+ },
+ {
+  "name": "Shimmering Blush",
+  "hex": "#D98695",
+  "r": 217,
+  "g": 134,
+  "b": 149
+ },
+ {
+  "name": "Shiny Shamrock",
+  "hex": "#5FA778",
+  "r": 95,
+  "g": 167,
+  "b": 120
+ },
+ {
+  "name": "Shocking pink",
+  "hex": "#FC0FC0",
+  "r": 252,
+  "g": 15,
+  "b": 192
+ },
+ {
+  "name": "Shocking pink (Crayola)",
+  "hex": "#FF6FFF",
+  "r": 255,
+  "g": 111,
+  "b": 255
+ },
+ {
+  "name": "Sienna",
+  "hex": "#882D17",
+  "r": 136,
+  "g": 45,
+  "b": 23
+ },
+ {
+  "name": "Silver",
+  "hex": "#C0C0C0",
+  "r": 192,
+  "g": 192,
+  "b": 192
+ },
+ {
+  "name": "Silver chalice",
+  "hex": "#ACACAC",
+  "r": 172,
+  "g": 172,
+  "b": 172
+ },
+ {
+  "name": "Silver Lake blue",
+  "hex": "#5D89BA",
+  "r": 93,
+  "g": 137,
+  "b": 186
+ },
+ {
+  "name": "Silver pink",
+  "hex": "#C4AEAD",
+  "r": 196,
+  "g": 174,
+  "b": 173
+ },
+ {
+  "name": "Silver sand",
+  "hex": "#BFC1C2",
+  "r": 191,
+  "g": 193,
+  "b": 194
+ },
+ {
+  "name": "Sinopia",
+  "hex": "#CB410B",
+  "r": 203,
+  "g": 65,
+  "b": 11
+ },
+ {
+  "name": "Sizzling Red",
+  "hex": "#FF3855",
+  "r": 255,
+  "g": 56,
+  "b": 85
+ },
+ {
+  "name": "Sizzling Sunrise",
+  "hex": "#FFDB00",
+  "r": 255,
+  "g": 219,
+  "b": 0
+ },
+ {
+  "name": "Skobeloff",
+  "hex": "#007474",
+  "r": 0,
+  "g": 116,
+  "b": 116
+ },
+ {
+  "name": "Sky blue",
+  "hex": "#87CEEB",
+  "r": 135,
+  "g": 206,
+  "b": 235
+ },
+ {
+  "name": "Sky magenta",
+  "hex": "#CF71AF",
+  "r": 207,
+  "g": 113,
+  "b": 175
+ },
+ {
+  "name": "Slate blue",
+  "hex": "#6A5ACD",
+  "r": 106,
+  "g": 90,
+  "b": 205
+ },
+ {
+  "name": "Slate gray",
+  "hex": "#708090",
+  "r": 112,
+  "g": 128,
+  "b": 144
+ },
+ {
+  "name": "Smalt (Dark powder blue)",
+  "hex": "#003399",
+  "r": 0,
+  "g": 51,
+  "b": 153
+ },
+ {
+  "name": "Slimy Green",
+  "hex": "#299617",
+  "r": 41,
+  "g": 150,
+  "b": 23
+ },
+ {
+  "name": "Smashed Pumpkin",
+  "hex": "#FF6D3A",
+  "r": 255,
+  "g": 109,
+  "b": 58
+ },
+ {
+  "name": "Smitten",
+  "hex": "#C84186",
+  "r": 200,
+  "g": 65,
+  "b": 134
+ },
+ {
+  "name": "Smoke",
+  "hex": "#738276",
+  "r": 115,
+  "g": 130,
+  "b": 118
+ },
+ {
+  "name": "Smokey Topaz",
+  "hex": "#832A0D",
+  "r": 131,
+  "g": 42,
+  "b": 34
+ },
+ {
+  "name": "Smoky black",
+  "hex": "#100C08",
+  "r": 16,
+  "g": 12,
+  "b": 8
+ },
+ {
+  "name": "Smoky Topaz",
+  "hex": "#933D41",
+  "r": 147,
+  "g": 61,
+  "b": 65
+ },
+ {
+  "name": "Snow",
+  "hex": "#FFFAFA",
+  "r": 255,
+  "g": 250,
+  "b": 250
+ },
+ {
+  "name": "Soap",
+  "hex": "#CEC8EF",
+  "r": 206,
+  "g": 200,
+  "b": 239
+ },
+ {
+  "name": "Solid pink",
+  "hex": "#893843",
+  "r": 137,
+  "g": 56,
+  "b": 67
+ },
+ {
+  "name": "Sonic silver",
+  "hex": "#757575",
+  "r": 117,
+  "g": 117,
+  "b": 117
+ },
+ {
+  "name": "Spartan Crimson",
+  "hex": "#9E1316",
+  "r": 158,
+  "g": 19,
+  "b": 22
+ },
+ {
+  "name": "Space cadet",
+  "hex": "#1D2951",
+  "r": 29,
+  "g": 41,
+  "b": 81
+ },
+ {
+  "name": "Spanish bistre",
+  "hex": "#807532",
+  "r": 128,
+  "g": 117,
+  "b": 50
+ },
+ {
+  "name": "Spanish blue",
+  "hex": "#0070B8",
+  "r": 0,
+  "g": 112,
+  "b": 184
+ },
+ {
+  "name": "Spanish carmine",
+  "hex": "#D10047",
+  "r": 209,
+  "g": 0,
+  "b": 71
+ },
+ {
+  "name": "Spanish crimson",
+  "hex": "#E51A4C",
+  "r": 229,
+  "g": 26,
+  "b": 76
+ },
+ {
+  "name": "Spanish gray",
+  "hex": "#989898",
+  "r": 152,
+  "g": 152,
+  "b": 152
+ },
+ {
+  "name": "Spanish green",
+  "hex": "#009150",
+  "r": 0,
+  "g": 145,
+  "b": 80
+ },
+ {
+  "name": "Spanish orange",
+  "hex": "#E86100",
+  "r": 232,
+  "g": 97,
+  "b": 0
+ },
+ {
+  "name": "Spanish pink",
+  "hex": "#F7BFBE",
+  "r": 247,
+  "g": 191,
+  "b": 190
+ },
+ {
+  "name": "Spanish red",
+  "hex": "#E60026",
+  "r": 230,
+  "g": 0,
+  "b": 38
+ },
+ {
+  "name": "Spanish sky blue",
+  "hex": "#00FFFF",
+  "r": 0,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "Spanish violet",
+  "hex": "#4C2882",
+  "r": 76,
+  "g": 40,
+  "b": 130
+ },
+ {
+  "name": "Spanish viridian",
+  "hex": "#007F5C",
+  "r": 0,
+  "g": 127,
+  "b": 92
+ },
+ {
+  "name": "Spicy mix",
+  "hex": "#8B5f4D",
+  "r": 139,
+  "g": 95,
+  "b": 77
+ },
+ {
+  "name": "Spiro Disco Ball",
+  "hex": "#0FC0FC",
+  "r": 15,
+  "g": 192,
+  "b": 252
+ },
+ {
+  "name": "Spring bud",
+  "hex": "#A7FC00",
+  "r": 167,
+  "g": 252,
+  "b": 0
+ },
+ {
+  "name": "Spring Frost",
+  "hex": "#87FF2A",
+  "r": 135,
+  "g": 255,
+  "b": 42
+ },
+ {
+  "name": "Spring green",
+  "hex": "#00FF7F",
+  "r": 0,
+  "g": 255,
+  "b": 127
+ },
+ {
+  "name": "Star command blue",
+  "hex": "#007BB8",
+  "r": 0,
+  "g": 123,
+  "b": 184
+ },
+ {
+  "name": "Steel blue",
+  "hex": "#4682B4",
+  "r": 70,
+  "g": 130,
+  "b": 180
+ },
+ {
+  "name": "Steel pink",
+  "hex": "#CC33CC",
+  "r": 204,
+  "g": 51,
+  "b": 204
+ },
+ {
+  "name": "Steel Teal",
+  "hex": "#5F8A8B",
+  "r": 95,
+  "g": 138,
+  "b": 139
+ },
+ {
+  "name": "Stil de grain yellow",
+  "hex": "#FADA5E",
+  "r": 250,
+  "g": 218,
+  "b": 94
+ },
+ {
+  "name": "Stizza",
+  "hex": "#990000",
+  "r": 153,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Stormcloud",
+  "hex": "#4F666A",
+  "r": 79,
+  "g": 102,
+  "b": 106
+ },
+ {
+  "name": "Straw",
+  "hex": "#E4D96F",
+  "r": 228,
+  "g": 217,
+  "b": 111
+ },
+ {
+  "name": "Strawberry",
+  "hex": "#FC5A8D",
+  "r": 252,
+  "g": 90,
+  "b": 141
+ },
+ {
+  "name": "Sugar Plum",
+  "hex": "#914E75",
+  "r": 145,
+  "g": 78,
+  "b": 117
+ },
+ {
+  "name": "Sunburnt Cyclops",
+  "hex": "#FF404C",
+  "r": 255,
+  "g": 64,
+  "b": 76
+ },
+ {
+  "name": "Sunglow",
+  "hex": "#FFCC33",
+  "r": 255,
+  "g": 204,
+  "b": 51
+ },
+ {
+  "name": "Sunny",
+  "hex": "#F2F27A",
+  "r": 242,
+  "g": 242,
+  "b": 122
+ },
+ {
+  "name": "Sunray",
+  "hex": "#E3AB57",
+  "r": 227,
+  "g": 171,
+  "b": 87
+ },
+ {
+  "name": "Sunset",
+  "hex": "#FAD6A5",
+  "r": 250,
+  "g": 214,
+  "b": 165
+ },
+ {
+  "name": "Sunset orange",
+  "hex": "#FD5E53",
+  "r": 253,
+  "g": 94,
+  "b": 83
+ },
+ {
+  "name": "Super pink",
+  "hex": "#CF6BA9",
+  "r": 207,
+  "g": 107,
+  "b": 169
+ },
+ {
+  "name": "Sweet Brown",
+  "hex": "#A83731",
+  "r": 168,
+  "g": 55,
+  "b": 49
+ },
+ {
+  "name": "Tan",
+  "hex": "#D2B48C",
+  "r": 210,
+  "g": 180,
+  "b": 140
+ },
+ {
+  "name": "Tangelo",
+  "hex": "#F94D00",
+  "r": 249,
+  "g": 77,
+  "b": 0
+ },
+ {
+  "name": "Tangerine",
+  "hex": "#F28500",
+  "r": 242,
+  "g": 133,
+  "b": 0
+ },
+ {
+  "name": "Tangerine yellow",
+  "hex": "#FFCC00",
+  "r": 255,
+  "g": 204,
+  "b": 0
+ },
+ {
+  "name": "Tango pink",
+  "hex": "#E4717A",
+  "r": 228,
+  "g": 113,
+  "b": 122
+ },
+ {
+  "name": "Tart Orange",
+  "hex": "#FB4D46",
+  "r": 251,
+  "g": 77,
+  "b": 70
+ },
+ {
+  "name": "Taupe",
+  "hex": "#483C32",
+  "r": 72,
+  "g": 60,
+  "b": 50
+ },
+ {
+  "name": "Taupe gray",
+  "hex": "#8B8589",
+  "r": 139,
+  "g": 133,
+  "b": 137
+ },
+ {
+  "name": "Tea green",
+  "hex": "#D0F0C0",
+  "r": 208,
+  "g": 240,
+  "b": 192
+ },
+ {
+  "name": "Tea rose",
+  "hex": "#F88379",
+  "r": 248,
+  "g": 131,
+  "b": 121
+ },
+ {
+  "name": "Tea rose",
+  "hex": "#F4C2C2",
+  "r": 244,
+  "g": 194,
+  "b": 194
+ },
+ {
+  "name": "Teal",
+  "hex": "#008080",
+  "r": 0,
+  "g": 128,
+  "b": 128
+ },
+ {
+  "name": "Teal blue",
+  "hex": "#367588",
+  "r": 54,
+  "g": 117,
+  "b": 136
+ },
+ {
+  "name": "Teal deer",
+  "hex": "#99E6B3",
+  "r": 153,
+  "g": 230,
+  "b": 179
+ },
+ {
+  "name": "Teal green",
+  "hex": "#00827F",
+  "r": 0,
+  "g": 130,
+  "b": 127
+ },
+ {
+  "name": "Telemagenta",
+  "hex": "#CF3476",
+  "r": 207,
+  "g": 52,
+  "b": 118
+ },
+ {
+  "name": "TennÃ© (tawny)",
+  "hex": "#CD5700",
+  "r": 205,
+  "g": 87,
+  "b": 0
+ },
+ {
+  "name": "Terra cotta",
+  "hex": "#E2725B",
+  "r": 226,
+  "g": 114,
+  "b": 91
+ },
+ {
+  "name": "Thistle",
+  "hex": "#D8BFD8",
+  "r": 216,
+  "g": 191,
+  "b": 216
+ },
+ {
+  "name": "Thulian pink",
+  "hex": "#DE6FA1",
+  "r": 222,
+  "g": 111,
+  "b": 161
+ },
+ {
+  "name": "Tickle Me Pink",
+  "hex": "#FC89AC",
+  "r": 252,
+  "g": 137,
+  "b": 172
+ },
+ {
+  "name": "Tiffany Blue",
+  "hex": "#0ABAB5",
+  "r": 10,
+  "g": 186,
+  "b": 181
+ },
+ {
+  "name": "Tiger's eye",
+  "hex": "#E08D3C",
+  "r": 224,
+  "g": 141,
+  "b": 60
+ },
+ {
+  "name": "Timberwolf",
+  "hex": "#DBD7D2",
+  "r": 219,
+  "g": 215,
+  "b": 210
+ },
+ {
+  "name": "Titanium yellow",
+  "hex": "#EEE600",
+  "r": 238,
+  "g": 230,
+  "b": 0
+ },
+ {
+  "name": "Tomato",
+  "hex": "#FF6347",
+  "r": 255,
+  "g": 99,
+  "b": 71
+ },
+ {
+  "name": "Toolbox",
+  "hex": "#746CC0",
+  "r": 116,
+  "g": 108,
+  "b": 192
+ },
+ {
+  "name": "Topaz",
+  "hex": "#FFC87C",
+  "r": 255,
+  "g": 200,
+  "b": 124
+ },
+ {
+  "name": "Tractor red",
+  "hex": "#FD0E35",
+  "r": 253,
+  "g": 14,
+  "b": 53
+ },
+ {
+  "name": "Trolley Grey",
+  "hex": "#808080",
+  "r": 128,
+  "g": 128,
+  "b": 128
+ },
+ {
+  "name": "Tropical rain forest",
+  "hex": "#00755E",
+  "r": 0,
+  "g": 117,
+  "b": 94
+ },
+ {
+  "name": "Tropical violet",
+  "hex": "#CDA4DE",
+  "r": 205,
+  "g": 164,
+  "b": 222
+ },
+ {
+  "name": "True Blue",
+  "hex": "#0073CF",
+  "r": 0,
+  "g": 115,
+  "b": 207
+ },
+ {
+  "name": "Tufts Blue",
+  "hex": "#3E8EDE",
+  "r": 62,
+  "g": 142,
+  "b": 222
+ },
+ {
+  "name": "Tulip",
+  "hex": "#FF878D",
+  "r": 255,
+  "g": 135,
+  "b": 141
+ },
+ {
+  "name": "Tumbleweed",
+  "hex": "#DEAA88",
+  "r": 222,
+  "g": 170,
+  "b": 136
+ },
+ {
+  "name": "Turkish rose",
+  "hex": "#B57281",
+  "r": 181,
+  "g": 114,
+  "b": 129
+ },
+ {
+  "name": "Turquoise",
+  "hex": "#40E0D0",
+  "r": 64,
+  "g": 224,
+  "b": 208
+ },
+ {
+  "name": "Turquoise blue",
+  "hex": "#00FFEF",
+  "r": 0,
+  "g": 255,
+  "b": 239
+ },
+ {
+  "name": "Turquoise green",
+  "hex": "#A0D6B4",
+  "r": 160,
+  "g": 214,
+  "b": 180
+ },
+ {
+  "name": "Turquoise Surf",
+  "hex": "#00C5CD",
+  "r": 0,
+  "g": 197,
+  "b": 205
+ },
+ {
+  "name": "Turtle green",
+  "hex": "#8A9A5B",
+  "r": 138,
+  "g": 154,
+  "b": 91
+ },
+ {
+  "name": "Tuscan",
+  "hex": "#FAD6A5",
+  "r": 250,
+  "g": 214,
+  "b": 165
+ },
+ {
+  "name": "Tuscan brown",
+  "hex": "#6F4E37",
+  "r": 111,
+  "g": 78,
+  "b": 55
+ },
+ {
+  "name": "Tuscan red",
+  "hex": "#7C4848",
+  "r": 124,
+  "g": 72,
+  "b": 72
+ },
+ {
+  "name": "Tuscan tan",
+  "hex": "#A67B5B",
+  "r": 166,
+  "g": 123,
+  "b": 91
+ },
+ {
+  "name": "Tuscany",
+  "hex": "#C09999",
+  "r": 192,
+  "g": 153,
+  "b": 153
+ },
+ {
+  "name": "Twilight lavender",
+  "hex": "#8A496B",
+  "r": 138,
+  "g": 73,
+  "b": 107
+ },
+ {
+  "name": "Tyrian purple",
+  "hex": "#66023C",
+  "r": 102,
+  "g": 2,
+  "b": 60
+ },
+ {
+  "name": "UA blue",
+  "hex": "#0033AA",
+  "r": 0,
+  "g": 51,
+  "b": 170
+ },
+ {
+  "name": "UA red",
+  "hex": "#D9004C",
+  "r": 217,
+  "g": 0,
+  "b": 76
+ },
+ {
+  "name": "Ube",
+  "hex": "#8878C3",
+  "r": 136,
+  "g": 120,
+  "b": 195
+ },
+ {
+  "name": "UCLA Blue",
+  "hex": "#536895",
+  "r": 83,
+  "g": 104,
+  "b": 149
+ },
+ {
+  "name": "UCLA Gold",
+  "hex": "#FFB300",
+  "r": 255,
+  "g": 179,
+  "b": 0
+ },
+ {
+  "name": "UFO Green",
+  "hex": "#3CD070",
+  "r": 60,
+  "g": 208,
+  "b": 112
+ },
+ {
+  "name": "Ultramarine",
+  "hex": "#3F00FF",
+  "r": 18,
+  "g": 10,
+  "b": 143
+ },
+ {
+  "name": "Ultramarine blue",
+  "hex": "#4166F5",
+  "r": 65,
+  "g": 102,
+  "b": 245
+ },
+ {
+  "name": "Ultra pink",
+  "hex": "#FF6FFF",
+  "r": 255,
+  "g": 111,
+  "b": 255
+ },
+ {
+  "name": "Ultra red",
+  "hex": "#FC6C85",
+  "r": 252,
+  "g": 108,
+  "b": 133
+ },
+ {
+  "name": "Umber",
+  "hex": "#635147",
+  "r": 99,
+  "g": 81,
+  "b": 71
+ },
+ {
+  "name": "Unbleached silk",
+  "hex": "#FFDDCA",
+  "r": 255,
+  "g": 221,
+  "b": 202
+ },
+ {
+  "name": "United Nations blue",
+  "hex": "#5B92E5",
+  "r": 91,
+  "g": 146,
+  "b": 229
+ },
+ {
+  "name": "University of California Gold",
+  "hex": "#B78727",
+  "r": 183,
+  "g": 135,
+  "b": 39
+ },
+ {
+  "name": "Unmellow yellow",
+  "hex": "#FFFF66",
+  "r": 255,
+  "g": 255,
+  "b": 102
+ },
+ {
+  "name": "UP Forest green",
+  "hex": "#014421",
+  "r": 1,
+  "g": 68,
+  "b": 33
+ },
+ {
+  "name": "UP Maroon",
+  "hex": "#7B1113",
+  "r": 123,
+  "g": 17,
+  "b": 19
+ },
+ {
+  "name": "Upsdell red",
+  "hex": "#AE2029",
+  "r": 174,
+  "g": 32,
+  "b": 41
+ },
+ {
+  "name": "Urobilin",
+  "hex": "#E1AD21",
+  "r": 225,
+  "g": 173,
+  "b": 33
+ },
+ {
+  "name": "USAFA blue",
+  "hex": "#004F98",
+  "r": 0,
+  "g": 79,
+  "b": 152
+ },
+ {
+  "name": "USC Cardinal",
+  "hex": "#990000",
+  "r": 153,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "USC Gold",
+  "hex": "#FFCC00",
+  "r": 255,
+  "g": 204,
+  "b": 0
+ },
+ {
+  "name": "University of Tennessee Orange",
+  "hex": "#F77F00",
+  "r": 247,
+  "g": 127,
+  "b": 0
+ },
+ {
+  "name": "Utah Crimson",
+  "hex": "#D3003F",
+  "r": 211,
+  "g": 0,
+  "b": 63
+ },
+ {
+  "name": "Van Dyke Brown",
+  "hex": "#664228",
+  "r": 102,
+  "g": 66,
+  "b": 40
+ },
+ {
+  "name": "Vanilla",
+  "hex": "#F3E5AB",
+  "r": 243,
+  "g": 229,
+  "b": 171
+ },
+ {
+  "name": "Vanilla ice",
+  "hex": "#F38FA9",
+  "r": 243,
+  "g": 143,
+  "b": 169
+ },
+ {
+  "name": "Vegas gold",
+  "hex": "#C5B358",
+  "r": 197,
+  "g": 179,
+  "b": 88
+ },
+ {
+  "name": "Venetian red",
+  "hex": "#C80815",
+  "r": 200,
+  "g": 8,
+  "b": 21
+ },
+ {
+  "name": "Verdigris",
+  "hex": "#43B3AE",
+  "r": 67,
+  "g": 179,
+  "b": 174
+ },
+ {
+  "name": "Vermilion",
+  "hex": "#E34234",
+  "r": 227,
+  "g": 66,
+  "b": 52
+ },
+ {
+  "name": "Vermilion",
+  "hex": "#D9381E",
+  "r": 217,
+  "g": 56,
+  "b": 30
+ },
+ {
+  "name": "Veronica",
+  "hex": "#A020F0",
+  "r": 160,
+  "g": 32,
+  "b": 240
+ },
+ {
+  "name": "Very light azure",
+  "hex": "#74BBFB",
+  "r": 116,
+  "g": 187,
+  "b": 251
+ },
+ {
+  "name": "Very light blue",
+  "hex": "#6666FF",
+  "r": 102,
+  "g": 102,
+  "b": 255
+ },
+ {
+  "name": "Very light malachite green",
+  "hex": "#64E986",
+  "r": 100,
+  "g": 233,
+  "b": 134
+ },
+ {
+  "name": "Very light tangelo",
+  "hex": "#FFB077",
+  "r": 255,
+  "g": 176,
+  "b": 119
+ },
+ {
+  "name": "Very pale orange",
+  "hex": "#FFDFBF",
+  "r": 255,
+  "g": 223,
+  "b": 191
+ },
+ {
+  "name": "Very pale yellow",
+  "hex": "#FFFFBF",
+  "r": 255,
+  "g": 255,
+  "b": 191
+ },
+ {
+  "name": "Violet",
+  "hex": "#8F00FF",
+  "r": 143,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Violet (color wheel)",
+  "hex": "#7F00FF",
+  "r": 127,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Violet (RYB)",
+  "hex": "#8601AF",
+  "r": 134,
+  "g": 1,
+  "b": 175
+ },
+ {
+  "name": "Violet (web)",
+  "hex": "#EE82EE",
+  "r": 238,
+  "g": 130,
+  "b": 238
+ },
+ {
+  "name": "Violet-blue",
+  "hex": "#324AB2",
+  "r": 50,
+  "g": 74,
+  "b": 178
+ },
+ {
+  "name": "Violet-red",
+  "hex": "#F75394",
+  "r": 247,
+  "g": 83,
+  "b": 148
+ },
+ {
+  "name": "Viridian",
+  "hex": "#40826D",
+  "r": 64,
+  "g": 130,
+  "b": 109
+ },
+ {
+  "name": "Viridian green",
+  "hex": "#009698",
+  "r": 0,
+  "g": 150,
+  "b": 152
+ },
+ {
+  "name": "Vista blue",
+  "hex": "#7C9ED9",
+  "r": 124,
+  "g": 158,
+  "b": 217
+ },
+ {
+  "name": "Vivid amber",
+  "hex": "#CC9900",
+  "r": 204,
+  "g": 153,
+  "b": 0
+ },
+ {
+  "name": "Vivid auburn",
+  "hex": "#922724",
+  "r": 146,
+  "g": 39,
+  "b": 36
+ },
+ {
+  "name": "Vivid burgundy",
+  "hex": "#9F1D35",
+  "r": 159,
+  "g": 29,
+  "b": 53
+ },
+ {
+  "name": "Vivid cerise",
+  "hex": "#DA1D81",
+  "r": 218,
+  "g": 29,
+  "b": 129
+ },
+ {
+  "name": "Vivid cerulean",
+  "hex": "#00AAEE",
+  "r": 0,
+  "g": 170,
+  "b": 238
+ },
+ {
+  "name": "Vivid crimson",
+  "hex": "#CC0033",
+  "r": 204,
+  "g": 0,
+  "b": 51
+ },
+ {
+  "name": "Vivid gamboge",
+  "hex": "#FF9900",
+  "r": 255,
+  "g": 153,
+  "b": 0
+ },
+ {
+  "name": "Vivid lime green",
+  "hex": "#A6D608",
+  "r": 166,
+  "g": 214,
+  "b": 8
+ },
+ {
+  "name": "Vivid malachite",
+  "hex": "#00CC33",
+  "r": 0,
+  "g": 204,
+  "b": 51
+ },
+ {
+  "name": "Vivid mulberry",
+  "hex": "#B80CE3",
+  "r": 184,
+  "g": 12,
+  "b": 227
+ },
+ {
+  "name": "Vivid orange",
+  "hex": "#FF5F00",
+  "r": 255,
+  "g": 95,
+  "b": 0
+ },
+ {
+  "name": "Vivid orange peel",
+  "hex": "#FFA000",
+  "r": 255,
+  "g": 160,
+  "b": 0
+ },
+ {
+  "name": "Vivid orchid",
+  "hex": "#CC00FF",
+  "r": 204,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Vivid raspberry",
+  "hex": "#FF006C",
+  "r": 255,
+  "g": 0,
+  "b": 108
+ },
+ {
+  "name": "Vivid red",
+  "hex": "#F70D1A",
+  "r": 247,
+  "g": 13,
+  "b": 26
+ },
+ {
+  "name": "Vivid red-tangelo",
+  "hex": "#DF6124",
+  "r": 223,
+  "g": 97,
+  "b": 36
+ },
+ {
+  "name": "Vivid sky blue",
+  "hex": "#00CCFF",
+  "r": 0,
+  "g": 204,
+  "b": 255
+ },
+ {
+  "name": "Vivid tangelo",
+  "hex": "#F07427",
+  "r": 240,
+  "g": 116,
+  "b": 39
+ },
+ {
+  "name": "Vivid tangerine",
+  "hex": "#FFA089",
+  "r": 255,
+  "g": 160,
+  "b": 137
+ },
+ {
+  "name": "Vivid vermilion",
+  "hex": "#E56024",
+  "r": 229,
+  "g": 96,
+  "b": 36
+ },
+ {
+  "name": "Vivid violet",
+  "hex": "#9F00FF",
+  "r": 159,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Vivid yellow",
+  "hex": "#FFE302",
+  "r": 255,
+  "g": 227,
+  "b": 2
+ },
+ {
+  "name": "Volt",
+  "hex": "#CEFF00",
+  "r": 205,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Wageningen Green",
+  "hex": "#34B233",
+  "r": 52,
+  "g": 178,
+  "b": 51
+ },
+ {
+  "name": "Warm black",
+  "hex": "#004242",
+  "r": 0,
+  "g": 66,
+  "b": 66
+ },
+ {
+  "name": "Waterspout",
+  "hex": "#A4F4F9",
+  "r": 164,
+  "g": 244,
+  "b": 249
+ },
+ {
+  "name": "Weldon Blue",
+  "hex": "#7C98AB",
+  "r": 124,
+  "g": 152,
+  "b": 171
+ },
+ {
+  "name": "Wenge",
+  "hex": "#645452",
+  "r": 100,
+  "g": 84,
+  "b": 82
+ },
+ {
+  "name": "Wheat",
+  "hex": "#F5DEB3",
+  "r": 245,
+  "g": 222,
+  "b": 179
+ },
+ {
+  "name": "White",
+  "hex": "#FFFFFF",
+  "r": 255,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "White smoke",
+  "hex": "#F5F5F5",
+  "r": 245,
+  "g": 245,
+  "b": 245
+ },
+ {
+  "name": "Wild blue yonder",
+  "hex": "#A2ADD0",
+  "r": 162,
+  "g": 173,
+  "b": 208
+ },
+ {
+  "name": "Wild orchid",
+  "hex": "#D470A2",
+  "r": 212,
+  "g": 112,
+  "b": 162
+ },
+ {
+  "name": "Wild Strawberry",
+  "hex": "#FF43A4",
+  "r": 255,
+  "g": 67,
+  "b": 164
+ },
+ {
+  "name": "Wild watermelon",
+  "hex": "#FC6C85",
+  "r": 252,
+  "g": 108,
+  "b": 133
+ },
+ {
+  "name": "Willpower orange",
+  "hex": "#FD5800",
+  "r": 253,
+  "g": 88,
+  "b": 0
+ },
+ {
+  "name": "Windsor tan",
+  "hex": "#A75502",
+  "r": 167,
+  "g": 85,
+  "b": 2
+ },
+ {
+  "name": "Wine",
+  "hex": "#722F37",
+  "r": 114,
+  "g": 47,
+  "b": 55
+ },
+ {
+  "name": "Wine dregs",
+  "hex": "#673147",
+  "r": 103,
+  "g": 49,
+  "b": 71
+ },
+ {
+  "name": "Winter Sky",
+  "hex": "#FF007C",
+  "r": 255,
+  "g": 0,
+  "b": 124
+ },
+ {
+  "name": "Winter Wizard",
+  "hex": "#A0E6FF",
+  "r": 160,
+  "g": 230,
+  "b": 255
+ },
+ {
+  "name": "Wintergreen Dream",
+  "hex": "#56887D",
+  "r": 86,
+  "g": 136,
+  "b": 125
+ },
+ {
+  "name": "Wisteria",
+  "hex": "#C9A0DC",
+  "r": 201,
+  "g": 160,
+  "b": 220
+ },
+ {
+  "name": "Wood brown",
+  "hex": "#C19A6B",
+  "r": 193,
+  "g": 154,
+  "b": 107
+ },
+ {
+  "name": "Xanadu",
+  "hex": "#738678",
+  "r": 115,
+  "g": 134,
+  "b": 120
+ },
+ {
+  "name": "Yale Blue",
+  "hex": "#0F4D92",
+  "r": 15,
+  "g": 77,
+  "b": 146
+ },
+ {
+  "name": "Yankees blue",
+  "hex": "#1C2841",
+  "r": 28,
+  "g": 40,
+  "b": 65
+ },
+ {
+  "name": "Yellow",
+  "hex": "#FFFF00",
+  "r": 255,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "Yellow (Crayola)",
+  "hex": "#FCE883",
+  "r": 252,
+  "g": 232,
+  "b": 131
+ },
+ {
+  "name": "Yellow (Munsell)",
+  "hex": "#EFCC00",
+  "r": 239,
+  "g": 204,
+  "b": 0
+ },
+ {
+  "name": "Yellow (NCS)",
+  "hex": "#FFD300",
+  "r": 255,
+  "g": 211,
+  "b": 0
+ },
+ {
+  "name": "Yellow (Pantone)",
+  "hex": "#FEDF00",
+  "r": 254,
+  "g": 223,
+  "b": 0
+ },
+ {
+  "name": "Yellow (process)",
+  "hex": "#FFEF00",
+  "r": 255,
+  "g": 239,
+  "b": 0
+ },
+ {
+  "name": "Yellow (RYB)",
+  "hex": "#FEFE33",
+  "r": 254,
+  "g": 254,
+  "b": 51
+ },
+ {
+  "name": "Yellow-green",
+  "hex": "#9ACD32",
+  "r": 154,
+  "g": 205,
+  "b": 50
+ },
+ {
+  "name": "Yellow Orange",
+  "hex": "#FFAE42",
+  "r": 255,
+  "g": 174,
+  "b": 66
+ },
+ {
+  "name": "Yellow rose",
+  "hex": "#FFF000",
+  "r": 255,
+  "g": 240,
+  "b": 0
+ },
+ {
+  "name": "Yellow Sunshine",
+  "hex": "#FFF700",
+  "r": 255,
+  "g": 247,
+  "b": 0
+ },
+ {
+  "name": "Zaffre",
+  "hex": "#0014A8",
+  "r": 0,
+  "g": 20,
+  "b": 168
+ },
+ {
+  "name": "Zinnwaldite brown",
+  "hex": "#2C1608",
+  "r": 44,
+  "g": 22,
+  "b": 8
+ },
+ {
+  "name": "Zomp",
+  "hex": "#39A78E",
+  "r": 57,
+  "g": 167,
+  "b": 142
+ },
+ {
+  "name": "IndianRed",
+  "hex": "#CD5C5C",
+  "r": 205,
+  "g": 92,
+  "b": 92
+ },
+ {
+  "name": "LightCoral",
+  "hex": "#F08080",
+  "r": 240,
+  "g": 128,
+  "b": 128
+ },
+ {
+  "name": "Salmon",
+  "hex": "#FA8072",
+  "r": 250,
+  "g": 128,
+  "b": 114
+ },
+ {
+  "name": "DarkSalmon",
+  "hex": "#E9967A",
+  "r": 233,
+  "g": 150,
+  "b": 122
+ },
+ {
+  "name": "LightSalmon",
+  "hex": "#FFA07A",
+  "r": 255,
+  "g": 160,
+  "b": 122
+ },
+ {
+  "name": "Crimson",
+  "hex": "#DC143C",
+  "r": 220,
+  "g": 20,
+  "b": 60
+ },
+ {
+  "name": "Red",
+  "hex": "#FF0000",
+  "r": 255,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "FireBrick",
+  "hex": "#B22222",
+  "r": 178,
+  "g": 34,
+  "b": 34
+ },
+ {
+  "name": "DarkRed",
+  "hex": "#8B0000",
+  "r": 139,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "Pink",
+  "hex": "#FFC0CB",
+  "r": 255,
+  "g": 192,
+  "b": 203
+ },
+ {
+  "name": "LightPink",
+  "hex": "#FFB6C1",
+  "r": 255,
+  "g": 182,
+  "b": 193
+ },
+ {
+  "name": "HotPink",
+  "hex": "#FF69B4",
+  "r": 255,
+  "g": 105,
+  "b": 180
+ },
+ {
+  "name": "DeepPink",
+  "hex": "#FF1493",
+  "r": 255,
+  "g": 20,
+  "b": 147
+ },
+ {
+  "name": "MediumVioletRed",
+  "hex": "#C71585",
+  "r": 199,
+  "g": 21,
+  "b": 133
+ },
+ {
+  "name": "PaleVioletRed",
+  "hex": "#DB7093",
+  "r": 219,
+  "g": 112,
+  "b": 147
+ },
+ {
+  "name": "Coral",
+  "hex": "#FF7F50",
+  "r": 255,
+  "g": 127,
+  "b": 80
+ },
+ {
+  "name": "Tomato",
+  "hex": "#FF6347",
+  "r": 255,
+  "g": 99,
+  "b": 71
+ },
+ {
+  "name": "OrangeRed",
+  "hex": "#FF4500",
+  "r": 255,
+  "g": 69,
+  "b": 0
+ },
+ {
+  "name": "DarkOrange",
+  "hex": "#FF8C00",
+  "r": 255,
+  "g": 140,
+  "b": 0
+ },
+ {
+  "name": "Orange",
+  "hex": "#FFA500",
+  "r": 255,
+  "g": 165,
+  "b": 0
+ },
+ {
+  "name": "Gold",
+  "hex": "#FFD700",
+  "r": 255,
+  "g": 215,
+  "b": 0
+ },
+ {
+  "name": "Yellow",
+  "hex": "#FFFF00",
+  "r": 255,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "LightYellow",
+  "hex": "#FFFFE0",
+  "r": 255,
+  "g": 255,
+  "b": 224
+ },
+ {
+  "name": "LemonChiffon",
+  "hex": "#FFFACD",
+  "r": 255,
+  "g": 250,
+  "b": 205
+ },
+ {
+  "name": "LightGoldenrodYellow",
+  "hex": "#FAFAD2",
+  "r": 250,
+  "g": 250,
+  "b": 210
+ },
+ {
+  "name": "PapayaWhip",
+  "hex": "#FFEFD5",
+  "r": 255,
+  "g": 239,
+  "b": 213
+ },
+ {
+  "name": "Moccasin",
+  "hex": "#FFE4B5",
+  "r": 255,
+  "g": 228,
+  "b": 181
+ },
+ {
+  "name": "PeachPuff",
+  "hex": "#FFDAB9",
+  "r": 255,
+  "g": 218,
+  "b": 185
+ },
+ {
+  "name": "PaleGoldenrod",
+  "hex": "#EEE8AA",
+  "r": 238,
+  "g": 232,
+  "b": 170
+ },
+ {
+  "name": "Khaki",
+  "hex": "#F0E68C",
+  "r": 240,
+  "g": 230,
+  "b": 140
+ },
+ {
+  "name": "DarkKhaki",
+  "hex": "#BDB76B",
+  "r": 189,
+  "g": 183,
+  "b": 107
+ },
+ {
+  "name": "Lavender",
+  "hex": "#E6E6FA",
+  "r": 230,
+  "g": 230,
+  "b": 250
+ },
+ {
+  "name": "Thistle",
+  "hex": "#D8BFD8",
+  "r": 216,
+  "g": 191,
+  "b": 216
+ },
+ {
+  "name": "Plum",
+  "hex": "#DDA0DD",
+  "r": 221,
+  "g": 160,
+  "b": 221
+ },
+ {
+  "name": "Violet",
+  "hex": "#EE82EE",
+  "r": 238,
+  "g": 130,
+  "b": 238
+ },
+ {
+  "name": "Orchid",
+  "hex": "#DA70D6",
+  "r": 218,
+  "g": 112,
+  "b": 214
+ },
+ {
+  "name": "Fuchsia",
+  "hex": "#FF00FF",
+  "r": 255,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "Magenta",
+  "hex": "#FF00FF",
+  "r": 255,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "MediumOrchid",
+  "hex": "#BA55D3",
+  "r": 186,
+  "g": 85,
+  "b": 211
+ },
+ {
+  "name": "MediumPurple",
+  "hex": "#9370DB",
+  "r": 147,
+  "g": 112,
+  "b": 219
+ },
+ {
+  "name": "RebeccaPurple",
+  "hex": "#663399",
+  "r": 102,
+  "g": 51,
+  "b": 153
+ },
+ {
+  "name": "BlueViolet",
+  "hex": "#8A2BE2",
+  "r": 138,
+  "g": 43,
+  "b": 226
+ },
+ {
+  "name": "DarkViolet",
+  "hex": "#9400D3",
+  "r": 148,
+  "g": 0,
+  "b": 211
+ },
+ {
+  "name": "DarkOrchid",
+  "hex": "#9932CC",
+  "r": 153,
+  "g": 50,
+  "b": 204
+ },
+ {
+  "name": "DarkMagenta",
+  "hex": "#8B008B",
+  "r": 139,
+  "g": 0,
+  "b": 139
+ },
+ {
+  "name": "Purple",
+  "hex": "#800080",
+  "r": 128,
+  "g": 0,
+  "b": 128
+ },
+ {
+  "name": "Indigo",
+  "hex": "#4B0082",
+  "r": 75,
+  "g": 0,
+  "b": 130
+ },
+ {
+  "name": "SlateBlue",
+  "hex": "#6A5ACD",
+  "r": 106,
+  "g": 90,
+  "b": 205
+ },
+ {
+  "name": "DarkSlateBlue",
+  "hex": "#483D8B",
+  "r": 72,
+  "g": 61,
+  "b": 139
+ },
+ {
+  "name": "MediumSlateBlue",
+  "hex": "#7B68EE",
+  "r": 123,
+  "g": 104,
+  "b": 238
+ },
+ {
+  "name": "GreenYellow",
+  "hex": "#ADFF2F",
+  "r": 173,
+  "g": 255,
+  "b": 47
+ },
+ {
+  "name": "Chartreuse",
+  "hex": "#7FFF00",
+  "r": 127,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "LawnGreen",
+  "hex": "#7CFC00",
+  "r": 124,
+  "g": 252,
+  "b": 0
+ },
+ {
+  "name": "Lime",
+  "hex": "#00FF00",
+  "r": 0,
+  "g": 255,
+  "b": 0
+ },
+ {
+  "name": "LimeGreen",
+  "hex": "#32CD32",
+  "r": 50,
+  "g": 205,
+  "b": 50
+ },
+ {
+  "name": "PaleGreen",
+  "hex": "#98FB98",
+  "r": 152,
+  "g": 251,
+  "b": 152
+ },
+ {
+  "name": "LightGreen",
+  "hex": "#90EE90",
+  "r": 144,
+  "g": 238,
+  "b": 144
+ },
+ {
+  "name": "MediumSpringGreen",
+  "hex": "#00FA9A",
+  "r": 0,
+  "g": 250,
+  "b": 154
+ },
+ {
+  "name": "SpringGreen",
+  "hex": "#00FF7F",
+  "r": 0,
+  "g": 255,
+  "b": 127
+ },
+ {
+  "name": "MediumSeaGreen",
+  "hex": "#3CB371",
+  "r": 60,
+  "g": 179,
+  "b": 113
+ },
+ {
+  "name": "SeaGreen",
+  "hex": "#2E8B57",
+  "r": 46,
+  "g": 139,
+  "b": 87
+ },
+ {
+  "name": "ForestGreen",
+  "hex": "#228B22",
+  "r": 34,
+  "g": 139,
+  "b": 34
+ },
+ {
+  "name": "Green",
+  "hex": "#008000",
+  "r": 0,
+  "g": 128,
+  "b": 0
+ },
+ {
+  "name": "DarkGreen",
+  "hex": "#006400",
+  "r": 0,
+  "g": 100,
+  "b": 0
+ },
+ {
+  "name": "YellowGreen",
+  "hex": "#9ACD32",
+  "r": 154,
+  "g": 205,
+  "b": 50
+ },
+ {
+  "name": "OliveDrab",
+  "hex": "#6B8E23",
+  "r": 107,
+  "g": 142,
+  "b": 35
+ },
+ {
+  "name": "Olive",
+  "hex": "#808000",
+  "r": 128,
+  "g": 128,
+  "b": 0
+ },
+ {
+  "name": "DarkOliveGreen",
+  "hex": "#556B2F",
+  "r": 85,
+  "g": 107,
+  "b": 47
+ },
+ {
+  "name": "MediumAquamarine",
+  "hex": "#66CDAA",
+  "r": 102,
+  "g": 205,
+  "b": 170
+ },
+ {
+  "name": "DarkSeaGreen",
+  "hex": "#8FBC8B",
+  "r": 143,
+  "g": 188,
+  "b": 139
+ },
+ {
+  "name": "LightSeaGreen",
+  "hex": "#20B2AA",
+  "r": 32,
+  "g": 178,
+  "b": 170
+ },
+ {
+  "name": "DarkCyan",
+  "hex": "#008B8B",
+  "r": 0,
+  "g": 139,
+  "b": 139
+ },
+ {
+  "name": "Teal",
+  "hex": "#008080",
+  "r": 0,
+  "g": 128,
+  "b": 128
+ },
+ {
+  "name": "Aqua",
+  "hex": "#00FFFF",
+  "r": 0,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "Cyan",
+  "hex": "#00FFFF",
+  "r": 0,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "LightCyan",
+  "hex": "#E0FFFF",
+  "r": 224,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "PaleTurquoise",
+  "hex": "#AFEEEE",
+  "r": 175,
+  "g": 238,
+  "b": 238
+ },
+ {
+  "name": "Aquamarine",
+  "hex": "#7FFFD4",
+  "r": 127,
+  "g": 255,
+  "b": 212
+ },
+ {
+  "name": "Turquoise",
+  "hex": "#40E0D0",
+  "r": 64,
+  "g": 224,
+  "b": 208
+ },
+ {
+  "name": "MediumTurquoise",
+  "hex": "#48D1CC",
+  "r": 72,
+  "g": 209,
+  "b": 204
+ },
+ {
+  "name": "DarkTurquoise",
+  "hex": "#00CED1",
+  "r": 0,
+  "g": 206,
+  "b": 209
+ },
+ {
+  "name": "CadetBlue",
+  "hex": "#5F9EA0",
+  "r": 95,
+  "g": 158,
+  "b": 160
+ },
+ {
+  "name": "SteelBlue",
+  "hex": "#4682B4",
+  "r": 70,
+  "g": 130,
+  "b": 180
+ },
+ {
+  "name": "LightSteelBlue",
+  "hex": "#B0C4DE",
+  "r": 176,
+  "g": 196,
+  "b": 222
+ },
+ {
+  "name": "PowderBlue",
+  "hex": "#B0E0E6",
+  "r": 176,
+  "g": 224,
+  "b": 230
+ },
+ {
+  "name": "LightBlue",
+  "hex": "#ADD8E6",
+  "r": 173,
+  "g": 216,
+  "b": 230
+ },
+ {
+  "name": "SkyBlue",
+  "hex": "#87CEEB",
+  "r": 135,
+  "g": 206,
+  "b": 235
+ },
+ {
+  "name": "LightSkyBlue",
+  "hex": "#87CEFA",
+  "r": 135,
+  "g": 206,
+  "b": 250
+ },
+ {
+  "name": "DeepSkyBlue",
+  "hex": "#00BFFF",
+  "r": 0,
+  "g": 191,
+  "b": 255
+ },
+ {
+  "name": "DodgerBlue",
+  "hex": "#1E90FF",
+  "r": 30,
+  "g": 144,
+  "b": 255
+ },
+ {
+  "name": "CornflowerBlue",
+  "hex": "#6495ED",
+  "r": 100,
+  "g": 149,
+  "b": 237
+ },
+ {
+  "name": "MediumSlateBlue",
+  "hex": "#7B68EE",
+  "r": 123,
+  "g": 104,
+  "b": 238
+ },
+ {
+  "name": "RoyalBlue",
+  "hex": "#4169E1",
+  "r": 65,
+  "g": 105,
+  "b": 225
+ },
+ {
+  "name": "Blue",
+  "hex": "#0000FF",
+  "r": 0,
+  "g": 0,
+  "b": 255
+ },
+ {
+  "name": "MediumBlue",
+  "hex": "#0000CD",
+  "r": 0,
+  "g": 0,
+  "b": 205
+ },
+ {
+  "name": "DarkBlue",
+  "hex": "#00008B",
+  "r": 0,
+  "g": 0,
+  "b": 139
+ },
+ {
+  "name": "Navy",
+  "hex": "#000080",
+  "r": 0,
+  "g": 0,
+  "b": 128
+ },
+ {
+  "name": "MidnightBlue",
+  "hex": "#191970",
+  "r": 25,
+  "g": 25,
+  "b": 112
+ },
+ {
+  "name": "Cornsilk",
+  "hex": "#FFF8DC",
+  "r": 255,
+  "g": 248,
+  "b": 220
+ },
+ {
+  "name": "BlanchedAlmond",
+  "hex": "#FFEBCD",
+  "r": 255,
+  "g": 235,
+  "b": 205
+ },
+ {
+  "name": "Bisque",
+  "hex": "#FFE4C4",
+  "r": 255,
+  "g": 228,
+  "b": 196
+ },
+ {
+  "name": "NavajoWhite",
+  "hex": "#FFDEAD",
+  "r": 255,
+  "g": 222,
+  "b": 173
+ },
+ {
+  "name": "Wheat",
+  "hex": "#F5DEB3",
+  "r": 245,
+  "g": 222,
+  "b": 179
+ },
+ {
+  "name": "BurlyWood",
+  "hex": "#DEB887",
+  "r": 222,
+  "g": 184,
+  "b": 135
+ },
+ {
+  "name": "Tan",
+  "hex": "#D2B48C",
+  "r": 210,
+  "g": 180,
+  "b": 140
+ },
+ {
+  "name": "RosyBrown",
+  "hex": "#BC8F8F",
+  "r": 188,
+  "g": 143,
+  "b": 143
+ },
+ {
+  "name": "SandyBrown",
+  "hex": "#F4A460",
+  "r": 244,
+  "g": 164,
+  "b": 96
+ },
+ {
+  "name": "Goldenrod",
+  "hex": "#DAA520",
+  "r": 218,
+  "g": 165,
+  "b": 32
+ },
+ {
+  "name": "DarkGoldenrod",
+  "hex": "#B8860B",
+  "r": 184,
+  "g": 134,
+  "b": 11
+ },
+ {
+  "name": "Peru",
+  "hex": "#CD853F",
+  "r": 205,
+  "g": 133,
+  "b": 63
+ },
+ {
+  "name": "Chocolate",
+  "hex": "#D2691E",
+  "r": 210,
+  "g": 105,
+  "b": 30
+ },
+ {
+  "name": "SaddleBrown",
+  "hex": "#8B4513",
+  "r": 139,
+  "g": 69,
+  "b": 19
+ },
+ {
+  "name": "Sienna",
+  "hex": "#A0522D",
+  "r": 160,
+  "g": 82,
+  "b": 45
+ },
+ {
+  "name": "Brown",
+  "hex": "#A52A2A",
+  "r": 165,
+  "g": 42,
+  "b": 42
+ },
+ {
+  "name": "Maroon",
+  "hex": "#800000",
+  "r": 128,
+  "g": 0,
+  "b": 0
+ },
+ {
+  "name": "White",
+  "hex": "#FFFFFF",
+  "r": 255,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "Snow",
+  "hex": "#FFFAFA",
+  "r": 255,
+  "g": 250,
+  "b": 250
+ },
+ {
+  "name": "HoneyDew",
+  "hex": "#F0FFF0",
+  "r": 240,
+  "g": 255,
+  "b": 240
+ },
+ {
+  "name": "MintCream",
+  "hex": "#F5FFFA",
+  "r": 245,
+  "g": 255,
+  "b": 250
+ },
+ {
+  "name": "Azure",
+  "hex": "#F0FFFF",
+  "r": 240,
+  "g": 255,
+  "b": 255
+ },
+ {
+  "name": "AliceBlue",
+  "hex": "#F0F8FF",
+  "r": 240,
+  "g": 248,
+  "b": 255
+ },
+ {
+  "name": "GhostWhite",
+  "hex": "#F8F8FF",
+  "r": 248,
+  "g": 248,
+  "b": 255
+ },
+ {
+  "name": "WhiteSmoke",
+  "hex": "#F5F5F5",
+  "r": 245,
+  "g": 245,
+  "b": 245
+ },
+ {
+  "name": "SeaShell",
+  "hex": "#FFF5EE",
+  "r": 255,
+  "g": 245,
+  "b": 238
+ },
+ {
+  "name": "Beige",
+  "hex": "#F5F5DC",
+  "r": 245,
+  "g": 245,
+  "b": 220
+ },
+ {
+  "name": "OldLace",
+  "hex": "#FDF5E6",
+  "r": 253,
+  "g": 250,
+  "b": 230
+ },
+ {
+  "name": "FloralWhite",
+  "hex": "#FFFAF0",
+  "r": 255,
+  "g": 255,
+  "b": 240
+ },
+ {
+  "name": "Ivory",
+  "hex": "#FFFFF0",
+  "r": 255,
+  "g": 255,
+  "b": 240
+ },
+ {
+  "name": "AntiqueWhite",
+  "hex": "#FAEBD7",
+  "r": 250,
+  "g": 235,
+  "b": 215
+ },
+ {
+  "name": "Linen",
+  "hex": "#FAF0E6",
+  "r": 250,
+  "g": 240,
+  "b": 230
+ },
+ {
+  "name": "LavenderBlush",
+  "hex": "#FFF0F5",
+  "r": 255,
+  "g": 240,
+  "b": 245
+ },
+ {
+  "name": "MistyRose",
+  "hex": "#FFE4E1",
+  "r": 255,
+  "g": 228,
+  "b": 225
+ },
+ {
+  "name": "Gainsboro",
+  "hex": "#DCDCDC",
+  "r": 220,
+  "g": 220,
+  "b": 220
+ },
+ {
+  "name": "LightGray",
+  "hex": "#D3D3D3",
+  "r": 211,
+  "g": 211,
+  "b": 211
+ },
+ {
+  "name": "Silver",
+  "hex": "#C0C0C0",
+  "r": 192,
+  "g": 192,
+  "b": 192
+ },
+ {
+  "name": "DarkGray",
+  "hex": "#A9A9A9",
+  "r": 169,
+  "g": 169,
+  "b": 169
+ },
+ {
+  "name": "Gray",
+  "hex": "#808080",
+  "r": 128,
+  "g": 128,
+  "b": 128
+ },
+ {
+  "name": "DimGray",
+  "hex": "#696969",
+  "r": 105,
+  "g": 105,
+  "b": 105
+ },
+ {
+  "name": "LightSlateGray",
+  "hex": "#778899",
+  "r": 119,
+  "g": 136,
+  "b": 153
+ },
+ {
+  "name": "SlateGray",
+  "hex": "#708090",
+  "r": 112,
+  "g": 128,
+  "b": 144
+ },
+ {
+  "name": "DarkSlateGray",
+  "hex": "#2F4F4F",
+  "r": 47,
+  "g": 79,
+  "b": 79
+ }
+]

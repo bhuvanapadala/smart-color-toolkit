@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Smart Color Toolkit</title>
+
+<link rel="icon" href="favicon.png">
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<header class="topbar">
+<h1>🎨 Smart Color Toolkit</h1>
+</header>
+
+<div class="app">
+
+<!-- SIDEBAR -->
+<nav class="sidebar">
+
+<button class="tool-btn active" data-tool="nameToCode">Color Name → Code</button>
+<button class="tool-btn" data-tool="codeToColor">Code → Color</button>
+<button class="tool-btn" data-tool="colorPicker">Color Picker</button>
+<button class="tool-btn" data-tool="imageExtractor">Image Color Extractor</button>
+<button class="tool-btn" data-tool="randomColor">Random Color Generator</button>
+<button class="tool-btn" data-tool="combinations">Color Combinations</button>
+<button class="tool-btn" data-tool="gradientGenerator">Gradient Generator</button>
+<button class="tool-btn" data-tool="paletteGenerator">Palette Generator</button>
+<button class="tool-btn" data-tool="contrastChecker">Contrast Checker</button>
+<button class="tool-btn" data-tool="moodDetector">Color Mood Detector</button>
+<button class="tool-btn" data-tool="favorites">Favorites</button>
+<button class="tool-btn" data-tool="closestColor">Closest Color Name</button>
+
+</nav>
+
+
+
+<!-- MAIN CONTENT -->
+<main class="content">
+
+<!-- COLOR NAME TO CODE (DEFAULT PAGE) -->
+<section id="nameToCode" class="tool-section active">
+
+<h2>Color Name → Codes</h2>
+
+<div class="input-group">
+<input type="text" id="colorNameInput" placeholder="Enter color name (example: coral)">
+<button id="searchColorBtn">Search</button>
+</div>
+
+<div id="nameToCodeResult" class="result-box"></div>
+
+</section>
+
+
+
+<!-- CODE TO COLOR -->
+<section id="codeToColor" class="tool-section">
+
+<h2>Code → Color</h2>
+
+<div class="input-group">
+<input type="text" id="colorCodeInput" placeholder="Enter HEX or RGB code">
+<button id="searchCodeBtn">Find Color</button>
+</div>
+
+<div id="codeToColorResult" class="result-box"></div>
+
+</section>
+
+
+
+<!-- COLOR PICKER -->
+<section id="colorPicker" class="tool-section">
+
+<h2>Color Picker</h2>
+
+<div class="picker-area">
+<input type="color" id="picker">
+
+</div>
+
+<div id="pickerResult" class="result-box"></div>
+
+</section>
+
+
+
+<!-- IMAGE COLOR EXTRACTOR -->
+<section id="imageExtractor" class="tool-section">
+
+<h2>Image Color Extractor</h2>
+
+<input type="file" id="imageUpload" accept="image/*">
+
+<div class="canvas-container">
+<canvas id="imageCanvas"></canvas>
+</div>
+
+<div id="imageColors" class="palette-container"></div>
+
+</section>
+
+
+
+<!-- RANDOM COLOR GENERATOR -->
+<section id="randomColor" class="tool-section">
+
+<h2>Random Color Generator</h2>
+
+<button id="generateRandom">Generate Random Color</button>
+
+<div id="randomResult" class="result-box"></div>
+
+</section>
+
+
+
+<!-- COLOR COMBINATIONS -->
+<section id="combinations" class="tool-section">
+
+<h2>Color Combinations</h2>
+
+<div class="picker-area">
+<input type="color" id="comboColor">
+</div>
+
+<div id="comboResults" class="palette-container"></div>
+
+</section>
+
+
+
+<!-- GRADIENT GENERATOR -->
+<section id="gradientGenerator" class="tool-section">
+
+<h2>Gradient Generator</h2>
+
+<div class="gradient-controls">
+<input type="color" id="gradient1">
+<input type="color" id="gradient2">
+</div>
+
+<div id="gradientPreview" class="gradient-preview"></div>
+
+</section>
+
+
+
+<!-- PALETTE GENERATOR -->
+<section id="paletteGenerator" class="tool-section">
+
+<h2>Palette Generator</h2>
+
+<button id="generatePalette">Generate Palette</button>
+
+<div id="paletteResult" class="palette-container"></div>
+
+</section>
+
+
+
+<!-- CONTRAST CHECKER -->
+<section id="contrastChecker" class="tool-section">
+
+<h2>Contrast Checker</h2>
+
+<div class="contrast-inputs">
+<input type="color" id="contrast1">
+<input type="color" id="contrast2">
+</div>
+
+<div id="contrastResult" class="result-box"></div>
+
+</section>
+
+
+
+<!-- COLOR MOOD DETECTOR -->
+<section id="moodDetector" class="tool-section">
+
+<h2>Color Mood Detector</h2>
+
+<input type="color" id="moodColor">
+
+<div id="moodResult" class="result-box"></div>
+
+</section>
+
+
+
+<!-- FAVORITES -->
+<section id="favorites" class="tool-section">
+
+<h2>Favorite Colors</h2>
+
+<div id="favoritesList" class="palette-container"></div>
+
+</section>
+
+
+
+<!-- CLOSEST COLOR NAME -->
+<section id="closestColor" class="tool-section">
+
+<h2>Closest Color Name</h2>
+
+<input type="color" id="closestPicker">
+
+<div id="closestResult" class="result-box"></div>
+
+</section>
+
+
+
+</main>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+
+<footer class="footer">
+<p>© <span id="year"></span>2026 Smart Color Toolkit By Bhuvana Padala. All Rights Reserved.</p>
+</footer>
+
+</html>
