@@ -1,7 +1,7 @@
 /* ==============================
    LOAD COLORS DATABASE
 ================================ */
-
+document.addEventListener("DOMContentLoaded", () => {
 let colors = [];
 
 fetch("colors.json")
@@ -114,20 +114,34 @@ container.innerHTML = `
 <h3>${color.name}</h3>
 
 <p>HEX: ${color.hex}
-<button onclick="copy('${color.hex}')">Copy</button>
+ <button class="copy-btn" data-text="${color.hex}">Copy</button>
 </p>
 
 <p>RGB: rgb(${color.r},${color.g},${color.b})
-<button onclick="copy('rgb(${color.r},${color.g},${color.b})')">Copy</button>
+<button class="copy-btn" data-text="rgb(${color.r},${color.g},${color.b})">Copy</button>
 </p>
 
 <p>HSL: hsl(${hsl.h},${hsl.s}%,${hsl.l}%)
-<button onclick="copy('hsl(${hsl.h},${hsl.s}%,${hsl.l}%)')">Copy</button>
+<button class="copy-btn" data-text="hsl(${hsl.h},${hsl.s}%,${hsl.l}%)">Copy</button>
 </p>
 
-<button onclick="addFavorite('${color.hex}')">❤ Favorite</button>
+<button class="fav-btn">❤ Favorite</button>
+
 
 `;
+ container.querySelectorAll(".copy-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+            navigator.clipboard.writeText(btn.dataset.text)
+            .then(() => alert("Copied: " + btn.dataset.text))
+            .catch(() => alert("Copy failed!"));
+        });
+    });
+
+    // FAVORITE button
+    const favBtn = container.querySelector(".fav-btn");
+    favBtn.addEventListener("click", () => {
+        addFavorite(color.hex);
+    });
 
 }
 
@@ -641,3 +655,4 @@ document.getElementById("closestResult")
 });
 
 }
+});
