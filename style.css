@@ -206,3 +206,20 @@ background:#f3f5ff;
 color:#555;
 font-size:14px;
 }
+
+.color-card button{
+margin-top:5px;
+padding:4px 8px;
+border:none;
+background:black;
+color:white;
+cursor:pointer;
+border-radius:4px;
+}
+
+#imageCanvas{
+width:120px;
+height:auto;
+margin-bottom:10px;
+border-radius:6px;
+}

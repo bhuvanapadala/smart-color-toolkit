@@ -310,9 +310,7 @@ let img=new Image();
 let reader=new FileReader();
 
 reader.onload=function(event){
-
 img.src=event.target.result;
-
 };
 
 reader.readAsDataURL(file);
@@ -327,23 +325,26 @@ canvas.height=img.height;
 
 ctx.drawImage(img,0,0);
 
-let data=
-ctx.getImageData(0,0,img.width,img.height).data;
+let data=ctx.getImageData(0,0,img.width,img.height).data;
 
 let colorsFound=[];
-
-for(let i=0;i<data.length;i+=4000){
+let uniqueHex=new Set();   
+for(let i=0;i<data.length;i+=10000){
 
 let r=data[i];
 let g=data[i+1];
 let b=data[i+2];
 
-colorsFound.push(closestColor(r,g,b));
+let c=closestColor(r,g,b);
+
+if(!uniqueHex.has(c.hex)){   
+uniqueHex.add(c.hex);
+colorsFound.push(c);
+}
 
 }
 
 let container=document.getElementById("imageColors");
-
 container.innerHTML="";
 
 colorsFound.slice(0,8).forEach(c=>{
@@ -602,6 +603,19 @@ showFavorites();
 
 }
 
+function removeFavorite(hex){
+
+let fav=JSON.parse(localStorage.getItem("favorites")) || [];
+
+fav = fav.filter(color => color !== hex);
+
+localStorage.setItem("favorites", JSON.stringify(fav));
+
+showFavorites(); 
+
+}
+window.removeFavorite = removeFavorite;
+
 function showFavorites(){
 
 let fav=
@@ -618,6 +632,8 @@ container.innerHTML+=`
 
 <div class="color-card" style="background:${hex}">
 ${hex}
+<br>
+<button onclick="removeFavorite('${hex}')">Remove</button>
 </div>
 
 `;
